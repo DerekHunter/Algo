@@ -1,0 +1,2143 @@
+Index Name,Currency,TickerType,Availability,RussellTick,Bloomberg,ReutersRIC
+Russell 1000,USD,Price,Real Time,RUI,RIY,.RUI
+Russell 1000 - RGS Sub - Auto & Auto Parts,USD,Price,End of day,RUIAUP,,.RUIAUP
+Russell 1000 - RGS Sub - Banks,USD,Price,End of day,RUIBK,,.RUIBK
+Russell 1000 - RGS Sub - Building Materials & Services,USD,Price,End of day,RUIBMS,,.RUIBMS
+Russell 1000 - RGS Sub - Chemicals and Synthetics,USD,Price,End of day,RUICHEM,,.RUICHEM
+Russell 1000 - RGS Sub - Commercial Services,USD,Price,End of day,RUICOMMS,,.RUICOMMS
+Russell 1000 - RGS Sub - Consumer Finance & Credit Services,USD,Price,End of day,RUICOMFI,,.RUICOMFI
+Russell 1000 - RGS Sub - Consumer Products,USD,Price,End of day,RUICOMPR,,.RUICOMPR
+Russell 1000 - RGS Sub - Consumer Services,USD,Price,End of day,RUICOMS,,.RUICOMS
+Russell 1000 - RGS Sub - Electronics,USD,Price,End of day,RUIELE,,.RUIELE
+Russell 1000 - RGS Sub - Energy Equipment & Services,USD,Price,End of day,RUIENEQS,,.RUIENEQS
+Russell 1000 - RGS Sub - Food Beverage & Tobacco,USD,Price,End of day,RUIFBTO,,.RUIFBTO
+Russell 1000 - RGS Sub - Health Care Services,USD,Price,End of day,RUIHCS,,.RUIHCS
+Russell 1000 - RGS Sub - Industrial Materials & Processes,USD,Price,End of day,RUIINMP,,.RUIINMP
+Russell 1000 - RGS Sub - Information Technology,USD,Price,End of day,RUIINFTEC,,.RUIINFTEC
+Russell 1000 - RGS Sub - Insurance,USD,Price,End of day,RUIINS,,.RUIINS
+Russell 1000 - RGS Sub - Investment Banking & Brokerage Services,USD,Price,End of day,RUIINBKBR,,.RUIINBKBR
+Russell 1000 - RGS Sub - Leisure,USD,Price,End of day,RUILEIS,,.RUILEIS
+Russell 1000 - RGS Sub - Machinery,USD,Price,End of day,RUIMACH,,.RUIMACH
+Russell 1000 - RGS Sub - Manufacturing & Production,USD,Price,End of day,RUIMANPR,,.RUIMANPR
+Russell 1000 - RGS Sub - Media,USD,Price,End of day,RUIMEDI,,.RUIMEDI
+Russell 1000 - RGS Sub - Medical Equipment & Services,USD,Price,End of day,RUIMEDEQS,,.RUIMEDEQS
+Russell 1000 - RGS Sub - Metals & Minerals,USD,Price,End of day,RUIMETMIN,,.RUIMETMIN
+Russell 1000 - RGS Sub - Non-Renewable Energy,USD,Price,End of day,RUINONREN,,.RUINONREN
+Russell 1000 - RGS Sub - Personal Care Drug & Grocery Stores,USD,Price,End of day,RUIPCDGS,,.RUIPCDGS
+Russell 1000 - RGS Sub - Pharmaceuticals & Biotech,USD,Price,End of day,RUIPHABIO,,.RUIPHABIO
+Russell 1000 - RGS Sub - Real Estate,USD,Price,End of day,RUIREALES,,.RUIREALES
+Russell 1000 - RGS Sub - REIT ,USD,Price,End of day,RUIREITP,,.RUIREITP
+Russell 1000 - RGS Sub - Scientific Instruments & Services,USD,Price,End of day,RUISCINSR,,.RUISCINSR
+Russell 1000 - RGS Sub - Telecommunication,USD,Price,End of day,RUITELECM,,.RUITELECM
+Russell 1000 - RGS Sub - Transportation & Freight,USD,Price,End of day,RUITRANSF,,.RUITRANSF
+Russell 1000 - RGS Sub - Utilities,USD,Price,End of day,RUIUTIL,,.RUIUTIL
+Russell 1000 Defensive Index,USD,Price,Real Time,RU1000DF,RU1000DF,.RU1000DF
+Russell 1000 Defensive Index Total Return,USD,Total,End of day,RU1000DFTR,RU1DFTR,.RU1000DFTR
+Russell 1000 Defensive Net,USD,Net,End of day,RU1DFNR,RU1DFNR,.RU1DFNR
+Russell 1000 Defensive Net EUR,EUR,Net,End of day,RU1DFNRE,RU1DFNRE,.RU1DFNRE
+Russell 1000 Dividend Growth Index,USD,Total,Real Time,R1DIVGRO,,.R1DIVGRO
+Russell 1000 Dividend Growth Index,USD,Price,Real Time,R1DIVGRP,R1DIVGRP,.R1DIVGRP
+Russell 1000 Dynamic Index,USD,Price,End of day,RU1000DY,RU100DY,.RU1000DY
+Russell 1000 Dynamic Index Total Return,USD,Total,End of day,RU1000DYTR,RU1DYTR,.RU1000DYTR
+Russell 1000 Dynamic Net,USD,Net,End of day,RU1DYNR,RU1DYNR,.RU1DYNR
+Russell 1000 Dynamic Net EUR,EUR,Net,End of day,RU1DYNRE,RU1DYNRE,.RU1DYNRE
+Russell 1000 EM GeoExposure EUR,EUR,Price,Real Time,RU1GEOEXE,,.RU1GEOEXE
+Russell 1000 EM GeoExposure Index,USD,Price,End of day,RU1GEOEX,RU1GEOEX,.RU1GEOEX
+Russell 1000 EM GeoExposure Index Net,USD,Net,End of day,RU1GEON,RU1GEON,.RU1GEON
+Russell 1000 EM GeoExposure Index Total,USD,Total,End of day,RU1GEOT,RU1GEOT,.RU1GEOT
+Russell 1000 Equal Weight Index,USD,Price,Real Time,R1ELC,RUR1ELC,.R1ELC
+Russell 1000 Equal Weight Total Return,USD,Total,End of day,R1ELCTR,RU1ELCTR,.R1ELCTR
+Russell 1000 ex Tobacco,USD,Price,Real Time,RUR1XTOB,,.RUR1XTOB
+Russell 1000 Growth,USD,Price,Real Time,RLG,RLG,.RLG
+Russell 1000 Growth 1.25x Daily Leveraged Index,USD,Total,End of day,R1GLEV125,,.R1GLEV125
+Russell 1000 Growth Index EUR,EUR,Net,End of day,,RU1GN30E,
+Russell 1000 Growth Net,USD,Net,Real Time,RLGNET,RU1GN30U,.RLGNET
+Russell 1000 Growth Price - EOD,USD,Price,End of day,R1GPREOD,,.R1GPREOD
+Russell 1000 Growth RGS Consumer Discretionary Index Price Return,USD,Price,End of day,R1GRGSCD,,.R1GRGSCD
+Russell 1000 Growth RGS Consumer Discretionary Index Total Return,USD,Total,End of day,R1GRGSCDT,,.R1GRGSCDT
+Russell 1000 Growth RGS Consumer Staples Index Price Return,USD,Price,End of day,R1GRGSCS,,.R1GRGSCS
+Russell 1000 Growth RGS Consumer Staples Index Total Return,USD,Total,End of day,R1GRGSCST,,.R1GRGSCST
+Russell 1000 Growth RGS Energy Index Price Return,USD,Price,End of day,R1GRGSENG,,.R1GRGSENG
+Russell 1000 Growth RGS Energy Index Total Return,USD,Total,End of day,R1GRGSENGT,,.R1GRGSENGT
+Russell 1000 Growth RGS Financial Services Index Price Return,USD,Price,End of day,R1GRGSFS,,.R1GRGSFS
+Russell 1000 Growth RGS Financial Services Index Total Return,USD,Total,End of day,R1GRGSFST,,.R1GRGSFST
+Russell 1000 Growth RGS Health Care Index Price Return,USD,Price,End of day,R1GRGSHC,,.R1GRGSHC
+Russell 1000 Growth RGS Health Care Index Total Return,USD,Total,End of day,R1GRGSHCT,,.R1GRGSHCT
+Russell 1000 Growth RGS Materials & Processing Index Price Return,USD,Price,End of day,R1GRGSMP,,.R1GRGSMP
+Russell 1000 Growth RGS Materials & Processing Index Total Return,USD,Total,End of day,R1GRGSMPT,,.R1GRGSMPT
+Russell 1000 Growth RGS Producer Durables Index Price Return,USD,Price,End of day,R1GRGSPD,,.R1GRGSPD
+Russell 1000 Growth RGS Producer Durables Index Total Return,USD,Total,End of day,R1GRGSPDT,,.R1GRGSPDT
+Russell 1000 Growth RGS Technology Index Price Return,USD,Price,End of day,R1GRGSTEC,,.R1GRGSTEC
+Russell 1000 Growth RGS Technology Index Total Return,USD,Total,End of day,R1GRGSTECT,,.R1GRGSTECT
+Russell 1000 Growth RGS Utilities Index Price Return,USD,Price,End of day,R1GRGSUT,,.R1GRGSUT
+Russell 1000 Growth RGS Utilities Index Total Return,USD,Total,End of day,R1GRGSUTT,,.R1GRGSUTT
+Russell 1000 Growth Total Return,USD,Total,Real Time,RLGTR,RU10GRTR,.RLGTRI
+Russell 1000 Growth-Defensive TR,USD,Total,End of day,R1GDFTR,,.R1GDFTR
+Russell 1000 Growth-Dynamic TR,USD,Total,End of day,R1GDYTR,,.R1GDYTR
+Russell 1000 High Beta,USD,Price,End of day,R1HBTA,RU1HBTA ,. R1HBTA
+Russell 1000 High Beta Total Return,USD,Total,End of day,R1HBTATR,RU1HBTAT,. R1HBTATR
+Russell 1000 High Eff Def - Low,USD,Price,End of day,RURDRL3,RURDRL3,.RURDRL3
+Russell 1000 High Eff Def - Low NR,USD,Net,End of day,RURDRL3N,RURDRL3N,.RURDRL3N
+Russell 1000 High Eff Def - Low TR,USD,Total,End of day,RURDRL3T,RURDRL3T,.RURDRL3T
+Russell 1000 High Eff Def - Mod,USD,Price,End of day,RURDRL6,RURDRL6,.RURDRL6
+Russell 1000 High Eff Def - Mod NR,USD,Net,End of day,RURDRL6N,RURDRL6N,.RURDRL6N
+Russell 1000 High Eff Def - Mod TR,USD,Total,End of day,RURDRL6T,RURDRL6T,.RURDRL6T
+Russell 1000 High Eff Low Volatility Index,USD,Price,End of day,RURHXLL,,.RURHXLL
+Russell 1000 High Eff Low Volatility Index Total Return,USD,Total,Real Time,RURHXLLT,RURHXLLT,.RURHXLLT
+Russell 1000 High Eff Momentum Index,USD,Price,End of day,RURHXLM,,.RURHXLM
+Russell 1000 High Eff Momentum Index Total Return,USD,Total,Real Time,RURHXLMT,RURHXLMT,.RURHXLMT
+Russell 1000 High Eff Quality Index,USD,Price,End of day,RURHXLQ,,.RURHXLQ
+Russell 1000 High Eff Quality Index Total Return,USD,Total,Real Time,RURHXLQT,RURHXLQT,.RURHXLQT
+Russell 1000 High Eff Value Index,USD,Price,End of day,RURHXLV,,.RURHXLV
+Russell 1000 High Eff Value Index Total Return,USD,Total,Real Time,RURHXLVT,RURHXLVT,.RURHXLVT
+Russell 1000 High Momentum,USD,Price,End of day,R1HMTM,RU1HMTM ,. R1HMTM
+Russell 1000 High Momentum Total Return,USD,Total,End of day,R1HMTMTR,RU1HMTMT,. R1HMTMTR
+Russell 1000 High Volatility,USD,Price,End of day,R1HVOL,RU1HVOL ,.R1HVOL
+Russell 1000 High Volatility Total Return,USD,Total,End of day,R1HVOLTR,RU1HVOLT,.R1HVOLTR
+Russell 1000 Index EUR,EUR,Price,End of day,,RU10EUPI,
+Russell 1000 Index EUR,EUR,Total,End of day,,RU10EUTV,
+Russell 1000 Index GBP,GBP,Price,End of day,,RU10GBHI,
+Russell 1000 Index JPY,JPY,Total,End of day,,RU10JPTI,
+Russell 1000 Low Beta,USD,Price,End of day,R1LBTA,RU1LBTA ,. R1LBTA
+Russell 1000 Low Beta Total Return,USD,Total,End of day,R1LBTATR,RU1LBTAT,. R1LBTATR
+Russell 1000 Low Volatility,USD,Price,Real Time,R1LVOL,RU1LVOL ,.R1LVOL
+Russell 1000 Low Volatility Total Return,USD,Total,End of day,R1LVOLTR,RU1LVOLT,.R1LVOLTR
+Russell 1000 Net Return,USD,Net,End of day,RUINR,RU10N30U,.RUINU
+Russell 1000 Net Return EURO,EUR,Net,End of day,RUINRE,,.RUINRE
+Russell 1000 Net Return GBP,GBP,Net,End of day,RUINRP,,.RUINRP
+Russell 1000 Price - EOD,USD,Price,End of day,R1PREOD,,.R1PREOD
+Russell 1000 RGS Consumer Discreationary,USD,Price,Real Time,R1RGSCD,RGUSDL,.R1RGSCD
+Russell 1000 RGS Consumer Discretionary Total Return,USD,Total,End of day,R1RGSCDTR,,.R1RGSCDTR
+Russell 1000 RGS Consumer Staples,USD,Price,Real Time,R1RGSCS,RGUSSL,.R1RGSCS
+Russell 1000 RGS Consumer Staples Total Return,USD,Total,End of day,R1RGSCSTR,,.R1RGSCSTR
+Russell 1000 RGS Energy,USD,Price,Real Time,R1RGSENG,RGUSEL,.R1RGSENG
+Russell 1000 RGS Energy Total Return,USD,Total,End of day,R1RGSENGTR,,.R1RGSENGTR
+Russell 1000 RGS Financial Services,USD,Price,Real Time,R1RGSFS,RGUSFL,.R1RGSFS
+Russell 1000 RGS Financial Services Total Return,USD,Total,End of day,R1RGSFSTR,,.R1RGSFSTR
+Russell 1000 RGS Health Care,USD,Price,Real Time,R1RGSHC,RGUSHL,.R1RGSHC
+Russell 1000 RGS Health Care Total Return,USD,Total,End of day,R1RGSHCTR,,.R1RGSHCTR
+Russell 1000 RGS Ind: Asset Management & Custodian,USD,Price,End of day,R1RGSAMC,,.R1RGSAMC
+Russell 1000 RGS Ind: Asset Management & Custodian Total Return,USD,Total,End of day,R1RGSAMCT,,.R1RGSAMCT
+Russell 1000 RGS Ind: Health Care Facilities,USD,Price,End of day,R1RGSHCF,,.R1RGSHCF
+Russell 1000 RGS Ind: Health Care Facilities Total Return,USD,Total,End of day,R1RGSHCFT,,.R1RGSHCFT
+Russell 1000 RGS Ind: Steel,USD,Price,End of day,R1RSGSTL,,.R1RSGSTL
+Russell 1000 RGS Ind: Steel Total  Return,USD,Total,End of day,R1RSGSTLT,,.R1RSGSTLT
+Russell 1000 RGS Materials & Processing,USD,Price,Real Time,R1RGSMP,RGUSML,.R1RGSMP
+Russell 1000 RGS Materials & Processing Total Return,USD,Total,End of day,R1RGSMPTR,,.R1RGSMPTR
+Russell 1000 RGS Producer Durables,USD,Price,Real Time,R1RGSPD,RGUSPL,.R1RGSPD
+Russell 1000 RGS Producer Durables Total Return,USD,Total,End of day,R1RGSPDTR,,.R1RGSPDTR
+Russell 1000 RGS Sub: Auto & Auto Parts Total Return,USD,Total,Real Time,RUIAUPT,,.RUIAUPT
+Russell 1000 RGS Sub: Banks Total Return,USD,Total,Real Time,RUIBKT,,.RUIBKT
+Russell 1000 RGS Sub: Building Materials & Services Total Return,USD,Total,Real Time,RUIBMST,,.RUIBMST
+Russell 1000 RGS Sub: Chemicals and Synthetics Total Return,USD,Total,Real Time,RUICHEMT,,.RUICHEMT
+Russell 1000 RGS Sub: Commercial Services Total Return,USD,Total,Real Time,RUICOMMST,,.RUICOMMST
+Russell 1000 RGS Sub: Consumer Finance & Credit Services Total Return,USD,Total,Real Time,RUICOMFIT,,.RUICOMFIT
+Russell 1000 RGS Sub: Consumer Products Total Return,USD,Total,Real Time,RUICOMPRT,,.RUICOMPRT
+Russell 1000 RGS Sub: Consumer Services Total Return,USD,Total,Real Time,RUICOMST,,.RUICOMST
+Russell 1000 RGS Sub: Electronics Total Return,USD,Total,Real Time,RUIELET,,.RUIELET
+Russell 1000 RGS Sub: Energy Equipment & Services Total Return,USD,Total,Real Time,RUIENEQST,,.RUIENEQST
+Russell 1000 RGS Sub: Food Beverage & Tobacco Total Return,USD,Total,Real Time,RUIFBTOT,,.RUIFBTOT
+Russell 1000 RGS Sub: Health Care Services Total Return,USD,Total,Real Time,RUIHCST,,.RUIHCST
+Russell 1000 RGS Sub: Industrial Materials & Processes Total Return,USD,Total,Real Time,RUIINMPT,,.RUIINMPT
+Russell 1000 RGS Sub: Information Technology Total Return,USD,Total,Real Time,RUIINFTECT,,.RUIINFTECT
+Russell 1000 RGS Sub: Insurance Total Return,USD,Total,Real Time,RUIINST,,.RUIINST
+Russell 1000 RGS Sub: Investment Banking & Brokerage Services Total Return,USD,Total,Real Time,RUIINBKBRT,,.RUIINBKBRT
+Russell 1000 RGS Sub: Leisure Total Return,USD,Total,Real Time,RUILEIST,,.RUILEIST
+Russell 1000 RGS Sub: Machinery Total Return,USD,Total,Real Time,RUIMACHT,,.RUIMACHT
+Russell 1000 RGS Sub: Manufacturing & Production Total Return,USD,Total,Real Time,RUIMANPRT,,.RUIMANPRT
+Russell 1000 RGS Sub: Media Total Return,USD,Total,Real Time,RUIMEDIT,,.RUIMEDIT
+Russell 1000 RGS Sub: Medical Equipment & Services Total Return,USD,Total,Real Time,RUIMEDEQST,,.RUIMEDEQST
+Russell 1000 RGS Sub: Metals & Minerals Total Return,USD,Total,Real Time,RUIMETMINT,,.RUIMETMINT
+Russell 1000 RGS Sub: Non-Renewable Energy Total Return,USD,Total,Real Time,RUINONRENT,,.RUINONRENT
+Russell 1000 RGS Sub: Personal Care Drug & Grocery Stores Total Return,USD,Total,Real Time,RUIPCDGST,,.RUIPCDGST
+Russell 1000 RGS Sub: Pharmaceuticals & Biotech Total Return,USD,Total,Real Time,RUIPHABIOT,,.RUIPHABIOT
+Russell 1000 RGS Sub: Real Estate Total Return,USD,Total,Real Time,RUIREALEST,,.RUIREALEST
+Russell 1000 RGS Sub: REIT Total Return ,USD,Total,Real Time,RUIREIT,,.RUIREIT
+Russell 1000 RGS Sub: Retail,USD,Price,Real Time,R1RGSRET,,.R1RGSRET
+Russell 1000 RGS Sub: Retail Total Return,USD,Total,End of day,R1RGSRETTR,,.R1RGSRETTR
+Russell 1000 RGS Sub: Retail Total Return,USD,Total,Real Time,RUIRETAILT,,.RUIRETAILT
+Russell 1000 RGS Sub: Scientific Instruments & Services Total Return,USD,Total,Real Time,RUISCINSRT,,.RUISCINSRT
+Russell 1000 RGS Sub: Telecommunication Total Return,USD,Total,Real Time,RUITELECMT,,.RUITELECMT
+Russell 1000 RGS Sub: Transportation & Freight Total Return,USD,Total,Real Time,RUITRANSFT,,.RUITRANSFT
+Russell 1000 RGS Sub: Utilities Total Return,USD,Total,Real Time,RUIUTILT,,.RUIUTILT
+Russell 1000 RGS Technology,USD,Price,Real Time,R1RGSTEC,RGUSTL,.R1RGSTEC
+Russell 1000 RGS Technology Total Return,USD,Total,End of day,R1RGSTECTR,,.R1RGSTECTR
+Russell 1000 RGS Utilities,USD,Price,Real Time,R1RGSUT,RGUSUL,.R1RGSUT
+Russell 1000 RGS Utilities Total Return,USD,Total,End of day,R1RGSUTTR,,.R1RGSUTTR
+Russell 1000 Total Return,USD,Total,Real Time,RUITR,RU10INTR,.RUITR
+Russell 1000 Value,USD,Price,Real Time,RLV,RLV,.RLV
+Russell 1000 Value 1.25x Daily Leveraged Index            ,USD,Total,End of day,R1VLEV125,,.R1VLEV125
+Russell 1000 Value Index EUR,EUR,Net,End of day,,RU1VN30E,
+Russell 1000 Value Index JPY,JPY,Price,End of day,,RLVWP,
+Russell 1000 Value Net Return,USD,Net,Real Time,RLVNET,RU1VN30U,.RLVNET
+Russell 1000 Value Net Return GBP,GBP,Net,End of day,RLVNETP,RU10EUHV,.RLVNETP
+Russell 1000 Value Price - EOD,USD,Price,End of day,R1VPREOD,,.R1VPREOD
+Russell 1000 Value Total Return,USD,Total,Real Time,RLVTR,RU10VATR,.RLVTRI
+Russell 1000 Value Total Return GBP,GBP,Total,End of day,RLVTRP,RLVXP,.RLVTRP
+Russell 1000 Value-Defensive TR,USD,Total,End of day,R1VDFTR,,.R1VDFTR
+Russell 1000 Value-Dynamic TR,USD,Total,End of day,R1VDYTR,,.R1VDYTR
+Russell 1000� Equal Weight Consumer Discretionary Index,USD,Total,Real Time,R1EWCDTR,R1EWCDTR,.R1EWCDTR
+Russell 1000� Equal Weight Consumer Discretionary Index,USD,Price,End of day,R1EWCD,,.R1EWCD
+Russell 1000� Equal Weight Consumer Staples Index,USD,Total,Real Time,R1EWCSTR,R1EWCSTR,.R1EWCSTR
+Russell 1000� Equal Weight Consumer Staples Index,USD,Price,End of day,R1EWCS,,.R1EWCS
+Russell 1000� Equal Weight Energy Index,USD,Total,Real Time,R1EWETR,R1EWETR,.R1EWETR
+Russell 1000� Equal Weight Energy Index,USD,Price,End of day,R1EWENG,,.R1EWENG
+Russell 1000� Equal Weight Financial Services Index,USD,Total,Real Time,R1EWFSTR,R1EWFSTR,.R1EWFSTR
+Russell 1000� Equal Weight Financial Services Index,USD,Price,End of day,R1EWFS,,.R1EWFS
+Russell 1000� Equal Weight Health Care Index,USD,Total,Real Time,R1EWHCTR,R1EWHCTR,.R1EWHCTR
+Russell 1000� Equal Weight Health Care Index,USD,Price,End of day,R1EWHC,,.R1EWHC
+Russell 1000� Equal Weight Materials & Processing Index,USD,Total,Real Time,R1EWMPTR,R1EWMPTR,.R1EWMPTR
+Russell 1000� Equal Weight Materials & Processing Index,USD,Price,End of day,R1EWMP,,.R1EWMP
+Russell 1000� Equal Weight Producer Durables Index,USD,Total,Real Time, R1EWPDTR, R1EWPDTR,.R1EWPDTR
+Russell 1000� Equal Weight Producer Durables Index,USD,Price,End of day,R1EWPD,,.R1EWPD
+Russell 1000� Equal Weight Technology Index,USD,Total,Real Time,R1EWTTR,R1EWTTR,.R1EWTTR
+Russell 1000� Equal Weight Technology Index,USD,Price,End of day,R1EWTEC,,.R1EWTEC
+Russell 1000� Equal Weight Utilities Index,USD,Total,Real Time,R1EWUTR,R1EWUTR,.R1EWUTR
+Russell 1000� Equal Weight Utilities Index,USD,Price,End of day,R1EWUTIL,,.R1EWUTIL
+Russell 1000� Pure Growth Price,USD,Price,Real Time,R1KPGROP,R1KPGROP,.R1KPGROP
+Russell 1000� Pure Growth Total,USD,Total,End of day,R1KPGROT,R1KPGROT,.R1KPGROT
+Russell 1000� Pure Value Price,USD,Price,Real Time,R1KPVALP,R1KPVALP,.R1KPVALP
+Russell 1000� Pure Value Total,USD,Total,End of day,R1KPVALT,R1KPVALT,.R1KPVALT
+Russell 2000,USD,Price,Real Time,RUT,RTY,.RUT
+Russell 2000 - RGS Sub - Alternative Energy,USD,Price,End of day,RUTALTEN,,.RUTALTEN
+Russell 2000 - RGS Sub - Auto & Auto Parts,USD,Price,End of day,RUTAUP,,.RUTAUP
+Russell 2000 - RGS Sub - Banks,USD,Price,End of day,RUTBK,,.RUTBK
+Russell 2000 - RGS Sub - Building Materials & Services,USD,Price,End of day,RUTBMS,,.RUTBMS
+Russell 2000 - RGS Sub - Chemicals and Synthetics,USD,Price,End of day,RUTCHEM,,.RUTCHEM
+Russell 2000 - RGS Sub - Commercial Services,USD,Price,End of day,RUTCOMMS,,.RUTCOMMS
+Russell 2000 - RGS Sub - Consumer Finance & Credit Services,USD,Price,End of day,RUTCOMFI,,.RUTCOMFI
+Russell 2000 - RGS Sub - Consumer Products,USD,Price,End of day,RUTCOMPR,,.RUTCOMPR
+Russell 2000 - RGS Sub - Consumer Services,USD,Price,End of day,RUTCOMS,,.RUTCOMS
+Russell 2000 - RGS Sub - Electronics,USD,Price,End of day,RUTELE,,.RUTELE
+Russell 2000 - RGS Sub - Energy Equipment & Services,USD,Price,End of day,RUTENEQS,,.RUTENEQS
+Russell 2000 - RGS Sub - Food Beverage & Tobacco,USD,Price,End of day,RUTFBTO,,.RUTFBTO
+Russell 2000 - RGS Sub - Health Care Services,USD,Price,End of day,RUTHCS,,.RUTHCS
+Russell 2000 - RGS Sub - Industrial Materials & Processes,USD,Price,End of day,RUTINMP,,.RUTINMP
+Russell 2000 - RGS Sub - Information Technology,USD,Price,End of day,RUTINFTEC,,.RUTINFTEC
+Russell 2000 - RGS Sub - Insurance,USD,Price,End of day,RUTINS,,.RUTINS
+Russell 2000 - RGS Sub - Investment Banking & Brokerage Services,USD,Price,End of day,RUTINBKBR,,.RUTINBKBR
+Russell 2000 - RGS Sub - Leisure,USD,Price,End of day,RUTLEIS,,.RUTLEIS
+Russell 2000 - RGS Sub - Machinery,USD,Price,End of day,RUTMACH,,.RUTMACH
+Russell 2000 - RGS Sub - Manufacturing & Production,USD,Price,End of day,RUTMANPR,,.RUTMANPR
+Russell 2000 - RGS Sub - Media,USD,Price,End of day,RUTMEDI,,.RUTMEDI
+Russell 2000 - RGS Sub - Medical Equipment & Services,USD,Price,End of day,RUTMEDEQS,,.RUTMEDEQS
+Russell 2000 - RGS Sub - Metals & Minerals,USD,Price,End of day,RUTMETMIN,,.RUTMETMIN
+Russell 2000 - RGS Sub - Non-Renewable Energy,USD,Price,End of day,RUTNONREN,,.RUTNONREN
+Russell 2000 - RGS Sub - Personal Care Drug & Grocery Stores,USD,Price,End of day,RUTPCDGS,,.RUTPCDGS
+Russell 2000 - RGS Sub - Pharmaceuticals & Biotech,USD,Price,End of day,RUTPHABIO,,.RUTPHABIO
+Russell 2000 - RGS Sub - Real Estate,USD,Price,End of day,RUTREALES,,.RUTREALES
+Russell 2000 - RGS Sub - REIT ,USD,Price,End of day,RUTREITP,,.RUTREITP
+Russell 2000 - RGS Sub - Retail,USD,Price,End of day,RUTRETAIL,,.RUTRETAIL
+Russell 2000 - RGS Sub - Scientific Instruments & Services,USD,Price,End of day,RUTSCINSR,,.RUTSCINSR
+Russell 2000 - RGS Sub - Telecommunication,USD,Price,End of day,RUTTELECM,,.RUTTELECM
+Russell 2000 - RGS Sub - Transportation & Freight,USD,Price,End of day,RUTTRANSF,,.RUTTRANSF
+Russell 2000 - RGS Sub - Utilities,USD,Price,End of day,RUTUTIL,,.RUTUTIL
+Russell 2000 1.25x Daily Leveraged Index,USD,Total,End of day,R2LEV125,,.R2LEV125
+Russell 2000 Defensive Index,USD,Price,End of day,RU2000DF,RU2000DF,.RU2000DF
+Russell 2000 Defensive Index Total Return,USD,Total,End of day,RU2000DFTR,RU2DFTR,.RU2000DFTR
+Russell 2000 Defensive Net,USD,Net,End of day,RU2DFNR,RU2DFNR,.RU2DFNR
+Russell 2000 Defensive Net EUR,EUR,Net,End of day,RU2DFNRE,RU2DFNRE,.RU2DFNRE
+Russell 2000 Dividend Growth Index,USD,Total,Real Time,R2DIVGRO,,.R2DIVGRO
+Russell 2000 Dividend Growth Index,USD,Price,Real Time,R2DIVGRP,R2DIVGRP,.R2DIVGRP
+Russell 2000 Dynamic Index,USD,Price,End of day,RU2000DY,RU2000DY,.RU2000DY
+Russell 2000 Dynamic Index Total Return,USD,Total,End of day,RU2000DYTR,RU2DYTR,.RU2000DYTR
+Russell 2000 Dynamic Net,USD,Net,End of day,RU2DYNR,RU2DYNR,.RU2DYNR
+Russell 2000 Dynamic Net EUR,EUR,Net,End of day,RU2DYNRE,RU2DYNRE,.RU2DYNRE
+Russell 2000 Equal Weight Index,USD,Price,Real Time,R2ESC,RUR2ESC,.R2ESC
+Russell 2000 Equal Weight Total Return ,USD,Total,End of day,R2ESCTR,RU2ESCTR,.R2ESCTR
+Russell 2000 Growth,USD,Price,Real Time,RUO,RUO,.RUO
+Russell 2000 Growth Index EUR,EUR,Price,End of day,,RU20EUPG,
+Russell 2000 Growth Index JPY,JPY,Price,End of day,,RUOZP,
+Russell 2000 Growth Net Return,USD,Net,End of day,RUONET,RUOW,.RUONET
+Russell 2000 Growth Net Return GBP,GBP,Net,End of day,RUONETP,,.RUONETP
+Russell 2000 Growth Price - EOD,USD,Price,End of day,R2GPREOD,,.R2GPREOD
+Russell 2000 Growth RGS Consumer Discretionary Index Price Return,USD,Price,End of day,R2GRGSCD,,.R2GRGSCD
+Russell 2000 Growth RGS Consumer Discretionary Index Total Return,USD,Total,End of day,R2GRGSCDT,,.R2GRGSCDT
+Russell 2000 Growth RGS Consumer Staples Index Price Return,USD,Price,End of day,R2GRGSCS,,.R2GRGSCS
+Russell 2000 Growth RGS Consumer Staples Index Total Return,USD,Total,End of day,R2GRGSCST,,.R2GRGSCST
+Russell 2000 Growth RGS Energy Index Price Return,USD,Price,End of day,R2GRGSENG,,.R2GRGSENG
+Russell 2000 Growth RGS Energy Index Total Return,USD,Total,End of day,R2GRGSENGT,,.R2GRGSENGT
+Russell 2000 Growth RGS Financial Services Index Price Return,USD,Price,End of day,R2GRGSFS,,.R2GRGSFS
+Russell 2000 Growth RGS Financial Services Index Total Return,USD,Total,End of day,R2GRGSFST,,.R2GRGSFST
+Russell 2000 Growth RGS Health Care Index Price Return,USD,Price,End of day,R2GRGSHC,,.R2GRGSHC
+Russell 2000 Growth RGS Health Care Index Total Return,USD,Total,End of day,R2GRGSHCT,,.R2GRGSHCT
+Russell 2000 Growth RGS Ind: Biotechnology,USD,Price,End of day,R2GBIO,RGUHSBTG,.R2GBIOP
+Russell 2000 Growth RGS Ind: Biotechnology Total Return,USD,Total,End of day,R2GBIOTR,,.R2GBIOT
+Russell 2000 Growth RGS Materials & Processing Index Price Return,USD,Price,End of day,R2GRGSMP,,.R2GRGSMP
+Russell 2000 Growth RGS Materials & Processing Index Total Return,USD,Total,End of day,R2GRGSMPT,,.R2GRGSMPT
+Russell 2000 Growth RGS Producer Durables Index Price Return,USD,Price,End of day,R2GRGSPD,,.R2GRGSPD
+Russell 2000 Growth RGS Producer Durables Index Total Return,USD,Total,End of day,R2GRGSPDT,,.R2GRGSPDT
+Russell 2000 Growth RGS Technology Index Price Return,USD,Price,End of day,R2GRGSTEC,,.R2GRGSTEC
+Russell 2000 Growth RGS Technology Index Total Return,USD,Total,End of day,R2GRGSTECT,,.R2GRGSTECT
+Russell 2000 Growth RGS Utilities Index Price Return,USD,Price,End of day,R2GRGSUT,,.R2GRGSUT
+Russell 2000 Growth RGS Utilities Index Total Return,USD,Total,End of day,R2GRGSUTT,,.R2GRGSUTT
+Russell 2000 Growth Total Return,USD,Total,Real Time,RUOTR,RU20GRTR,.RUOTRI
+Russell 2000 Growth Total Return GBP,GBP,Total,End of day,RUOTRP,RUOYP,.RUOTRP
+Russell 2000 Growth-Defensive TR,USD,Total,End of day,R2GDFTR,,.R2GDFTR
+Russell 2000 Growth-Dynamic TR,USD,Total,End of day,R2GDYTR,,.R2GDYTR
+Russell 2000 Hedged CAD,CAD,Hedged,End of day,RU2CADHDG,,.RU2CADHDG
+Russell 2000 High Beta,USD,Price,End of day,R2HBTA,RU2HBTA ,.R2HBTA
+Russell 2000 High Beta Total Return,USD,Total,End of day,R2HBTATR,RU2HBTAT,.R2HBTATR
+Russell 2000 High Eff Def - Low,USD,Price,End of day,RURDRS3,RURDRS3,.RURDRS3
+Russell 2000 High Eff Def - Low NR,USD,Net,End of day,RURDRS3N,RURDRS3N,.RURDRS3N
+Russell 2000 High Eff Def - Low TR,USD,Total,End of day,RURDRS3T,RURDRS3T,.RURDRS3T
+Russell 2000 High Eff Def - Mod,USD,Price,End of day,RURDRS6,RURDRS6,.RURDRS6
+Russell 2000 High Eff Def - Mod NR,USD,Net,End of day,RURDRS6N,RURDRS6N,.RURDRS6N
+Russell 2000 High Eff Def - Mod TR,USD,Total,End of day,RURDRS6T,RURDRS6T,.RURDRS6T
+Russell 2000 High Momentum,USD,Price,End of day,R2HMTM,RU2HMTM ,.R2HMTM
+Russell 2000 High Momentum Total Return,USD,Total,End of day,R2HMTMTR,RU2HMTMT,.R2HMTMTR
+Russell 2000 High Volatility,USD,Price,End of day,R2HVOL,RU2HVOL ,.R2HVOL
+Russell 2000 High Volatility Total Return,USD,Total,End of day,R2HVOLTR,RU2HVOLT,.R2HVOLTR
+Russell 2000 Index EUR,EUR,Price,End of day,,RU20EUPG,
+Russell 2000 Index EUR,EUR,Total,End of day,,RU20EUTI,
+Russell 2000 Index GBP,GBP,Price,End of day,,RU20GBHI,
+Russell 2000 Low Beta,USD,Price,End of day,R2LBTA,RU2LBTA ,.R2LBTA
+Russell 2000 Low Beta Total Return,USD,Total,End of day,R2LBTATR,RU2LBTAT,.R2LBTATR
+Russell 2000 Low Volatility,USD,Price,Real Time,R2LVOL,RU2LVOL ,.R2LVOL
+Russell 2000 Low Volatility Total Return,USD,Total,End of day,R2LVOLTR,RU2LVOLT,.R2LVOLTR
+Russell 2000 Net Return,USD,Net,End of day,RUTNR,RU20N30U,.RUTNU
+Russell 2000 Price - EOD,USD,Price,End of day,R2PREOD,,.R2PREOD
+Russell 2000 RGS Consumer Discretionary,USD,Price,Real Time,R2RGSCD,RGUSDS,.R2RGSCD
+Russell 2000 RGS Consumer Discretionary Total Return,USD,Total,End of day,R2RGSCDTR,,.R2RGSCDTR
+Russell 2000 RGS Consumer Staples,USD,Price,Real Time,R2RGSCS,RGUSSS,.R2RGSCS
+Russell 2000 RGS Consumer Staples Total Return,USD,Total,End of day,R2RGSCSTR,,.R2RGSCSTR
+Russell 2000 RGS Energy,USD,Price,Real Time,R2RGSENG,RGUSES,.R2RGSENG
+Russell 2000 RGS Energy Total Return,USD,Total,End of day,R2RGSENGTR,,.R2RGSENGTR
+Russell 2000 RGS Financial Services,USD,Price,Real Time,R2RGSFS,RGUSFS,.R2RGSFS
+Russell 2000 RGS Financial Services Total Return,USD,Total,End of day,R2RGSFSTR,,.R2RGSFSTR
+Russell 2000 RGS Health Care,USD,Price,Real Time,R2RGSHC,RGUSHS,.R2RGSHC
+Russell 2000 RGS Health Care Total Return,USD,Total,End of day,R2RGSHCTR,,.R2RGSHCTR
+Russell 2000 RGS Ind: Biotechnology ,USD,Price,End of day,RGUSHSBT,RGUSHSBT,.RGUSHSBT
+Russell 2000 RGS Ind: Biotechnology TR,USD,Total,End of day,RGUSHBTT,,.RGUSHBTT
+Russell 2000 RGS Materials & Processing,USD,Price,Real Time,R2RGSMP,RGUSMS,.R2RGSMP
+Russell 2000 RGS Materials & Processing Total Return,USD,Total,End of day,R2RGSMPTR,,.R2RGSMPTR
+Russell 2000 RGS Producer Durables,USD,Price,Real Time,R2RGSPD,RGUSPS,.R2RGSPD
+Russell 2000 RGS Producer Durables Total Return,USD,Total,End of day,R2RGSPDTR,,.R2RGSPDTR
+Russell 2000 RGS Sub: Alternative Energy Total Return,USD,Total,Real Time,RUTALTENT,,.RUTALTENT
+Russell 2000 RGS Sub: Auto & Auto Parts Total Return,USD,Total,Real Time,RUTAUPT,,.RUTAUPT
+Russell 2000 RGS Sub: Banks Total Return,USD,Total,Real Time,RUTBKT,,.RUTBKT
+Russell 2000 RGS Sub: Building Materials & Services Total Return,USD,Total,Real Time,RUTBMST,,.RUTBMST
+Russell 2000 RGS Sub: Chemicals and Synthetics Total Return,USD,Total,Real Time,RUTCHEMT,,.RUTCHEMT
+Russell 2000 RGS Sub: Commercial Services Total Return,USD,Total,Real Time,RUTCOMMST,,.RUTCOMMST
+Russell 2000 RGS Sub: Consumer Finance & Credit Services Total Return,USD,Total,Real Time,RUTCOMFIT,,.RUTCOMFIT
+Russell 2000 RGS Sub: Consumer Products Total Return,USD,Total,Real Time,RUTCOMPRT,,.RUTCOMPRT
+Russell 2000 RGS Sub: Consumer Services Total Return,USD,Total,Real Time,RUTCOMST,,.RUTCOMST
+Russell 2000 RGS Sub: Electronics Total Return,USD,Total,Real Time,RUTELET,,.RUTELET
+Russell 2000 RGS Sub: Energy Equipment & Services Total Return,USD,Total,Real Time,RUTENEQST,,.RUTENEQST
+Russell 2000 RGS Sub: Food Beverage & Tobacco Total Return,USD,Total,Real Time,RUTFBTOT,,.RUTFBTOT
+Russell 2000 RGS Sub: Health Care Services Total Return,USD,Total,Real Time,RUTHCST,,.RUTHCST
+Russell 2000 RGS Sub: Industrial Materials & Processes Total Return,USD,Total,Real Time,RUTINMPT,,.RUTINMPT
+Russell 2000 RGS Sub: Information Technology Total Return,USD,Total,Real Time,RUTINFTECT,,.RUTINFTECT
+Russell 2000 RGS Sub: Insurance Total Return,USD,Total,Real Time,RUTINST,,.RUTINST
+Russell 2000 RGS Sub: Investment Banking & Brokerage Services Total Return,USD,Total,Real Time,RUTINBKBRT,,.RUTINBKBRT
+Russell 2000 RGS Sub: Leisure Total Return,USD,Total,Real Time,RUTLEIST,,.RUTLEIST
+Russell 2000 RGS Sub: Machinery Total Return,USD,Total,Real Time,RUTMACHT,,.RUTMACHT
+Russell 2000 RGS Sub: Manufacturing & Production Total Return,USD,Total,Real Time,RUTMANPRT,,.RUTMANPRT
+Russell 2000 RGS Sub: Media Total Return,USD,Total,Real Time,RUTMEDIT,,.RUTMEDIT
+Russell 2000 RGS Sub: Medical Equipment & Services Total Return,USD,Total,Real Time,RUTMEDEQST,,.RUTMEDEQST
+Russell 2000 RGS Sub: Metals & Minerals Total Return,USD,Total,Real Time,RUTMETMINT,,.RUTMETMINT
+Russell 2000 RGS Sub: Non-Renewable Energy Total Return,USD,Total,Real Time,RUTNONRENT,,.RUTNONRENT
+Russell 2000 RGS Sub: Personal Care Drug & Grocery Stores Total Return,USD,Total,Real Time,RUTPCDGST,,.RUTPCDGST
+Russell 2000 RGS Sub: Pharmaceuticals & Biotech Total Return,USD,Total,Real Time,RUTPHABIOT,,.RUTPHABIOT
+Russell 2000 RGS Sub: Real Estate Total Return,USD,Total,Real Time,RUTREALEST,,.RUTREALEST
+Russell 2000 RGS Sub: REIT Total Return ,USD,Total,Real Time,RUTREIT,,.RUTREIT
+Russell 2000 RGS Sub: Retail Total Return,USD,Total,Real Time,RUTRETAILT,,.RUTRETAILT
+Russell 2000 RGS Sub: Scientific Instruments & Services Total Return,USD,Total,Real Time,RUTSCINSRT,,.RUTSCINSRT
+Russell 2000 RGS Sub: Telecommunication Total Return,USD,Total,Real Time,RUTTELECMT,,.RUTTELECMT
+Russell 2000 RGS Sub: Transportation & Freight Total Return,USD,Total,Real Time,RUTTRANSFT,,.RUTTRANSFT
+Russell 2000 RGS Sub: Utilities Total Return,USD,Total,Real Time,RUTUTILT,,.RUTUTILT
+Russell 2000 RGS Technology,USD,Price,Real Time,R2RGSTEC,RGUSTS,.R2RGSTEC
+Russell 2000 RGS Technology Total Return,USD,Total,End of day,R2RGSTECTR,,.R2RGSTECTR
+Russell 2000 RGS Utilities,USD,Price,Real Time,R2RGSUT,RGUSUS,.R2RGSUT
+Russell 2000 RGS Utilities Total Return,USD,Total,End of day,R2RGSUTTR,,.R2RGSUTTR
+Russell 2000 Total Return,USD,Total,Real Time,RUTTR,RU20INTR,.RUTTU
+Russell 2000 Value,USD,Price,Real Time,RUJ,RUJ,.RUJ
+Russell 2000 Value Net Return,USD,Net,End of day,RUJNR,,.RUJNR
+Russell 2000 Value Price - EOD,USD,Price,End of day,R2VPREOD,,.R2VPREOD
+Russell 2000 Value Total Return,USD,Total,Real Time,RUJTR,RU20VATR,.RUJTRI
+Russell 2000 Value-Defensive TR,USD,Total,End of day,R2VDFTR,,.R2VDFTR
+Russell 2000 Value-Dynamic TR,USD,Total,End of day,R2VDYTR,,.R2VDYTR
+Russell 2000� Pure Growth Price,USD,Price,Real Time,R2KPGROP,R2KPGROP,.R2KPGROP
+Russell 2000� Pure Growth Total,USD,Total,End of day,R2KPGROT,R2KPGROT,.R2KPGROT
+Russell 2000� Pure Value Price,USD,Price,Real Time,R2KPVALP,R2KPVALP,.R2KPVALP
+Russell 2000� Pure Value Total,USD,Total,End of day,R2KPVALT,R2KPVALT,.R2KPVALT
+Russell 2500,USD,Price,Real Time,R25I,R2500,.R25I
+Russell 2500 Defensive,USD,Price,End of day,RU2500DF,RU2500DF,.RU2500DF
+Russell 2500 Defensive Net,USD,Net,End of day,RU25DFNR,RU25DFNR,.RU25DFNR
+Russell 2500 Defensive Net EUR,EUR,Net,End of day,RU25DFNE,RU25DFNE,.RU25DFNE
+Russell 2500 Defensive Total Return,USD,Total,End of day,RU25DFTR,RU25DFTR,.RU25DFTR
+Russell 2500 Dynamic,USD,Price,End of day,RU2500DY,RU2500DY,.RU2500DY
+Russell 2500 Dynamic Net,USD,Net,End of day,RU25DYNR,RU25DYNR,.RU25DYNR
+Russell 2500 Dynamic Net EUR,EUR,Net,End of day,RU25DYNE,RU25DYNE,.RU25DYNE
+Russell 2500 Dynamic Total Return,USD,Total,End of day,RU25DYTR,RU25DYTR,.RU25DYTR
+Russell 2500 Growth,USD,Price,Real Time,R25IG,R2500G,.R25IG
+Russell 2500 Growth Net Return,USD,Net,End of day,R25IGNR,,.R25IGNR
+Russell 2500 Growth Price - EOD,USD,Price,End of day,R25GPREOD,,.R25GPREOD
+Russell 2500 Growth Total Return,USD,Total,End of day,R25IGTR,RU25GRTR,.R25IGTRI
+Russell 2500 Growth-Defensive TR,USD,Total,End of day,R25GDFTR,,.R25GDFTR
+Russell 2500 Growth-Dynamic TR,USD,Total,End of day,R25GDYTR,,.R25GDYTR
+Russell 2500 Index GBP Total,GBP,Total,End of day,,RU25GBTI,
+Russell 2500 Net Return,USD,Net,End of day,R25INR,RU25N30U,.RUBNU
+Russell 2500 Price - EOD,USD,Price,End of day,R25PREOD,,.R25PREOD
+Russell 2500 RGS Consumer Discretionary Index Price Return,USD,Price,End of day,R25RGSCD,,.R25RGSCD
+Russell 2500 RGS Consumer Discretionary Index Total Return,USD,Total,End of day,R25RGSCDT,,.R25RGSCDT
+Russell 2500 RGS Consumer Staples Index Price Return,USD,Price,End of day,R25RGSCS,,.R25RGSCS
+Russell 2500 RGS Consumer Staples Index Total Return,USD,Total,End of day,R25RGSCST,,.R25RGSCST
+Russell 2500 RGS Energy Index Price Return,USD,Price,End of day,R25RGSENG,,.R25RGSENG
+Russell 2500 RGS Energy Index Total Return,USD,Total,End of day,R25RGSENGT,,.R25RGSENGT
+Russell 2500 RGS Financial Services Index Price Return,USD,Price,End of day,R25RGSFS,,.R25RGSFS
+Russell 2500 RGS Financial Services Index Total Return,USD,Total,End of day,R25RGSFST,,.R25RGSFST
+Russell 2500 RGS Health Care Index Price Return,USD,Price,End of day,R25RGSHC,,.R25RGSHC
+Russell 2500 RGS Health Care Index Total Return,USD,Total,End of day,R25RGSHCT,,.R25RGSHCT
+Russell 2500 RGS Materials & Processing Index Price Return,USD,Price,End of day,R25RGSMP,,.R25RGSMP
+Russell 2500 RGS Materials & Processing Index Total Return,USD,Total,End of day,R25RGSMPT,,.R25RGSMPT
+Russell 2500 RGS Producer Durables Index Price Return,USD,Price,End of day,R25RGSPD,,.R25RGSPD
+Russell 2500 RGS Producer Durables Index Total Return,USD,Total,End of day,R25RGSPDT,,.R25RGSPDT
+Russell 2500 RGS Technology Index Price Return,USD,Price,End of day,R25RGSTEC,,.R25RGSTEC
+Russell 2500 RGS Technology Index Total Return,USD,Total,End of day,R25RGSTECT,,.R25RGSTECT
+Russell 2500 RGS Utilities Index Price Return,USD,Price,End of day,R25RGSUT,,.R25RGSUT
+Russell 2500 RGS Utilities Index Total Return,USD,Total,End of day,R25RGSUTT,,.R25RGSUTT
+Russell 2500 Total Return,USD,Total,End of day,R25ITR,RU25INTR,.RUBTU
+Russell 2500 Value,USD,Price,Real Time,R25IV,R2500V,.R25IV
+Russell 2500 Value Net Return,USD,Net,End of day,R25IVNR,,.R25IVNR
+Russell 2500 Value Price - EOD,USD,Price,End of day,R25VPREOD,,.R25VPREOD
+Russell 2500 Value Total Return,USD,Total,End of day,R25IVTR,RU25VATR,.R25IVTRI
+Russell 2500 Value-Defensive TR,USD,Total,End of day,R25VDFTR,,.R25VDFTR
+Russell 2500 Value-Dynamic TR,USD,Total,End of day,R25VDYTR,,.R25VDYTR
+Russell 3000,USD,Price,Real Time,RUA,RAY,.RUA
+Russell 3000 Defensive Index,USD,Price,End of day,RU3000DF,RU3000DF,.RU3000DF
+Russell 3000 Defensive Index Total Return,USD,Total,End of day,RU3000DFTR,RU3DFTR,.RU3000DFTR
+Russell 3000 Defensive Net,USD,Net,End of day,RU3DFNR,RU3DFNR,.RU3DFNR
+Russell 3000 Defensive Net EUR,EUR,Net,End of day,RU3DFNRE,RU3DFNRE,.RU3DFNRE
+Russell 3000 Dividend Growth Index,USD,Total,Real Time,R3DIVGRO,,.R3DIVGRO
+Russell 3000 Dividend Growth Index,USD,Price,Real Time,R3DIVGRP,R3DIVGRP,.R3DIVGRP
+Russell 3000 Dynamic Index,USD,Price,End of day,RU3000DY,RU3000DY,.RU3000DY
+Russell 3000 Dynamic Index Total Return,USD,Total,End of day,RU3000DYTR,RU3DYTR,.RU3000DYTR
+Russell 3000 Dynamic Net,USD,Net,End of day,RU3DYNR,RU3DYNR,.RU3DYNR
+Russell 3000 Dynamic Net EUR,EUR,Net,End of day,RU3DYNRE,RU3DYNRE,.RU3DYNRE
+Russell 3000 Growth,USD,Price,Real Time,RAG,RAG,.RAG
+Russell 3000 Growth Net Return,USD,Net,End of day,RAGNR,,.RAGNR
+Russell 3000 Growth Price - EOD,USD,Price,End of day,R3GPREOD,,.R3GPREOD
+Russell 3000 Growth Total Return,USD,Total,Real Time,RAGTR,RU30GRTR,.RAGTRI
+Russell 3000 Growth-Defensive TR,USD,Total,End of day,R3GDFTR,,.R3GDFTR
+Russell 3000 Growth-Dynamic TR,USD,Total,End of day,R3GDYTR,,.R3GDYTR
+Russell 3000 Hedged CAD,CAD,Hedged,End of day,RU3CADHDG,,.RU3CADHDG
+Russell 3000 High Eff Def - Low,USD,Price,End of day,RURDRA3,RURDRA3,.RURDRA3
+Russell 3000 High Eff Def - Low NR,USD,Net,End of day,RURDRA3N,RURDRA3N,.RURDRA3N
+Russell 3000 High Eff Def - Low TR,USD,Total,End of day,RURDRA3T,RURDRA3T,.RURDRA3T
+Russell 3000 High Eff Def - Mod,USD,Price,End of day,RURDRA6,RURDRA6,.RURDRA6
+Russell 3000 High Eff Def - Mod NR,USD,Net,End of day,RURDRA6N,RURDRA6N,.RURDRA6N
+Russell 3000 High Eff Def - Mod TR,USD,Total,End of day,RURDRA6T,RURDRA6T,.RURDRA6T
+Russell 3000 Net Return,USD,Net,End of day,RUANR,RU30N30U,.RUANU
+Russell 3000 Net Return EUR,EUR,Net,End of day,RUANRE,,.RUANRE
+Russell 3000 Net Return GBP,GBP,Net,End of day,RUANRP,,.RUANRP
+Russell 3000 Price - EOD,USD,Price,End of day,R3PREOD,,.R3PREOD
+Russell 3000 RGS Consumer Discretionary,USD,Price,End of day,R3RGSCD,,.R3RGSCD
+Russell 3000 RGS Consumer Discretionary Total Return,USD,Total,End of day,R3RGSCDTR,,.R3RGSCDTR
+Russell 3000 RGS Consumer Staples,USD,Price,End of day,R3RGSCS,,.R3RGSCS
+Russell 3000 RGS Consumer Staples Total Return,USD,Total,End of day,R3RGSCSTR,,.R3RGSCSTR
+Russell 3000 RGS Energy ,USD,Price,End of day,R3RGSENG,,.R3RGSENG
+Russell 3000 RGS Energy Total Return,USD,Total,End of day,R3RGSENGTR,,.R3RGSENGTR
+Russell 3000 RGS Financial Services,USD,Price,End of day,R3RGSFS,,.R3RGSFS
+Russell 3000 RGS Financial Services Total Return,USD,Total,End of day,R3RGSFSTR,,.R3RGSFSTR
+Russell 3000 RGS Health Care,USD,Price,End of day,R3RGSHC,,.R3RGSHC
+Russell 3000 RGS Health Care Total Return,USD,Total,End of day,R3RGSHCTR,,.R3RGSHCTR
+Russell 3000 RGS Ind: Coal,USD,Price,Real Time,R3RGSCOAL,,.R3RGSCOAL
+Russell 3000 RGS Ind: Coal Total Return,USD,Total,End of day,R3RGSCOALT,,.R3RGSCOALT
+Russell 3000 RGS Ind: Rental & Leasing Services: Consumer,USD,Price,End of day,R3RGSRLSC,,.R3RGSRLSC
+Russell 3000 RGS Ind: Rental & Leasing Services: Consumer Total Return,USD,Total,End of day,R3RGSRLSCT,,.R3RGSRLSCT
+Russell 3000 RGS Materials & Processing,USD,Price,End of day,R3RGSMP,,.R3RGSMP
+Russell 3000 RGS Materials & Processing Total Return,USD,Total,End of day,R3RGSMPTR,,.R3RGSMPTR
+Russell 3000 RGS Producer Durables,USD,Price,End of day,R3RGSPD,,.R3RGSPD
+Russell 3000 RGS Producer Durables Total Return,USD,Total,End of day,R3RGSPDTR,,.R3RGSPDTR
+Russell 3000 RGS Sub: REIT Total Return ,USD,Total,End of day,RUAREIT,,.RUAREIT
+Russell 3000 RGS Technology,USD,Price,End of day,R3RGSTEC,,.R3RGSTEC
+Russell 3000 RGS Technology Total Return,USD,Total,End of day,R3RGSTECTR,,.R3RGSTECTR
+Russell 3000 RGS Utilities,USD,Price,End of day,R3RGSUT,,.R3RGSUT
+Russell 3000 RGS Utilities Total Return,USD,Total,End of day,R3RGSUTTR,,.R3RGSUTTR
+Russell 3000 Total Return,USD,Total,Real Time,RUATR,RU30INTR,.RUATU
+Russell 3000 Total Return EUR,EUR,Total,End of day,RUATRE,,.RUATRE
+Russell 3000 Total Return GBP,GBP,Total,End of day,RUATRP,,.RUATRP
+Russell 3000 Value,USD,Price,Real Time,RAV,RAV,.RAV
+Russell 3000 Value Net Return,USD,Net,End of day,RAVNR,,.RAVNR
+Russell 3000 Value Price - EOD,USD,Price,End of day,R3VPREOD,,.R3VPREOD
+Russell 3000 Value Total Return,USD,Total,Real Time,RAVTR,RU30VATR,.RAVTRI
+Russell 3000 Value-Defensive TR,USD,Total,End of day,R3VDFTR,,.R3VDFTR
+Russell 3000 Value-Dynamic TR,USD,Total,End of day,R3VDYTR,,.R3VDYTR
+Russell Asia ex-Japan,USD,Price,End of day,RAXJUSD,RAXJ,.RAXJUSD
+Russell Asia ex-Japan Defensive ,USD,Price,End of day,RUAXJDF,RUAXJDF,.RUAXJDF
+Russell Asia ex-Japan Defensive Net Return,USD,Net,End of day,RUAXJDFN,RUAXJDFN,.RUAXJDFN
+Russell Asia ex-Japan Defensive Total Return,USD,Total,End of day,RUAXJDFT,RUAXJDFT,.RUAXJDFT
+Russell Asia ex-Japan Dynamic ,USD,Price,End of day,RUAXJDY,RUAXJDY,.RUAXJDY
+Russell Asia ex-Japan Dynamic Net Return,USD,Net,End of day,RUAXJDYN,RUAXJDYN,.RUAXJDYN
+Russell Asia ex-Japan Dynamic Total Return,USD,Total,End of day,RUAXJDYT,RUAXJDYT,.RUAXJDYT
+Russell Asia ex-Japan Large Cap,USD,Price,End of day,RAXJLUSD,RAXJL,.RAXJLUSD
+Russell Asia ex-Japan Large Cap Total Return,USD,Total,End of day,RAXJLTRUSD,,.RAXJLTRUSD
+Russell Asia ex-Japan Midcap,USD,Price,End of day,RAXJMUSD,,.RAXJMUSD
+Russell Asia ex-Japan Midcap Total Return,USD,Total,End of day,RAXJMTRUSD,,.RAXJMTRUSD
+Russell Asia ex-Japan Small Cap,USD,Price,End of day,RAXJSUSD,RAXJS,.RAXJSUSD
+Russell Asia ex-Japan Small Cap Total Return,USD,Total,End of day,RAXJSTRUSD,,.RAXJSTRUSD
+Russell Asia ex-Japan Total Return,USD,Total,End of day,RAXJTRUSD,,.RAXJTRUSD
+Russell Asia Pacific,USD,Price,End of day,RASPUSD,RASP,.RASPUSD
+Russell Asia Pacific Defensive,USD,Price,End of day,RUASPDF,RUASPDFT,.RUASPDF
+Russell Asia Pacific Defensive Net Return,USD,Net,End of day,RUASPDFN,RUASPDFN,.RUASPDFN
+Russell Asia Pacific Defensive Total Return,USD,Total,End of day,RUASPDFT,RUASPDFT,.RUASPDFT
+Russell Asia Pacific Dynamic,USD,Price,End of day,RUASPDY,RUASPDY,.RUASPDY
+Russell Asia Pacific Dynamic Net Return,USD,Net,End of day,RUASPDYN,RUASPDYN,.RUASPDYN
+Russell Asia Pacific Dynamic Total Return,USD,Total,End of day,RUASPDYT,RUASPDYT,.RUASPDYT
+Russell Asia Pacific ex-Japan,USD,Price,End of day,RAPJUSD,RAPJ,.RAPJUSD
+Russell Asia Pacific ex-Japan Index GBP,GBP,Price,End of day,,RUAPJNHP,
+Russell Asia Pacific ex-Japan Large Cap,USD,Price,End of day,RAPJLUSD,RAPJL,.RAPJLUSD
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Low,USD,Price,End of day,RURDVL3,RURDVL3,.RURDVL3
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDVL3N,RURDVL3N,.RURDVL3N
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDVL3T,RURDVL3T,.RURDVL3T
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Mod,USD,Price,End of day,RURDVL6,RURDVL6,.RURDVL6
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDVL6N,RURDVL6N,.RURDVL6N
+Russell Asia Pacific ex-Japan Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDVL6T,RURDVL6T,.RURDVL6T
+Russell Asia Pacific ex-Japan Large Cap Total Return,USD,Total,End of day,RAPJLTRUSD,,.RAPJLTRUSD
+Russell Asia Pacific ex-Japan Midcap,USD,Price,End of day,RAPJMUSD,,.RAPJMUSD
+Russell Asia Pacific ex-Japan Midcap Total Return,USD,Total,End of day,RAPJMTRUSD,,.RAPJMTRUSD
+Russell Asia Pacific ex-Japan Small Cap,USD,Price,End of day,RAPJSUSD,RAPJS,.RAPJSUSD
+Russell Asia Pacific ex-Japan Small Cap Total Return,USD,Total,End of day,RAPJSTRUSD,RAPJSC,.RAPJSTRUSD
+Russell Asia Pacific ex-Japan Total Return,USD,Total,End of day,RAPJTRUSD,RUAPXJN,.RAPJTRUSD
+Russell Asia Pacific Large Cap,USD,Price,End of day,RASPLUSD,RASPL,.RASPLUSD
+Russell Asia Pacific Large Cap Total Return,USD,Total,End of day,RASPLTRUSD,,.RASPLTRUSD
+Russell Asia Pacific Midcap,USD,Price,End of day,RASPMUSD,,.RASPMUSD
+Russell Asia Pacific Midcap Total Return,USD,Total,End of day,RASPMTRUSD,,.RASPMTRUSD
+Russell Asia Pacific Small Cap,USD,Price,End of day,RASPSUSD,RASPS,.RASPSUSD
+Russell Asia Pacific Small Cap Total Return,USD,Total,End of day,RASPSTRUSD,RAPJSC,.RASPSTRUSD
+Russell Asia Pacific Total Return,USD,Total,End of day,RASPTRUSD,,.RASPTRUSD
+Russell Australia,USD,Price,End of day,RGAU,,.RGAU
+Russell Australia ESG High Dividend,AUD,Price,End of day,RAESGD,,.RAESGD
+Russell Australia ESG High Dividend Net Return,AUD,Net,End of day,RAESGDN,,.RAESGDN
+Russell Australia ESG High Dividend Total Return,AUD,Total,End of day,RAESGDT,,.RAESGDT
+Russell Australia High Dividend,AUD,Price,End of day,RAUHDI,RURAHDIA,.RAUHDI
+Russell Australia High Dividend Total  Return,AUD,Total,End of day,RAUHDITR,,.RAUHDITR
+Russell Australia High Value,AUD,Price,End of day,RAUHVI,RURAHVIA,.RAUHVI
+Russell Australia High Value Index,USD,Price,End of day,,RURAHVI,
+Russell Australia High Value Total  Return,AUD,Total,End of day,RAUHVITR,,.RAUHVITR
+Russell Australia Total Return,USD,Total,End of day,RGAUT,,.RGAUT
+Russell Austria,USD,Price,End of day,RGAT,,.RGAT
+Russell Austria Total Return,USD,Total,End of day,RGATT,,.RGATT
+Russell Belgium,USD,Price,End of day,RGBE,,.RGBE
+Russell Belgium Total Return,USD,Total,End of day,RGBET,,.RGBET
+Russell Brazil,USD,Price,End of day,RGBR,RGBR,.RGBR
+Russell Brazil Large Cap Index,USD,Price,End of day,,RGBRL,
+Russell Brazil Net Return,USD,Net,End of day,RGBRNR,RGBRN,.RGBRNR
+Russell Brazil Total Return,USD,Total,End of day,RGBRT,,.RGBRT
+Russell BRIC,USD,Price,End of day,RBRCUSD,RBRC,.RBRCUSD
+Russell BRIC Equal Weight Index ,USD,Price,Real Time,RBEAC,RURBEAC,.RBEAC
+Russell BRIC Equal Weight Total Return,USD,Total,End of day,RBEACTR,RUBEACTR,.RBEACTR
+Russell BRIC Total Return,USD,Total,End of day,RBRCTRUSD,RBRCAT,.RBRCTRUSD
+Russell Canada,USD,Price,End of day,RGCA,RGCAD,.RGCA
+Russell Canada Small Cap Net Return CAD,CAD,Net,End of day,RUCASCNC,,.RUCASCNC
+Russell Canada Small Cap Net Return USD,USD,Net,End of day,RUCASCN,,.RUCASCN
+Russell Canada Small Cap Price Return CAD,CAD,Price,End of day,RUCASCC,,.RUCASCC
+Russell Canada Small Cap Price Return USD,USD,Price,End of day,RUCASC,,.RUCASC
+Russell Canada Small Cap Total Return CAD,CAD,Total,End of day,RUCASCTC,,.RUCASCTC
+Russell Canada Small Cap Total Return USD,USD,Total,End of day,RUCASCT,,.RUCASCT
+Russell Canada Total Return,USD,Total,End of day,RGCAT,RGCAT,.RGCAT
+Russell Chile,USD,Price,End of day,RGCL,,.RGCL
+Russell Chile Total Return,USD,Total,End of day,RGCLT,,.RGCLT
+Russell China,USD,Price,End of day,RGCN,RGCN,.RGCN
+Russell China Total Return,USD,Total,End of day,RGCNT,RGCNL,.RGCNT
+Russell Colombia,USD,Price,End of day,RGCO,,.RGCO
+Russell Colombia Total Return,USD,Total,End of day,RGCOT,,.RGCOT
+Russell Conscious Currency Carry USD,USD,Total,End of day,RCCCUSD,,.RCCCUSD
+Russell Conscious Currency Trend USD,USD,Total,End of day,RCCTUSD,,.RCCTUSD
+Russell Conscious Currency USD,USD,Total,End of day,RCCIUSD,,.RCCIUSD
+Russell Conscious Currency Value USD,USD,Total,End of day,RCCVUSD,,.RCCVUSD
+Russell Czech Republic,USD,Price,End of day,RGCZ,,.RGCZ
+Russell Czech Republic Total Return,USD,Total,End of day,RGCZT,,.RGCZT
+Russell Denmark,USD,Price,End of day,RGDK,,.RGDK
+Russell Denmark Total Return ,USD,Total,End of day,RGDKT,,.RGDKT
+Russell Developed,USD,Price,Real Time,RDEVUSD,RDEV,.RDEVUSD
+Russell Developed Defensive,USD,Price,End of day,RUDDF,RUDEVDF,.RUDDF
+Russell Developed Defensive Index EUR,EUR,Price,End of day,RUDDFEUR,,.RUDDFEUR
+Russell Developed Defensive Index Net Return EUR,EUR,Net,End of day,RUDDFNEUR,,.RUDDFNEUR
+Russell Developed Defensive Index Total Return EUR,EUR,Total,End of day,RUDDFTREUR,,.RUDDFTREUR
+Russell Developed Defensive Net Return,USD,Net,End of day,RUDDFN,RUDEVDFN,.RUDDFN
+Russell Developed Defensive Total Return,USD,Total,End of day,RUDDFTR,RUDEVDFT,.RUDDFTR
+Russell Developed Dynamic,USD,Price,End of day,RUDDY,RUDEVDY,.RUDDY
+Russell Developed Dynamic Net Return,USD,Net,End of day,RUDDYTN,RUDEVDYN,.RUDDYTN
+Russell Developed Dynamic Total Return,USD,Total,End of day,RUDDYTR,RUDEVDYT,.RUDDYTR
+Russell Developed Europe,USD,Price,End of day,RDEUUSD,RDEU,.RDEUUSD
+Russell Developed Europe Defensive ,USD,Price,End of day,RUDEUDF,RUDEUDF,.RUDEUDF
+Russell Developed Europe Defensive Net Return,USD,Net,End of day,RUDEUDFN,RUDEUDFN,.RUDEUDFN
+Russell Developed Europe Defensive Total Return,USD,Total,End of day,RUDEUDFT,RUDEUDFT,.RUDEUDFT
+Russell Developed Europe Dynamic ,USD,Price,End of day,RUDEUDY,RUDEUDY,.RUDEUDY
+Russell Developed Europe Dynamic Net Return,USD,Net,End of day,RUDEUDYN,RUDEUDYN,.RUDEUDYN
+Russell Developed Europe Dynamic Total Return,USD,Total,End of day,RUDEUDYT,RUDEUDYT,.RUDEUDYT
+Russell Developed Europe EURO ,EUR,Price,End of day,RDEUEUR,,.RDEUEUR
+Russell Developed Europe EURO Net Return,EUR,Net,End of day,RDEUNEUR,,.RDEUNEUR
+Russell Developed Europe EURO Total Return,EUR,Total,End of day,RDEUTEUR,,.RDEUTEUR
+Russell Developed Europe ex-UK,USD,Price,End of day,RDEXUSD,RDEX,.RDEXUSD
+Russell Developed Europe ex-UK Large Cap,USD,Price,End of day,RDEXLUSD,,.RDEXLUSD
+Russell Developed Europe ex-UK Large Cap Total Return,USD,Total,End of day,RDEXLTRUSD,,.RDEXLTRUSD
+Russell Developed Europe ex-UK Midcap,USD,Price,End of day,RDEXMUSD,,.RDEXMUSD
+Russell Developed Europe ex-UK Midcap Total Return,USD,Total,End of day,RDEXMTRUSD,,.RDEXMTRUSD
+Russell Developed Europe ex-UK Small Cap,USD,Price,End of day,RDEXSUSD,,.RDEXSUSD
+Russell Developed Europe ex-UK Small Cap Total Return,USD,Total,End of day,RDEXSTRUSD,,.RDEXSTRUSD
+Russell Developed Europe ex-UK Total Return,USD,Total,End of day,RDEXTRUSD,,.RDEXTRUSD
+Russell Developed Europe Large Cap,USD,Price,End of day,RDEULUSD,RDEUL,.RDEULUSD
+Russell Developed Europe Large Cap Defensive,USD,Price,End of day,RDELDFU,RDELDFU,.RDELDFU
+Russell Developed Europe Large Cap Defensive EURO,EUR,Price,End of day,RDELDFE,RDELDFE,.RDELDFE
+Russell Developed Europe Large Cap Defensive Net,USD,Net,End of day,RDELDFNU,RDELDFNU,.RDELDFNU
+Russell Developed Europe Large Cap Defensive Net EURO,EUR,Net,Real Time,RDELDFNE,RDELDFNE,.RDELDFNE
+Russell Developed Europe Large Cap Defensive TR,USD,Total,End of day,RDELDFTU,RDELDFTU,.RDELDFTU
+Russell Developed Europe Large Cap Defensive TR EURO,EUR,Total,Real Time,RDELDFTE,RDELDFTE,.RDELDFTE
+Russell Developed Europe Large Cap EM GeoExposure,USD,Price,End of day,RUEGEOEX,RUEGEOEX,.RUEGEOEX
+Russell Developed Europe Large Cap EM GeoExposure Index EUR,EUR,Price,Real Time,RUEGEOEXE,,.RUEGEOEXE
+Russell Developed Europe Large Cap EM GeoExposure Index Net Ret EUR,EUR,Net,Real Time,RUEGEONE,,.RUEGEONE
+Russell Developed Europe Large Cap EM GeoExposure Net,USD,Net,End of day,RUEGEON,RUEGEON,.RUEGEON
+Russell Developed Europe Large Cap EM GeoExposure TR,USD,Total,End of day,RUEGEOT,RUEGEOT,.RUEGEOT
+Russell Developed Europe Large Cap EURO ,EUR,Price,End of day,RDEULEUR,,.RDEULEUR
+Russell Developed Europe Large Cap EURO Net Return,EUR,Net,End of day,RDEULNEUR,,.RDEULNEUR
+Russell Developed Europe Large Cap EURO Ttl Return,EUR,Total,End of day,RDEULTEUR,RUDEULT,.RDEULTEUR
+Russell Developed Europe Large Cap High Eff Def - Low EUR,EUR,Price,End of day,RURDEL3,RURDEL3,.RURDEL3
+Russell Developed Europe Large Cap High Eff Def - Low NR EUR,EUR,Net,End of day,RURDEL3N,RURDEL3N,.RURDEL3N
+Russell Developed Europe Large Cap High Eff Def - Low TR EUR,EUR,Total,End of day,RURDEL3T,RURDEL3T,.RURDEL3T
+Russell Developed Europe Large Cap High Eff Def - Mod EUR,EUR,Price,End of day,RURDEL6,RURDEL6,.RURDEL6
+Russell Developed Europe Large Cap High Eff Def - Mod NR EUR,EUR,Net,End of day,RURDEL6N,RURDEL6N,.RURDEL6N
+Russell Developed Europe Large Cap High Eff Def - Mod TR EUR,EUR,Total,End of day,RURDEL6T,RURDEL6T,.RURDEL6T
+Russell Developed Europe Large Cap High Eff Low Volatility Index Net,EUR,Net,Real Time,RURHWLLN,RURHWLLN,.RURHWLLN
+Russell Developed Europe Large Cap High Eff Momentum Index Net,EUR,Net,Real Time,RURHWLMN,RURHWLMN,.RURHWLMN
+Russell Developed Europe Large Cap High Eff Quality Index Net,EUR,Net,Real Time,RURHWLQN,RURHWLQN,.RURHWLQN
+Russell Developed Europe Large Cap High Eff Value Index Net,EUR,Net,Real Time,RURHWLVN,RURHWLVN,.RURHWLVN
+Russell Developed Europe Large Cap Index GBP,GBP,Price,End of day,,RUDEULNE,
+Russell Developed Europe Large Cap Net Return,USD,Net,End of day,RDEULNUSD,RDEULK,.RDEULNUSD
+Russell Developed Europe Large Cap Total Return,USD,Total,End of day,RDEULTRUSD,,.RDEULTRUSD
+Russell Developed Europe LC Defensive,EUR,Price,End of day,RDELDFPE,,.RDELDFPE
+Russell Developed Europe LC High Eff Low Volatility Index,EUR,Price,End of day,RURHWLL,,.RURHWLL
+Russell Developed Europe LC High Eff Momentum Index,EUR,Price,End of day,RURHWLM,,.RURHWLM
+Russell Developed Europe LC High Eff Quality Index,EUR,Price,End of day,RURHWLQ,,.RURHWLQ
+Russell Developed Europe LC High Eff Value Index,EUR,Price,End of day,RURHWLV,,.RURHWLV
+Russell Developed Europe Midcap,USD,Price,End of day,RDEUMUSD,,.RDEUMUSD
+Russell Developed Europe Midcap EURO ,EUR,Price,End of day,RDEUMEUR,,.RDEUMEUR
+Russell Developed Europe Midcap EURO Net Return,EUR,Net,End of day,RDEUMNEUR,,.RDEUMNEUR
+Russell Developed Europe Midcap EURO Total Return,EUR,Total,End of day,RDEUMTEUR,,.RDEUMTEUR
+Russell Developed Europe Midcap Net Return,USD,Net,End of day,RDEUMNUSD,,.RDEUMNUSD
+Russell Developed Europe Midcap Total Return,USD,Total,End of day,RDEUMTRUSD,,.RDEUMTRUSD
+Russell Developed Europe Net Return,USD,Net,End of day,RDEUNUSD,,.RDEUNUSD
+Russell Developed Europe Small Cap,USD,Price,End of day,RDEUSUSD,RDEUS,.RDEUSUSD
+Russell Developed Europe Small Cap EURO ,EUR,Price,End of day,RDEUSEUR,,.RDEUSEUR
+Russell Developed Europe Small Cap EURO Net Return,EUR,Net,End of day,RDEUSNEUR,,.RDEUSNEUR
+Russell Developed Europe Small Cap EURO Ttl Return,EUR,Total,End of day,RDEUSTEUR,,.RDEUSTEUR
+Russell Developed Europe Small Cap Net Return,USD,Net,End of day,RDEUSNUSD,RUDEUSNE,.RDEUSNUSD
+Russell Developed Europe Small Cap Total Return,USD,Total,End of day,RDEUSTRUSD,,.RDEUSTRUSD
+Russell Developed Europe SMID,EUR,Price,Real Time,RUESMID,RUESMID,.RUESMID
+Russell Developed Europe Total Return,USD,Total,End of day,RDEUTRUSD,,.RDEUTRUSD
+Russell Developed Eurozone Defensive ,USD,Price,End of day,RUEUZDF,RUEUZDF,.RUEUZDF
+Russell Developed Eurozone Defensive Net Return,USD,Net,End of day,RUEUZDFN,RUEUZDFN,.RUEUZDFN
+Russell Developed Eurozone Defensive Total Return,USD,Total,End of day,RUEUZDFT,RUEUZDFT,.RUEUZDFT
+Russell Developed Eurozone Dynamic ,USD,Price,End of day,RUEUZDY,RUEUZDY,.RUEUZDY
+Russell Developed Eurozone Dynamic Net Return,USD,Net,End of day,RUEUZDYN,RUEUZDYN,.RUEUZDYN
+Russell Developed Eurozone Dynamic Total Return,USD,Total,End of day,RUEUZDYT,RUEUZDYT,.RUEUZDYT
+Russell Developed Eurozone Large Cap,USD,Price,End of day,REUZLUSD,,.REUZLUSD
+Russell Developed Eurozone Large Cap Total Return,USD,Total,End of day,REUZLTRUSD,,.REUZLTRUSD
+Russell Developed Eurozone Midcap,USD,Price,End of day,REUZMUSD,,.REUZMUSD
+Russell Developed Eurozone Midcap Total Return,USD,Total,End of day,REUZMTRUSD,,.REUZMTRUSD
+Russell Developed Eurozone Small Cap,USD,Price,End of day,REUZSUSD,,.REUZSUSD
+Russell Developed Eurozone Small Cap Total Return,USD,Total,End of day,REUZSTRUSD,,.REUZSTRUSD
+Russell Developed Eurozone SMID EUR,EUR,Price,Real Time,RUEZSMID,,.RUEZSMID
+Russell Developed ex-Japan,USD,Price,End of day,RDXJUSD,RDXJ,.RDXJUSD
+Russell Developed ex-Japan Large Cap,USD,Price,End of day,RDXJLUSD,RDXJL,.RDXJLUSD
+Russell Developed ex-Japan Large Cap Total Return,USD,Total,End of day,RDXJLTRUSD,,.RDXJLTRUSD
+Russell Developed ex-Japan Midcap,USD,Price,End of day,RDXJMUSD,,.RDXJMUSD
+Russell Developed ex-Japan Midcap Total Return,USD,Total,End of day,RDXJMTRUSD,,.RDXJMTRUSD
+Russell Developed ex-Japan Small Cap,USD,Price,End of day,RDXJSUSD,RDXJS,.RDXJSUSD
+Russell Developed ex-Japan Small Cap Total Return,USD,Total,End of day,RDXJSTRUSD,,.RDXJSTRUSD
+Russell Developed ex-Japan Total Return,USD,Total,End of day,RDXJTRUSD,,.RDXJTRUSD
+Russell Developed ex-NA,USD,Price,End of day,RDXNUSD,RDXN,.RDXNUSD
+Russell Developed ex-NA Large Cap,USD,Price,Real Time,RDXNLUSD,RDXNL,.RDXNLUSD
+Russell Developed ex-NA Large Cap EM GeoExposure,USD,Price,End of day,RUXNGEO,RUXNGEO,.RUXNGEO
+Russell Developed ex-NA Large Cap EM GeoExposure Index EUR,EUR,Price,Real Time,RUXNGEOE,,.RUXNGEOE
+Russell Developed ex-NA Large Cap EM GeoExposure Index Net EUR,EUR,Net,Real Time,RUXNGEONE,,.RUXNGEONE
+Russell Developed ex-NA Large Cap EM GeoExposure Net,USD,Net,End of day,RUXNGEON,RUXNGEON,.RUXNGEON
+Russell Developed ex-NA Large Cap EM GeoExposure TR,USD,Total,End of day,RUXNGEOT,RUXNGEOT,.RUXNGEOT
+Russell Developed ex-NA Large Cap Growth,USD,Price,End of day,RDXNLGUSD,RDXNLG,.RDXNLGUSD
+Russell Developed ex-NA Large Cap Growth Net Return,USD,Net,End of day,,RDXNLZ,
+Russell Developed ex-NA Large Cap Growth Total Return,USD,Total,End of day,RDXNLGTRUSD,RDXNLY,.RDXNLGTRUSD
+Russell Developed ex-NA Large Cap High Eff Def - Low,USD,Price,End of day,RURDNL3,RURDNL3,.RURDNL3
+Russell Developed ex-NA Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDNL3N,RURDNL3N,.RURDNL3N
+Russell Developed ex-NA Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDNL3T,RURDNL3T,.RURDNL3T
+Russell Developed ex-NA Large Cap High Eff Def - Mod,USD,Price,End of day,RURDNL6,RURDNL6,.RURDNL6
+Russell Developed ex-NA Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDNL6N,RURDNL6N,.RURDNL6N
+Russell Developed ex-NA Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDNL6T,RURDNL6T,.RURDNL6T
+Russell Developed ex-NA Large Cap Index GBP,GBP,Price,End of day,,RUDXNLNC,
+Russell Developed ex-NA Large Cap Net Return,USD,Net,End of day,,RDXNLCZ,
+Russell Developed ex-NA Large Cap Total Return,USD,Total,End of day,RDXNLTRUSD,,.RDXNLTRUSD
+Russell Developed ex-NA Large Cap Value,USD,Price,End of day,RDXNLVUSD,,.RDXNLVUSD
+Russell Developed ex-NA Large Cap Value Total Return,USD,Total,End of day,RDXNLVTRUSD,,.RDXNLVTRUSD
+Russell Developed ex-NA Midcap,USD,Price,End of day,RDXNMUSD,,.RDXNMUSD
+Russell Developed ex-NA Midcap Total Return,USD,Total,End of day,RDXNMTRUSD,,.RDXNMTRUSD
+Russell Developed ex-NA Small Cap,USD,Price,End of day,RDXNSUSD,,.RDXNSUSD
+Russell Developed ex-NA Small Cap Growth,USD,Price,End of day,RDXNSGUSD,,.RDXNSGUSD
+Russell Developed ex-NA Small Cap Growth Total Return,USD,Total,End of day,RDXNSGTRUSD,,.RDXNSGTRUSD
+Russell Developed ex-NA Small Cap Total Return,USD,Total,End of day,RDXNSTRUSD,,.RDXNSTRUSD
+Russell Developed ex-NA Small Cap Value,USD,Price,End of day,RDXNSVUSD,,.RDXNSVUSD
+Russell Developed ex-NA Small Cap Value Total Return,USD,Total,End of day,RDXNSVTRUSD,,.RDXNSVTRUSD
+Russell Developed ex-NA Total Return,USD,Total,End of day,RDXNTRUSD,,.RDXNTRUSD
+Russell Developed ex-UK Large Cap,USD,Price,End of day,RDXKL,,.RDXKL
+Russell Developed ex-UK Large Cap Net Return,USD,Net,End of day,RDXKLN,,.RDXKLN
+Russell Developed ex-UK Large Cap Total,USD,Total,End of day,RDXKLT,,.RDXKLT
+Russell Developed ex-US,USD,Price,Real Time,RDXUUSD,RDXU,.RDXUUSD
+Russell Developed ex-US Growth,USD,Price,End of day,RDXUGUSD,,
+Russell Developed ex-US Growth Net Return,USD,Net,End of day,RDXUGNUSD,,
+Russell Developed ex-US Growth Total Return,USD,Total,End of day,RDXUGTUSD,,
+Russell Developed ex-US Large Cap,USD,Price,End of day,RDXULUSD,RDXUL,.RDXULUSD
+Russell Developed ex-US Large Cap Defensive,USD,Price,End of day,RUDXULF,,.RUDXULF
+Russell Developed ex-US Large Cap Defensive Net Rtn,USD,Net,End of day,RUDXULFN,RUDXULFN,.RUDXULFN
+Russell Developed ex-US Large Cap Defensive Total Rtn,USD,Total,End of day,RUDXULFT,,.RUDXULFT
+Russell Developed ex-US Large Cap Dynamic,USD,Price,End of day,RUDXULY,,.RUDXULY
+Russell Developed ex-US Large Cap Dynamic Net Rtn,USD,Net,End of day,RUDXULYN,RUDXULYN,.RUDXULYN
+Russell Developed ex-US Large Cap Dynamic Total Rtn,USD,Total,End of day,RUDXULYT,,.RUDXULYT
+Russell Developed ex-US Large Cap Growth,USD,Price,End of day,RUDXULG,,
+Russell Developed ex-US Large Cap Growth Net Return,USD,Net,End of day,RUDXULGN,,
+Russell Developed ex-US Large Cap Growth Total Return,USD,Total,End of day,RUDXULGT,,
+Russell Developed ex-US Large Cap High Beta,USD,Price,End of day,RUDHBTA,RUDHBTA,.RUDHBTA
+Russell Developed ex-US Large Cap High Beta NR,USD,Net,End of day,RUDHBTAN,,.RUDHBTAN
+Russell Developed ex-US Large Cap High Beta TR,USD,Total,End of day,RUDHBTATR,RUDHBTAT,.RUDHBTATR
+Russell Developed ex-US Large Cap High Eff Def - Low,USD,Price,End of day,RURDXL3,RURDXL3,.RURDXL3
+Russell Developed ex-US Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDXL3N,RURDXL3N,.RURDXL3N
+Russell Developed ex-US Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDXL3T,RURDXL3T,.RURDXL3T
+Russell Developed ex-US Large Cap High Eff Def - Mod,USD,Price,End of day,RURDXL6,RURDXL6,.RURDXL6
+Russell Developed ex-US Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDXL6N,RURDXL6N,.RURDXL6N
+Russell Developed ex-US Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDXL6T,RURDXL6T,.RURDXL6T
+Russell Developed ex-US Large Cap High Eff Low Volatility Index Net,USD,Net,Real Time,RURHRALN,RURHRALN,.RURHRALN
+Russell Developed ex-US Large Cap High Eff Momentum Index Net,USD,Net,Real Time,RURHRAMN,RURHRAMN,.RURHRAMN
+Russell Developed ex-US Large Cap High Eff Quality Index Net,USD,Net,Real Time,RURHRAQN,RURHRAQN,.RURHRAQN
+Russell Developed ex-US Large Cap High Eff Value Index Net,USD,Net,Real Time,RURHRAVN,RURHRAVN,.RURHRAVN
+Russell Developed ex-US Large Cap High Mom,USD,Price,End of day,RUDHMTM,RUDHMTM,.RUDHMTM
+Russell Developed ex-US Large Cap High Mom NR,USD,Net,End of day,RUDHMTMN,,.RUDHMTMN
+Russell Developed ex-US Large Cap High Mom TR,USD,Total,End of day,RUDHMTMTR,RUDHMTMT,.RUDHMTMTR
+Russell Developed ex-US Large Cap High Vol,USD,Price,End of day,RUDHVOL,RUDHVOL,.RUDHVOL
+Russell Developed ex-US Large Cap High Vol NR,USD,Net,End of day,RUDHVOLN,,.RUDHVOLN
+Russell Developed ex-US Large Cap High Vol TR,USD,Total,End of day,RUDHVOLTR,RUDHVOLT,.RUDHVOLTR
+Russell Developed ex-US Large Cap Low Beta,USD,Price,End of day,RUDLBTA,RUDLBTA,.RUDLBTA
+Russell Developed ex-US Large Cap Low Beta NR,USD,Net,End of day,RUDLBTAN,,.RUDLBTAN
+Russell Developed ex-US Large Cap Low Beta TR,USD,Total,End of day,RUDLBTATR,RUDLBTAT,.RUDLBTATR
+Russell Developed ex-US Large Cap Low Vol NR,USD,Net,End of day,RUDLVOLN,,.RUDLVOLN
+Russell Developed ex-US Large Cap Low Vol TR,USD,Total,End of day,RUDLVOLTR,RUDLVOLT,.RUDLVOLTR
+Russell Developed ex-US Large Cap Low Volatility,USD,Price,Real Time,RUDLVOL,RUDLVOL,.RUDLVOL
+Russell Developed ex-US Large Cap Net Return,USD,Net,Real Time,RUDXULN,RUDXULN,.RUDXULN
+Russell Developed ex-US Large Cap Total Return,USD,Total,Real Time,RDXULR,RDXULR,.RDXULR
+Russell Developed ex-US Large Cap Value Index,USD,Price,End of day,RUDXULV,,.RUDXULV
+Russell Developed ex-US Large Cap Value Index Net Return,USD,Net,End of day,RUDXULVNR,,.RUDXULVNR
+Russell Developed ex-US Large Cap Value Index Total Return,USD,Total,End of day,RUDXULVTR,,.RUDXULVTR
+Russell Developed ex-US Midcap,USD,Price,End of day,RDXUMUSD,,.RDXUMUSD
+Russell Developed ex-US Midcap Growth,USD,Price,End of day,RDXUMGUSD,,
+Russell Developed ex-US Midcap Growth Net Return,USD,Net,End of day,RDXUMGNUSD,,
+Russell Developed ex-US Midcap Growth Total Return,USD,Total,End of day,RDXUMGTUSD,,
+Russell Developed ex-US Midcap Total Return,USD,Total,End of day,RDXUMTRUSD,,.RDXUMTRUSD
+Russell Developed ex-US Midcap Value,USD,Price,End of day,RDXUMVUSD,,
+Russell Developed ex-US Midcap Value Net Return,USD,Net,End of day,RDXUMVNUSD,,
+Russell Developed ex-US Midcap Value Total Return,USD,Total,End of day,RDXUMVTUSD,,
+Russell Developed ex-US Net Return,USD,Net,End of day,RUDXUN,RDXUN,.RUDXUN
+Russell Developed ex-US Small Cap,USD,Price,End of day,RDXUSUSD,RDXUS,.RDXUSUSD
+Russell Developed ex-US Small Cap Growth,USD,Price,End of day,RDXUSGUSD,,
+Russell Developed ex-US Small Cap Growth Net Return,USD,Net,End of day,RDXUSGNUSD,,
+Russell Developed ex-US Small Cap Growth Total Return,USD,Total,End of day,RDXUSGTUSD,,
+Russell Developed ex-US Small Cap Net Return,USD,Net,End of day,RUDXUSN,RDXUSQ,.RUDXUSN
+Russell Developed ex-US Small Cap Total Return,USD,Total,End of day,RDXUSTRUSD,RDXUSC,.RDXUSTRUSD
+Russell Developed ex-US Small Cap Value,USD,Price,End of day,RDXUSVUSD,,
+Russell Developed ex-US Small Cap Value Net Return,USD,Net,End of day,RDXUSVNUSD,,
+Russell Developed ex-US Small Cap Value Total Return,USD,Total,End of day,RDXUSVTUSD,,
+Russell Developed ex-US Total Return,USD,Total,Real Time,RDXUTRUSD,RDXUR,.RDXUTRUSD
+Russell Developed ex-US Value,USD,Price,End of day,RDXUVUSD,,
+Russell Developed ex-US Value Net Return,USD,Net,End of day,RDXUVNUSD,,
+Russell Developed ex-US Value Total Return,USD,Total,End of day,RDXUVTUSD,,
+Russell Developed Growth Index,USD,Total,End of day,,RUDEVGTR,
+Russell Developed Growth-Defensive TR,USD,Total,End of day,RUDGDFTR,RUDVGFT,.RUDGDFTR
+Russell Developed Growth-Dynamic TR,USD,Total,End of day,RUDGDYTR,RUDVGYT,.RUDGDYTR
+Russell Developed Large Cap,USD,Price,End of day,RDEVLUSD,RDEVL,.RDEVLUSD
+Russell Developed Large Cap Defensive Index,USD,Price,End of day,RUDDFLC,,.RUDDFLC
+Russell Developed Large Cap Defensive Index Net Return,USD,Net,End of day,RUDDFLCN,,.RUDDFLCN
+Russell Developed Large Cap Defensive Index Total Return,USD,Total,End of day,RUDDFLCTR,,.RUDDFLCTR
+Russell Developed Large Cap EM GeoExposure,USD,Price,End of day,RULGEOEX,RULGEOEX,.RULGEOEX
+Russell Developed Large Cap EM GeoExposure Index EUR,EUR,Price,Real Time,RULGEOEXE,,.RULGEOEXE
+Russell Developed Large Cap EM GeoExposure Index Net Return EUR,EUR,Net,Real Time,RULGEONE,,.RULGEONE
+Russell Developed Large Cap EM GeoExposure Index TR,USD,Total,End of day,RULGEOT,RULGEOT,.RULGEOT
+Russell Developed Large Cap EM GeoExposure Net,USD,Net,Real Time,RULGEON,RULGEON,.RULGEON
+Russell Developed Large Cap Growth,USD,Price,End of day,RDEVLGUSD,RDEVLG,.RDEVLGUSD
+Russell Developed Large Cap Growth Net ,USD,Net,Real Time,RDEVLGNR,,.RDEVLGNR
+Russell Developed Large Cap Growth Total Return,USD,Total,End of day,RDEVLGTRUSD,,.RDEVLGTRUSD
+Russell Developed Large Cap High Eff Def - Low,USD,Price,End of day,RURDDL3,RURDDL3,.RURDDL3
+Russell Developed Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDDL3N,RURDDL3N,.RURDDL3N
+Russell Developed Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDDL3T,RURDDL3T,.RURDDL3T
+Russell Developed Large Cap High Eff Def - Mod,USD,Price,End of day,RURDDL6,RURDDL6,.RURDDL6
+Russell Developed Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDDL6N,RURDDL6N,.RURDDL6N
+Russell Developed Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDDL6T,RURDDL6T,.RURDDL6T
+Russell Developed Large Cap High Eff Low Volatility Index Net,USD,Net,Real Time,RURHRSLN,RURHRSLN,.RURHRSLN
+Russell Developed Large Cap High Eff Momentum Index Net,USD,Net,Real Time,RURHRSMN,RURHRSMN,.RURHRSMN
+Russell Developed Large Cap High Eff Quality Index Net,USD,Net,Real Time,RURHRSQN,RURHRSQN,.RURHRSQN
+Russell Developed Large Cap High Eff Value Index Net,USD,Net,Real Time,RURHRSVN,RURHRSVN,.RURHRSVN
+Russell Developed Large Cap Index EUR,EUR,Net,End of day,,RUDEVLNE,
+Russell Developed Large Cap Index GBP,GBP,Net,End of day,,RUDEVLNP,
+Russell Developed Large Cap Index JPY,JPY,Net,End of day,,RUDEVLNY,
+Russell Developed Large Cap Net,USD,Net,Real Time,RDEVLCNR,RUDEVLN,.RDEVLCNR
+Russell Developed Large Cap Total Return,USD,Total,End of day,RDEVLTRUSD,,.RDEVLTRUSD
+Russell Developed Large Cap Value,USD,Price,End of day,RDEVLVUSD,RDEVLV,.RDEVLVUSD
+Russell Developed Large Cap Value Net,USD,Net,Real Time,RDEVLVNR,,.RDEVLVNR
+Russell Developed Large Cap Value Total Return,USD,Total,End of day,RDEVLVTRUSD,,.RDEVLVTRUSD
+Russell Developed LC High Eff Low Volatility Index,USD,Price,End of day,RURHRSL,,.RURHRSL
+Russell Developed LC High Eff Momentum Index,USD,Price,End of day,RURHRSM,,.RURHRSM
+Russell Developed LC High Eff Quality Index,USD,Price,End of day,RURHRSQ,,.RURHRSQ
+Russell Developed LC High Eff Value Index,USD,Price,End of day,RURHRSV,,.RURHRSV
+Russell Developed Midcap,USD,Price,End of day,RDEVMUSD,,.RDEVMUSD
+Russell Developed Midcap Total Return,USD,Total,End of day,RDEVMTRUSD,,.RDEVMTRUSD
+Russell Developed Pacific Basin,USD,Price,End of day,RDPBUSD,RDPB,.RDPBUSD
+Russell Developed Pacific Basin ex-Japan,USD,Price,End of day,RDPJUSD,RDPJ,.RDPJUSD
+Russell Developed Pacific Basin ex-Japan Large Cap,USD,Price,End of day,RDPJLUSD,,.RDPJLUSD
+Russell Developed Pacific Basin ex-Japan Large Cap Index Net,USD,Net,End of day,RDPJLNUSD,,.RDPJLNUSD
+Russell Developed Pacific Basin ex-Japan Large Cap Total Return,USD,Total,End of day,RDPJLTRUSD,,.RDPJLTRUSD
+Russell Developed Pacific Basin ex-Japan Midcap,USD,Price,End of day,RDPJMUSD,,.RDPJMUSD
+Russell Developed Pacific Basin ex-Japan Midcap Total Return,USD,Total,End of day,RDPJMTRUSD,,.RDPJMTRUSD
+Russell Developed Pacific Basin ex-Japan Small Cap,USD,Price,End of day,RDPJSUSD,RDPJS,.RDPJSUSD
+Russell Developed Pacific Basin ex-Japan Small Cap Total Return,USD,Total,End of day,RDPJSTRUSD,,.RDPJSTRUSD
+Russell Developed Pacific Basin ex-Japan Total Return,USD,Total,End of day,RDPJTRUSD,,.RDPJTRUSD
+Russell Developed Pacific Basin Large Cap,USD,Price,End of day,RDPBLUSD,RDPBL,.RDPBLUSD
+Russell Developed Pacific Basin Large Cap Total Return,USD,Total,End of day,RDPBLTRUSD,,.RDPBLTRUSD
+Russell Developed Pacific Basin Midcap,USD,Price,End of day,RDPBMUSD,,.RDPBMUSD
+Russell Developed Pacific Basin Midcap Total Return,USD,Total,End of day,RDPBMTRUSD,,.RDPBMTRUSD
+Russell Developed Pacific Basin Small Cap,USD,Price,End of day,RDPBSUSD,RDPBS,.RDPBSUSD
+Russell Developed Pacific Basin Small Cap Total Return,USD,Total,End of day,RDPBSTRUSD,,.RDPBSTRUSD
+Russell Developed Pacific Basin Total Return,USD,Total,End of day,RDPBTRUSD,,.RDPBTRUSD
+Russell Developed Small Cap,USD,Price,End of day,RDEVSUSD,RDEVS,.RDEVSUSD
+Russell Developed Small Cap Growth,USD,Price,End of day,RDEVSGUSD,,.RDEVSGUSD
+Russell Developed Small Cap Growth Total Return,USD,Total,End of day,RDEVSGTRUSD,,.RDEVSGTRUSD
+Russell Developed Small Cap Total Return,USD,Total,End of day,RDEVSTRUSD,,.RDEVSTRUSD
+Russell Developed Small Cap Value,USD,Price,End of day,RDEVSVUSD,,.RDEVSVUSD
+Russell Developed Small Cap Value Total Return,USD,Total,End of day,RDEVSVTRUSD,,.RDEVSVTRUSD
+Russell Developed Total Return,USD,Total,End of day,RDEVTRUSD,,.RDEVTRUSD
+Russell Developed Value Index,USD,Total,End of day,,RUDEVVTR,
+Russell Developed Value-Defensive TR,USD,Total,End of day,RUDVDFTR,RUDVVFT,.RUDVDFTR
+Russell Developed Value-Dynamic TR,USD,Total,End of day,RUDVDYTR,RUDVVYT,.RUDVDYTR
+Russell Developed xUS LC High Eff Low Volatility Index,USD,Price,End of day,RURHRAL,,.RURHRAL
+Russell Developed xUS LC High Eff Momentum Index,USD,Price,End of day,RURHRAM,,.RURHRAM
+Russell Developed xUS LC High Eff Quality Index,USD,Price,End of day,RURHRAQ,,.RURHRAQ
+Russell Developed xUS LC High Eff Value Index,USD,Price,End of day,RURHRAV,,.RURHRAV
+Russell Egypt,USD,Price,End of day,RGEG,,.RGEG
+Russell Egypt Total Return,USD,Total,End of day,RGEGT,,.RGEGT
+Russell Emerging Asia,USD,Price,End of day,REASUSD,REAS,.REASUSD
+Russell Emerging Asia Defensive,USD,Price,End of day,RUEASDF,RUEASDF,.RUEASDF
+Russell Emerging Asia Defensive Net Return,USD,Net,End of day,RUEASDFN,RUEASDFN,.RUEASDFN
+Russell Emerging Asia Defensive Total Return,USD,Total,End of day,RUEASDFT,RUEASDFT,.RUEASDFT
+Russell Emerging Asia Dynamic,USD,Price,End of day,RUEASDY,RUEASDY,.RUEASDY
+Russell Emerging Asia Dynamic Net Return,USD,Net,End of day,RUEASDYN,RUEASDYN,.RUEASDYN
+Russell Emerging Asia Dynamic Total Return,USD,Total,End of day,RUEASDYT,RUEASDYT,.RUEASDYT
+Russell Emerging Asia Large Cap,USD,Price,End of day,REASLUSD,REASL,.REASLUSD
+Russell Emerging Asia Large Cap Total Return,USD,Total,End of day,REASLTRUSD,,.REASLTRUSD
+Russell Emerging Asia Midcap,USD,Price,End of day,REASMUSD,,.REASMUSD
+Russell Emerging Asia Midcap Total Return,USD,Total,End of day,REASMTRUSD,,.REASMTRUSD
+Russell Emerging Asia Small Cap,USD,Price,End of day,REASSUSD,REASS,.REASSUSD
+Russell Emerging Asia Small Cap Total Return,USD,Total,End of day,REASSTRUSD,,.REASSTRUSD
+Russell Emerging Asia Total Return,USD,Total,End of day,REASTRUSD,,.REASTRUSD
+Russell Emerging EMEA,USD,Price,End of day,REMAUSD,REMA,.REMAUSD
+Russell Emerging EMEA Total Return,USD,Total,End of day,REMATRUSD,,.REMATRUSD
+Russell Emerging Europe,USD,Price,End of day,REEUUSD,REEU,.REEUUSD
+Russell Emerging Europe Growth,USD,Price,End of day,REEUGUSD,REEUG,.REEUGUSD
+Russell Emerging Europe Growth Total Return,USD,Total,End of day,REEUGTRUSD,,.REEUGTRUSD
+Russell Emerging Europe Large Cap,USD,Price,End of day,REEULUSD,REEUL,.REEULUSD
+Russell Emerging Europe Large Cap Growth,USD,Price,End of day,REEULGUSD,,.REEULGUSD
+Russell Emerging Europe Large Cap Growth Total Return,USD,Total,End of day,REEULGTRUSD,,.REEULGTRUSD
+Russell Emerging Europe Large Cap Total Return,USD,Total,End of day,REEULTRUSD,,.REEULTRUSD
+Russell Emerging Europe Large Cap Value,USD,Price,End of day,REEULVUSD,,.REEULVUSD
+Russell Emerging Europe Large Cap Value Total Return,USD,Total,End of day,REEULVTRUSD,,.REEULVTRUSD
+Russell Emerging Europe Midcap,USD,Price,End of day,REEUMUSD,,.REEUMUSD
+Russell Emerging Europe Midcap Growth,USD,Price,End of day,REEUMGUSD,,.REEUMGUSD
+Russell Emerging Europe Midcap Growth Total Return,USD,Total,End of day,REEUMGTRUSD,,.REEUMGTRUSD
+Russell Emerging Europe Midcap Total Return,USD,Total,End of day,REEUMTRUSD,,.REEUMTRUSD
+Russell Emerging Europe Midcap Value,USD,Price,End of day,REEUMVUSD,,.REEUMVUSD
+Russell Emerging Europe Midcap Value Total Return,USD,Total,End of day,REEUMVTRUSD,,.REEUMVTRUSD
+Russell Emerging Europe Small Cap,USD,Price,End of day,REEUSUSD,REEUS,.REEUSUSD
+Russell Emerging Europe Small Cap Growth,USD,Price,End of day,REEUSGUSD,,.REEUSGUSD
+Russell Emerging Europe Small Cap Growth Total Return,USD,Total,End of day,REEUSGTRUSD,,.REEUSGTRUSD
+Russell Emerging Europe Small Cap Total Return,USD,Total,End of day,REEUSTRUSD,,.REEUSTRUSD
+Russell Emerging Europe Small Cap Value,USD,Price,End of day,REEUSVUSD,,.REEUSVUSD
+Russell Emerging Europe Small Cap Value Total Return,USD,Total,End of day,REEUSVTRUSD,,.REEUSVTRUSD
+Russell Emerging Europe Total Return,USD,Total,End of day,REEUTRUSD,,.REEUTRUSD
+Russell Emerging Europe Value,USD,Price,End of day,REEUVUSD,REEUV,.REEUVUSD
+Russell Emerging Europe Value Total Return,USD,Total,End of day,REEUVTRUSD,,.REEUVTRUSD
+Russell Emerging Large Cap High Eff Low Volatility Index Net,USD,Net,Real Time,RURHILLN,RURHILLN,.RURHILLN
+Russell Emerging Large Cap High Eff Momentum Index Net,USD,Net,Real Time,RURHILMN,RURHILMN,.RURHILMN
+Russell Emerging Large Cap High Eff Quality Index Net,USD,Net,Real Time,RURHILQN,RURHILQN,.RURHILQN
+Russell Emerging Large Cap High Eff Value Index Net,USD,Net,Real Time,RURHILVN,RURHILVN,.RURHILVN
+Russell Emerging LC High Eff Low Volatility Index,USD,Price,End of day,RURHILL,,.RURHILL
+Russell Emerging LC High Eff Momentum Index,USD,Price,End of day,RURHILM,,.RURHILM
+Russell Emerging LC High Eff Quality Index,USD,Price,End of day,RURHILQ,,.RURHILQ
+Russell Emerging LC High Eff Value Index,USD,Price,End of day,RURHILV,,.RURHILV
+Russell Emerging Mkts,USD,Price,End of day,REMMUSD,REMM,.REMMUSD
+Russell Emerging Mkts CAD Total Return,CAD,Total,End of day,REMMTCAD,,.REMMTCAD
+Russell Emerging Mkts Defensive ,USD,Price,End of day,RUEMMDF,RUEMMDF,.RUEMMDF
+Russell Emerging Mkts Defensive Net Return,USD,Net,End of day,RUEMMDFN,RUEMMDFN,.RUEMMDFN
+Russell Emerging Mkts Defensive Total Return,USD,Total,End of day,RUEMMDFT,RUEMMDFT,.RUEMMDFT
+Russell Emerging Mkts Dynamic ,USD,Price,End of day,RUEMMDY,RUEMMDY,.RUEMMDY
+Russell Emerging Mkts Dynamic Net Return,USD,Net,End of day,RUEMMDYN,RUEMMDYN,.RUEMMDYN
+Russell Emerging Mkts Dynamic Total Return,USD,Total,End of day,RUEMMDYT,RUEMMDYT,.RUEMMDYT
+Russell Emerging Mkts Growth,USD,Price,End of day,REMMGUSD,REMMG,.REMMGUSD
+Russell Emerging Mkts Growth Total Return,USD,Total,End of day,REMMGTRUSD,,.REMMGTRUSD
+Russell Emerging Mkts Growth-Defensive TR,USD,Total,End of day,RUEMMGDFT,RUEMGFT,.RUEMMGDFT
+Russell Emerging Mkts Growth-Dynamic TR,USD,Total,End of day,RUEMMGDYT,RUEMGYT,.RUEMMGDYT
+Russell Emerging Mkts Index GBP,GBP,Price,End of day,,RUEMMKNP,
+Russell Emerging Mkts Index GBP Total,GBP,Total,End of day,,RUEMKNA,
+Russell Emerging Mkts Large Cap,USD,Price,End of day,REMMLUSD,REMML,.REMMLUSD
+Russell Emerging Mkts Large Cap Growth,USD,Price,End of day,REMMLGUSD,REMMLG,.REMMLGUSD
+Russell Emerging Mkts Large Cap Growth Total Return,USD,Total,End of day,REMMLGTRUSD,,.REMMLGTRUSD
+Russell Emerging Mkts Large Cap High Eff Def - Low,USD,Price,End of day,RURDML3,RURDML3,.RURDML3
+Russell Emerging Mkts Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDML3N,RURDML3N,.RURDML3N
+Russell Emerging Mkts Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDML3T,RURDML3T,.RURDML3T
+Russell Emerging Mkts Large Cap High Eff Def - Mod,USD,Price,End of day,RURDML6,RURDML6,.RURDML6
+Russell Emerging Mkts Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDML6N,RURDML6N,.RURDML6N
+Russell Emerging Mkts Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDML6T,RURDML6T,.RURDML6T
+Russell Emerging Mkts Large Cap Net Return,USD,Net,Real Time,RUEMMLN,REMMLK,.RUEMMLN
+Russell Emerging Mkts Large Cap Total Return,USD,Total,Real Time,REMMLTRUSD,REMMLA,.REMMLTRUSD
+Russell Emerging Mkts Large Cap Value,USD,Price,End of day,REMMLVUSD,REMMLV,.REMMLVUSD
+Russell Emerging Mkts Large Cap Value Total Return,USD,Total,End of day,REMMLVTRUSD,,.REMMLVTRUSD
+Russell Emerging Mkts Midcap,USD,Price,End of day,REMMMUSD,,.REMMMUSD
+Russell Emerging Mkts Midcap Growth,USD,Price,End of day,REMMMGUSD,,.REMMMGUSD
+Russell Emerging Mkts Midcap Growth Total Return,USD,Total,End of day,REMMMGTRUSD,,.REMMMGTRUSD
+Russell Emerging Mkts Midcap Net Return,USD,Net,End of day,RUEMMMCN,,.RUEMMMCN
+Russell Emerging Mkts Midcap Total Return,USD,Total,End of day,REMMMTRUSD,,.REMMMTRUSD
+Russell Emerging Mkts Midcap Value,USD,Price,End of day,REMMMVUSD,,.REMMMVUSD
+Russell Emerging Mkts Midcap Value Total Return,USD,Total,End of day,REMMMVTRUSD,,.REMMMVTRUSD
+Russell Emerging Mkts Net,USD,Net,Real Time,RUEMMKN,RUEMMKN,.RUEMMKN
+Russell Emerging Mkts Small Cap,USD,Price,End of day,REMMSUSD,REMMS,.REMMSUSD
+Russell Emerging Mkts Small Cap Growth,USD,Price,End of day,REMMSGUSD,REMMSG,.REMMSGUSD
+Russell Emerging Mkts Small Cap Growth Total Return,USD,Total,End of day,REMMSGTRUSD,,.REMMSGTRUSD
+Russell Emerging Mkts Small Cap Net Return,USD,Net,End of day,RUEMMSN,REMMSQ,.RUEMMSN
+Russell Emerging Mkts Small Cap Total Return,USD,Total,End of day,REMMSTRUSD,REMMSC,.REMMSTRUSD
+Russell Emerging Mkts Small Cap Value,USD,Price,End of day,REMMSVUSD,REMMSV,.REMMSVUSD
+Russell Emerging Mkts Small Cap Value Total Return,USD,Total,End of day,REMMSVTRUSD,,.REMMSVTRUSD
+Russell Emerging Mkts Total Return,USD,Total,End of day,REMMTRUSD,REMMR,.REMMTRUSD
+Russell Emerging Mkts Value,USD,Price,End of day,REMMVUSD,REMMV,.REMMVUSD
+Russell Emerging Mkts Value Total Return,USD,Total,End of day,REMMVTRUSD,,.REMMVTRUSD
+Russell Emerging Mkts Value-Defensive TR,USD,Total,End of day,RUEMMVDFT,RUEMVFT,.RUEMMVDFT
+Russell Emerging Mkts Value-Dynamic TR,USD,Total,End of day,RUEMMVDYT,RUEMVYT,.RUEMMVDYT
+Russell Europe,USD,Price,End of day,REURUSD,REUR,.REURUSD
+Russell Europe Defensive,USD,Price,End of day,RUEURDF,RUEURDF,.RUEURDF
+Russell Europe Defensive EURO Total Return,EUR,Total,End of day,RUEUDFTE,,.RUEUDFTE
+Russell Europe Defensive Net Return,USD,Net,End of day,RUEURDFN,RUEURDFN,.RUEURDFN
+Russell Europe Defensive Total Return,USD,Total,End of day,RUEURDFT,RUEURDFT,.RUEURDFT
+Russell Europe Dynamic,USD,Price,End of day,RUEURDY,RUEURDY ,.RUEURDY
+Russell Europe Dynamic EURO Total Return,EUR,Total,End of day,RUEUDYTE,,.RUEUDYTE
+Russell Europe Dynamic Net Return,USD,Net,End of day,RUEURDYN,RUEURDYN,.RUEURDYN
+Russell Europe Dynamic Total Return,USD,Total,End of day,RUEURDYTR,RUEURDYT,.RUEURDYTR
+Russell Europe ex-UK,USD,Price,End of day,REXUUSD,REXU,.REXUUSD
+Russell Europe ex-UK Large Cap,USD,Price,End of day,REXULUSD,,.REXULUSD
+Russell Europe ex-UK Large Cap Total Return,USD,Total,End of day,REXULTRUSD,,.REXULTRUSD
+Russell Europe ex-UK Midcap,USD,Price,End of day,REXUMUSD,,.REXUMUSD
+Russell Europe ex-UK Midcap Total Return,USD,Total,End of day,REXUMTRUSD,,.REXUMTRUSD
+Russell Europe ex-UK Small Cap,USD,Price,End of day,REXUSUSD,,.REXUSUSD
+Russell Europe ex-UK Small Cap Total Return,USD,Total,End of day,REXUSTRUSD,,.REXUSTRUSD
+Russell Europe ex-UK Total Return,USD,Total,End of day,REXUTRUSD,,.REXUTRUSD
+Russell Europe Large Cap,USD,Price,End of day,REURLUSD,,.REURLUSD
+Russell Europe Large Cap Total Return,USD,Total,End of day,REURLTRUSD,,.REURLTRUSD
+Russell Europe Midcap,USD,Price,End of day,REURMUSD,,.REURMUSD
+Russell Europe Midcap Total Return,USD,Total,End of day,REURMTRUSD,,.REURMTRUSD
+Russell Europe Small Cap,USD,Price,End of day,REURSUSD,,.REURSUSD
+Russell Europe Small Cap Total Return,USD,Total,End of day,REURSTRUSD,,.REURSTRUSD
+Russell Europe SMID 300 CHF,CHF,Price,End of day,RUESM3F,RUESM3F,.RUESM3F
+Russell Europe SMID 300 EUR,EUR,Price,Real Time,RUESM300,RUESM300,.RUESM300
+Russell Europe SMID 300 EUR Official Close,EUR,Price,End of day,RUESM300OC,,.RUESM300OC
+Russell Europe SMID 300 GBP,GBP,Price,End of day,RUESM3P,RUESM3P,.RUESM3P
+Russell Europe SMID 300 Net Return CHF,CHF,Net,End of day,RUESM3NF,RUESM3NF,.RUESM3NF
+Russell Europe SMID 300 Net Return EUR,EUR,Net,Real Time,RUESM3NE,RUESM3NE,.RUESM3NE
+Russell Europe SMID 300 Net Return EUR Official Close,EUR,Net,End of day,RUESM3NEOC,,.RUESM3NEOC
+Russell Europe SMID 300 Net Return GBP,GBP,Net,End of day,RUESM3NP,RUESM3NP,.RUESM3NP
+Russell Europe SMID 300 Net Return USD,USD,Net,End of day,RUESM3NU,RUESM3NU,.RUESM3NU
+Russell Europe SMID 300 Total Return CHF,CHF,Total,End of day,RUESM3TF,RUESM3TF,.RUESM3TF
+Russell Europe SMID 300 Total Return EUR,EUR,Total,End of day,RUESM3TE,RUESM3TE,.RUESM3TE
+Russell Europe SMID 300 Total Return GBP,GBP,Total,End of day,RUESM3TP,RUESM3TP,.RUESM3TP
+Russell Europe SMID 300 Total Return USD,USD,Total,End of day,RUESM3TU,RUESM3TU,.RUESM3TU
+Russell Europe SMID 300 USD,USD,Price,End of day,RUESM3U,RUESM3U,.RUESM3U
+Russell Europe Total Return,USD,Total,End of day,REURTRUSD,,.REURTRUSD
+Russell Eurozone Defensive EURO Total Return,EUR,Total,End of day,RUEZDFTE,,.RUEZDFTE
+Russell Eurozone Dynamic EURO Total Return,EUR,Total,End of day,RUEZDYTE,,.RUEZDYTE
+Russell Eurozone SMID 150 CHF,CHF,Price,End of day,RUEZS1F,,.RUEZS1F
+Russell Eurozone SMID 150 EUR,EUR,Price,Real Time,RUEZS150,,.RUEZS150
+Russell Eurozone SMID 150 EUR Official Close,EUR,Price,End of day,RUEZS150OC,,.RUEZS150OC
+Russell Eurozone SMID 150 GBP,GBP,Price,End of day,RUEZS1P,,.RUEZS1P
+Russell Eurozone SMID 150 Net Return CHF,CHF,Net,End of day,RUEZS1NF,,.RUEZS1NF
+Russell Eurozone SMID 150 Net Return EUR,EUR,Net,Real Time,RUEZS1NE,,.RUEZS1NE
+Russell Eurozone SMID 150 Net Return EUR Official Close,EUR,Net,End of day,RUEZS1NEOC,,.RUEZS1NEOC
+Russell Eurozone SMID 150 Net Return GBP,GBP,Net,End of day,RUEZS1NP,,.RUEZS1NP
+Russell Eurozone SMID 150 Net Return USD,USD,Net,End of day,RUEZS1NU,,.RUEZS1NU
+Russell Eurozone SMID 150 Total Return CHF,CHF,Total,End of day,RUEZS1TF,,.RUEZS1TF
+Russell Eurozone SMID 150 Total Return EUR,EUR,Total,End of day,RUEZS1TE,,.RUEZS1TE
+Russell Eurozone SMID 150 Total Return GBP,GBP,Total,End of day,RUEZS1TP,,.RUEZS1TP
+Russell Eurozone SMID 150 Total Return USD,USD,Total,End of day,RUEZS1TU,,.RUEZS1TU
+Russell Eurozone SMID 150 USD,USD,Price,End of day,RUEZS1U,,.RUEZS1U
+Russell Finland,USD,Price,End of day,RGFI,,.RGFI
+Russell Finland Total Return,USD,Total,End of day,RGFIT,,.RGFIT
+Russell France,USD,Price,End of day,RGFR,,.RGFR
+Russell France Total Return,USD,Total,End of day,RGFRT,,.RGFRT
+Russell Frontier ,USD,Price,End of day,RUFRT,RUFRT,.RUFRT
+Russell Frontier CAD Total Return,CAD,Total,End of day,RUFRTCAD,,.RUFRTCAD
+Russell Frontier ex-GCC ,USD,Price,End of day,RUFRTX,RUFRTX,.RUFRTX
+Russell Frontier ex-GCC Large Cap ,USD,Price,End of day,RUFRTXLC,,.RUFRTXLC
+Russell Frontier ex-GCC Large Cap Net Return,USD,Net,End of day,RUFRTXLN,,.RUFRTXLN
+Russell Frontier ex-GCC Large Cap Total Return,USD,Total,End of day,RUFRTXLT,,.RUFRTXLT
+Russell Frontier ex-GCC Midcap ,USD,Price,End of day,RUFRTXMC,,.RUFRTXMC
+Russell Frontier ex-GCC Midcap Net Return,USD,Net,End of day,RUFRTXMN,,.RUFRTXMN
+Russell Frontier ex-GCC Midcap Total Return,USD,Total,End of day,RUFRTXMT,,.RUFRTXMT
+Russell Frontier ex-GCC Net Return,USD,Net,End of day,RUFRTXN,RUFRTXNT,.RUFRTXN
+Russell Frontier ex-GCC Small Cap ,USD,Price,End of day,RUFRTXSC,,.RUFRTXSC
+Russell Frontier ex-GCC Small Cap Net Return,USD,Net,End of day,RUFRTXSN,,.RUFRTXSN
+Russell Frontier ex-GCC Small Cap Total Return,USD,Total,End of day,RUFRTXST,,.RUFRTXST
+Russell Frontier ex-GCC Total Return,USD,Total,End of day,RUFRTXTR,RUFRTXTR,.RUFRTXTR
+Russell Frontier Large Cap ,USD,Price,End of day,RUFRTLC,,.RUFRTLC
+Russell Frontier Large Cap Net Return,USD,Net,End of day,RUFRTLN,,.RUFRTLN
+Russell Frontier Large Cap Total Return,USD,Total,End of day,RUFRTLT,,.RUFRTLT
+Russell Frontier Midcap ,USD,Price,End of day,RUFRTMC,,.RUFRTMC
+Russell Frontier Midcap Net Return,USD,Net,End of day,RUFRTMN,,.RUFRTMN
+Russell Frontier Midcap Total Return,USD,Total,End of day,RUFRTMT,,.RUFRTMT
+Russell Frontier Net Return,USD,Net,End of day,RUFRTN,RUFRTNT,.RUFRTN
+Russell Frontier Small Cap ,USD,Price,End of day,RUFRTSC,,.RUFRTSC
+Russell Frontier Small Cap Net Return,USD,Net,End of day,RUFRTSN,,.RUFRTSN
+Russell Frontier Small Cap Total Return,USD,Total,End of day,RUFRTST,,.RUFRTST
+Russell Frontier Total Return,USD,Total,End of day,RUFRTTR,RUFRTTR,.RUFRTTR
+Russell Fundamental Asia Pacific ,USD,Price,End of day,RUFAPUSD,RUFAPUSD,.RUFAPUSD
+Russell Fundamental Asia Pacific ex Japan ,USD,Price,End of day,RUFAPXJ,RUFAPXJ,.RUFAPXJ
+Russell Fundamental Asia Pacific ex Japan NR,USD,Net,End of day,RUFAPXJN,,.RUFAPXJN
+Russell Fundamental Asia Pacific ex Japan TR,USD,Total,End of day,RUFAPXJT,,.RUFAPXJT
+Russell Fundamental Asia Pacific ex-Japan Large Company Index ,USD,Price,End of day,,RUFAPJLU,
+Russell Fundamental Asia Pacific ex-Japan Small Company Index,USD,Price,End of day,,RUFAPJSU,
+Russell Fundamental Asia Pacific Index,GBP,Price,End of day,,RUFAPGBP,
+Russell Fundamental Asia Pacific Index,GBP,Total,End of day,,RUFAPTP,
+Russell Fundamental Asia Pacific Index,GBP,Net,End of day,,RUFAPNP,
+Russell Fundamental Asia Pacific Index,EUR,Price,End of day,,RUFAPEUR,
+Russell Fundamental Asia Pacific Index,EUR,Total,End of day,,RUFAPTE,
+Russell Fundamental Asia Pacific Index,EUR,Net,End of day,,RUFAPNE,
+Russell Fundamental Asia Pacific Index,JPY,Price,End of day,,RUFAPJPY,
+Russell Fundamental Asia Pacific Index,JPY,Total,End of day,,RUFAPTY,
+Russell Fundamental Asia Pacific Index,JPY,Net,End of day,,RUFAPNY,
+Russell Fundamental Asia Pacific Large Company ,USD,Price,End of day,RUFAPLU,RUFAPLU,.RUFAPLU
+Russell Fundamental Asia Pacific Large Company Index,GBP,Price,End of day,,RUFAPLP,
+Russell Fundamental Asia Pacific Large Company Index,GBP,Total,End of day,,RUFAPLTP,
+Russell Fundamental Asia Pacific Large Company Index,GBP,Net,End of day,,RUFAPLNP,
+Russell Fundamental Asia Pacific Large Company Index,EUR,Price,End of day,,RUFAPLE,
+Russell Fundamental Asia Pacific Large Company Index,EUR,Total,End of day,,RUFAPLTE,
+Russell Fundamental Asia Pacific Large Company Index,EUR,Net,End of day,,RUFAPLNE,
+Russell Fundamental Asia Pacific Large Company Index,JPY,Price,End of day,,RUFAPLY,
+Russell Fundamental Asia Pacific Large Company Index,JPY,Total,End of day,,RUFAPLTY,
+Russell Fundamental Asia Pacific Large Company Index,JPY,Net,End of day,,RUFAPLNY,
+Russell Fundamental Asia Pacific Large Company NR,USD,Net,End of day,RUFAPLNU,RUFAPLNU,.RUFAPLNU
+Russell Fundamental Asia Pacific Large Company TR,USD,Total,End of day,RUFAPLTU,RUFAPLTU,.RUFAPLTU
+Russell Fundamental Asia Pacific Net Return,USD,Net,End of day,RUFAPNU,RUFAPNU,.RUFAPNU
+Russell Fundamental Asia Pacific Small Company ,USD,Price,End of day,RUFAPSU,RUFAPSU,.RUFAPSU
+Russell Fundamental Asia Pacific Small Company Index,GBP,Price,End of day,,RUFAPSP,
+Russell Fundamental Asia Pacific Small Company Index,GBP,Total,End of day,,RUFAPSTP,
+Russell Fundamental Asia Pacific Small Company Index,GBP,Net,End of day,,RUFAPSNP,
+Russell Fundamental Asia Pacific Small Company Index,EUR,Price,End of day,,RUFAPSE,
+Russell Fundamental Asia Pacific Small Company Index,EUR,Total,End of day,,RUFAPSTE,
+Russell Fundamental Asia Pacific Small Company Index,EUR,Net,End of day,,RUFAPSNE,
+Russell Fundamental Asia Pacific Small Company Index,JPY,Price,End of day,,RUFAPSY,
+Russell Fundamental Asia Pacific Small Company Index,JPY,Total,End of day,,RUFAPSTY,
+Russell Fundamental Asia Pacific Small Company Index,JPY,Net,End of day,,RUFAPSNY,
+Russell Fundamental Asia Pacific Small Company NR,USD,Net,End of day,RUFAPSNU,RUFAPSNU,.RUFAPSNU
+Russell Fundamental Asia Pacific Small Company TR,USD,Total,End of day,RUFAPSTU,RUFAPSTU,.RUFAPSTU
+Russell Fundamental Asia Pacific Total Return,USD,Total,End of day,RUFAPTU,RUFAPTU,.RUFAPTU
+Russell Fundamental Australia,USD,Price,End of day,RUFAUSPR,,.RUFAUSPR
+Russell Fundamental Australia Net Return EUR,EUR,Net,End of day,RUFANEUR,RUFANEUR,.RUFANEUR
+Russell Fundamental Australia Net Return GBP,GBP,Net,End of day,RUFANGBP,RUFANGBP,.RUFANGBP
+Russell Fundamental Australia Net Return JPY,JPY,Net,End of day,RUFANJPY,RUFANJPY,.RUFANJPY
+Russell Fundamental Australia Net Return USD,USD,Net,End of day,RUFANUSD,RUFANUSD,.RUFANUSD
+Russell Fundamental Australia Total Return EUR,EUR,Total,End of day,RUFATREU,RUFATREU,.RUFATREU
+Russell Fundamental Australia Total Return GBP,GBP,Total,End of day,RUFATRGB,RUFATRGB,.RUFATRGB
+Russell Fundamental Australia Total Return JPY,JPY,Total,End of day,RUFATRJP,RUFATRJP,.RUFATRJP
+Russell Fundamental Australia Total Return USD,USD,Total,End of day,RUFATRUS,RUFATRUS,.RUFATRUS
+Russell Fundamental Belgium,USD,Price,End of day,RUFBELPR,,.RUFBELPR
+Russell Fundamental Belgium Net Return EUR,EUR,Net,End of day,RUFBNEUR,RUFBNEUR,.RUFBNEUR
+Russell Fundamental Belgium Net Return GBP,GBP,Net,End of day,RUFBNGBP,RUFBNGBP,.RUFBNGBP
+Russell Fundamental Belgium Net Return JPY,JPY,Net,End of day,RUFBNJPY,RUFBNJPY,.RUFBNJPY
+Russell Fundamental Belgium Net Return USD,USD,Net,End of day,RUFBNUSD,RUFBNUSD,.RUFBNUSD
+Russell Fundamental Belgium Total Return EUR,EUR,Total,End of day,RUFBTREU,RUFBTREU,.RUFBTREU
+Russell Fundamental Belgium Total Return GBP,GBP,Total,End of day,RUFBTRGB,RUFBTRGB,.RUFBTRGB
+Russell Fundamental Belgium Total Return JPY,JPY,Total,End of day,RUFBTRJP,RUFBTRJP,.RUFBTRJP
+Russell Fundamental Belgium Total Return USD,USD,Total,End of day,RUFBTRUS,RUFBTRUS,.RUFBTRUS
+Russell Fundamental Brazil,USD,Price,End of day,RUFBRPR,,.RUFBRPR
+Russell Fundamental Brazil Net Return EUR,EUR,Net,End of day,RUFBRNEU,RUFBRNEU,.RUFBRNEU
+Russell Fundamental Brazil Net Return GBP,GBP,Net,End of day,RUFBRNGB,RUFBRNGB,.RUFBRNGB
+Russell Fundamental Brazil Net Return JPY,JPY,Net,End of day,RUFBRNJP,RUFBRNJP,.RUFBRNJP
+Russell Fundamental Brazil Net Return USD,USD,Net,End of day,RUFBRNUS,RUFBRNUS,.RUFBRNUS
+Russell Fundamental Brazil Total Return EUR,EUR,Total,End of day,RUFBRTRE,RUFBRTRE,.RUFBRTRE
+Russell Fundamental Brazil Total Return GBP,GBP,Total,End of day,RUFBRTRG,RUFBRTRG,.RUFBRTRG
+Russell Fundamental Brazil Total Return JPY,JPY,Total,End of day,RUFBRTRJ,RUFBRTRJ,.RUFBRTRJ
+Russell Fundamental Brazil Total Return USD,USD,Total,End of day,RUFBRTRU,RUFBRTRU,.RUFBRTRU
+Russell Fundamental BRIC ,USD,Price,End of day,RUFBRIC,RUFBRIC,.RUFBRIC
+Russell Fundamental BRIC Large Company Index ,USD,Price,End of day,,RUFBRCLU,
+Russell Fundamental BRIC NR,USD,Net,End of day,RUFBRICN,,.RUFBRICN
+Russell Fundamental BRIC Small Company Index,USD,Price,End of day,,RUFBRCSU,
+Russell Fundamental BRIC TR,USD,Total,End of day,RUFBRICT,,.RUFBRICT
+Russell Fundamental Canada,USD,Price,End of day,RUFCAPR,,.RUFCAPR
+Russell Fundamental Canada Net Return EUR,EUR,Net,End of day,RUFDCNEU,RUFDCNEU,.RUFDCNEU
+Russell Fundamental Canada Net Return GBP,GBP,Net,End of day,RUFDCNGB,RUFDCNGB,.RUFDCNGB
+Russell Fundamental Canada Net Return JPY,JPY,Net,End of day,RUFDCNJP,RUFDCNJP,.RUFDCNJP
+Russell Fundamental Canada Net Return USD,USD,Net,End of day,RUFCNUS,RUFDCNUS,.RUFCNUS
+Russell Fundamental Canada Total Return EUR,EUR,Total,End of day,RUFDCTRE,RUFDCTRE,.RUFDCTRE
+Russell Fundamental Canada Total Return GBP,GBP,Total,End of day,RUFDCTRG,RUFDCTRG,.RUFDCTRG
+Russell Fundamental Canada Total Return JPY,JPY,Total,End of day,RUFDCTRJ,RUFDCTRJ,.RUFDCTRJ
+Russell Fundamental Canada Total Return USD,USD,Total,End of day,RUFDCTRU,RUFDCTRU,.RUFDCTRU
+Russell Fundamental China,USD,Price,End of day,RUFCNPR,,.RUFCNPR
+Russell Fundamental China Net Return EUR,EUR,Net,End of day,RUFCNNEU,RUFCNNEU,.RUFCNNEU
+Russell Fundamental China Net Return GBP,GBP,Net,End of day,RUFCNNGB,RUFCNNGB,.RUFCNNGB
+Russell Fundamental China Net Return JPY,JPY,Net,End of day,RUFCNNJP,RUFCNNJP,.RUFCNNJP
+Russell Fundamental China Net Return USD,USD,Net,End of day,RUFCNNUS,RUFCNNUS,.RUFCNNUS
+Russell Fundamental China Total Return EUR,EUR,Total,End of day,RUFCNTRE,RUFCNTRE,.RUFCNTRE
+Russell Fundamental China Total Return GBP,GBP,Total,End of day,RUFCNTRG,RUFCNTRG,.RUFCNTRG
+Russell Fundamental China Total Return JPY,JPY,Total,End of day,RUFCNTRJ,RUFCNTRJ,.RUFCNTRJ
+Russell Fundamental China Total Return USD,USD,Total,End of day,RUFCNTRU,RUFCNTRU,.RUFCNTRU
+Russell Fundamental Denmark,USD,Price,End of day,RUFDENPR,,.RUFDENPR
+Russell Fundamental Denmark TR,USD,Total,End of day,RUFDENTR,RUFDENTR,.RUFDENTR
+Russell Fundamental Developed  ,USD,Price,End of day,RUFGDUSD,RUFGDUSD,.RUFGDUSD
+Russell Fundamental Developed Europe EUR,EUR,Price,End of day,RUFDEURE,,.RUFDEURE
+Russell Fundamental Developed Europe EUR NR,EUR,Net,End of day,RUFDEUNE,,.RUFDEUNE
+Russell Fundamental Developed Europe EUR TR,EUR,Total,End of day,RUFDEUTE,,.RUFDEUTE
+Russell Fundamental Developed Europe Large Company Net EUR,EUR,Net,End of day,RUFDELNE,,.RUFDELNE
+Russell Fundamental Developed Europe Large Company Net Return USD,USD,Net,End of day,RUFDELNU,,.RUFDELNU
+Russell Fundamental Developed Europe Large Company Price EUR,EUR,Price,End of day,RUFDELE,RUFDEULE,.RUFDELE
+Russell Fundamental Developed Europe Large Company Total EUR,EUR,Total,End of day,RUFDELTE,,.RUFDELTE
+Russell Fundamental Developed Europe Large Company Total Return USD,USD,Total,End of day,RUFDELTU,,.RUFDELTU
+Russell Fundamental Developed Europe Large Company USD,USD,Price,End of day,RUFDELU,RUFDEULU,.RUFDELU
+Russell Fundamental Developed Europe Small Company Index,USD,Price,End of day,,RUFDEUSU,
+Russell Fundamental Developed Europe USD,USD,Price,End of day,RUFDEURU,RUFDEURU,.RUFDEURU
+Russell Fundamental Developed Europe USD NR,USD,Net,End of day,RUFDEUNU,,.RUFDEUNU
+Russell Fundamental Developed Europe USD TR,USD,Total,End of day,RUFDEUTU,,.RUFDEUTU
+Russell Fundamental Developed Eurozone Large Company Net EUR,EUR,Net,End of day,RUFEZLNE,,.RUFEZLNE
+Russell Fundamental Developed Eurozone Large Company Price EUR,EUR,Price,End of day,RUFEZLE,,.RUFEZLE
+Russell Fundamental Developed Eurozone Large Company Total EUR,EUR,Total,End of day,RUFEZLTE,,.RUFEZLTE
+Russell Fundamental Developed ex-US  ,USD,Price,End of day,RUFGDXUU,RUFGDXUU,.RUFGDXUU
+Russell Fundamental Developed ex-US  Net Return,USD,Net,End of day,RUFDXUNU,RUFDXUNU,.RUFDXUNU
+Russell Fundamental Developed ex-US  Total Return,USD,Total,End of day,RUFDXUTU,RUFDXUTU,.RUFDXUTU
+Russell Fundamental Developed ex-US Index,GBP,Price,End of day,,RUFGDXUP,
+Russell Fundamental Developed ex-US Index,GBP,Total,End of day,,RUFDXUTP,
+Russell Fundamental Developed ex-US Index,GBP,Net,End of day,,RUFDXUNP,
+Russell Fundamental Developed ex-US Index,EUR,Price,End of day,,RUFGDXUE,
+Russell Fundamental Developed ex-US Index,EUR,Total,End of day,,RUFDXUTE,
+Russell Fundamental Developed ex-US Index,EUR,Net,End of day,,RUFDXUNE,
+Russell Fundamental Developed ex-US Index,JPY,Price,End of day,,RUFGDXUY,
+Russell Fundamental Developed ex-US Index,JPY,Total,End of day,,RUFGDXUY,
+Russell Fundamental Developed ex-US Index,JPY,Net,End of day,,RUFDXUNY,
+Russell Fundamental Developed ex-US Large Company ,USD,Price,Real Time,RUFDXULU,RUFDXULU,.RUFDXULU
+Russell Fundamental Developed ex-US Large Company Index,GBP,Price,End of day,,RUFDXULP,
+Russell Fundamental Developed ex-US Large Company Index,GBP,Total,End of day,,RUFDXLTP,
+Russell Fundamental Developed ex-US Large Company Index,GBP,Net,End of day,,RUFDXLNP,
+Russell Fundamental Developed ex-US Large Company Index,EUR,Price,End of day,,RUFDXULE,
+Russell Fundamental Developed ex-US Large Company Index,EUR,Total,End of day,,RUFDXLTE,
+Russell Fundamental Developed ex-US Large Company Index,EUR,Net,End of day,,RUFDXLNE,
+Russell Fundamental Developed ex-US Large Company Index,JPY,Price,End of day,,RUFDXULY,
+Russell Fundamental Developed ex-US Large Company Index,JPY,Total,End of day,,RUFDXLTY,
+Russell Fundamental Developed ex-US Large Company Index,JPY,Net,End of day,,RUFDXLNY,
+Russell Fundamental Developed ex-US Large Company NR,USD,Net,Real Time,RUFDXLNU,RUFDXLNU,.RUFDXLNU
+Russell Fundamental Developed ex-US Large Company TR,USD,Total,Real Time,RUFDXLTU,RUFDXLTU,.RUFDXLTU
+Russell Fundamental Developed ex-US Small Company ,USD,Price,Real Time,RUFDXUSU,RUFDXUSU,.RUFDXUSU
+Russell Fundamental Developed ex-US Small Company Index,GBP,Price,End of day,,RUFDXUSP,
+Russell Fundamental Developed ex-US Small Company Index,GBP,Total,End of day,,RUFDXSTP,
+Russell Fundamental Developed ex-US Small Company Index,GBP,Net,End of day,,RUFDXSNP,
+Russell Fundamental Developed ex-US Small Company Index,EUR,Price,End of day,,RUFDXUSE,
+Russell Fundamental Developed ex-US Small Company Index,EUR,Total,End of day,,RUFDXSTE,
+Russell Fundamental Developed ex-US Small Company Index,EUR,Net,End of day,,RUFDXSNE,
+Russell Fundamental Developed ex-US Small Company Index,JPY,Price,End of day,,RUFDXUSY,
+Russell Fundamental Developed ex-US Small Company Index,JPY,Total,End of day,,RUFDXSTY,
+Russell Fundamental Developed ex-US Small Company Index,JPY,Net,End of day,,RUFDXSNY,
+Russell Fundamental Developed ex-US Small Company NR,USD,Net,Real Time,RUFDXSNU,RUFDXSNU,.RUFDXSNU
+Russell Fundamental Developed ex-US Small Company TR,USD,Total,Real Time,RUFDXSTU,RUFDXSTU,.RUFDXSTU
+Russell Fundamental Developed Index,GBP,Price,End of day,,RUFGDBP,
+Russell Fundamental Developed Index,GBP,Total,End of day,,RUFGDTP,
+Russell Fundamental Developed Index,GBP,Net,End of day,,RUFGDNP,
+Russell Fundamental Developed Index,EUR,Price,End of day,,RUFGDEUR,
+Russell Fundamental Developed Index,EUR,Total,End of day,,RUFGDTRE,
+Russell Fundamental Developed Index,EUR,Net,End of day,,RUFGDNE,
+Russell Fundamental Developed Index,JPY,Price,End of day,,RUFGDJPY,
+Russell Fundamental Developed Index,JPY,Total,End of day,,RUFGDTRY,
+Russell Fundamental Developed Index,JPY,Net,End of day,,RUFGDNY,
+Russell Fundamental Developed Large Co Net Local,LOC,Net,End of day,RUFGDLNL,RUFGDLNL,.RUFGDLNL
+Russell Fundamental Developed Large Co Total Local,LOC,Total,End of day,RUFGDLTL,RUFGDLTL,.RUFGDLTL
+Russell Fundamental Developed Large Company ,USD,Price,End of day,RUFGDLU,RUFGDLU,.RUFGDLU
+Russell Fundamental Developed Large Company Index,GBP,Price,End of day,,RUFGDLP,
+Russell Fundamental Developed Large Company Index,GBP,Total,End of day,,RUFGDLTP,
+Russell Fundamental Developed Large Company Index,GBP,Net,End of day,,RUFGDLNP,
+Russell Fundamental Developed Large Company Index,EUR,Price,End of day,,RUFGDLE,
+Russell Fundamental Developed Large Company Index,EUR,Total,End of day,,RUFGDLTE,
+Russell Fundamental Developed Large Company Index,EUR,Net,End of day,,RUFGDLNE,
+Russell Fundamental Developed Large Company Index,JPY,Price,End of day,,RUFGDLY,
+Russell Fundamental Developed Large Company Index,JPY,Total,End of day,,RUFGDLTY,
+Russell Fundamental Developed Large Company Index,JPY,Net,End of day,,RUFGDLNY,
+Russell Fundamental Developed Large Company Local,LOC,Price,End of day,RUFGDLL,RUFGDLL,.RUFGDLL
+Russell Fundamental Developed Large Company NR,USD,Net,End of day,RUFGDLNU,RUFGDLNU,.RUFGDLNU
+Russell Fundamental Developed Large Company TR,USD,Total,End of day,RUFGDLTU,RUFGDLTU,.RUFGDLTU
+Russell Fundamental Developed Net Return,USD,Net,End of day,RUFGDNU,RUFGDNU,.RUFGDNU
+Russell Fundamental Developed Small Company ,USD,Price,End of day,RUFGDSU,RUFGDSU,.RUFGDSU
+Russell Fundamental Developed Small Company Index,GBP,Price,End of day,,RUFGDSP,
+Russell Fundamental Developed Small Company Index,GBP,Total,End of day,,RUFGDSTP,
+Russell Fundamental Developed Small Company Index,GBP,Net,End of day,,RUFGDSNP,
+Russell Fundamental Developed Small Company Index,EUR,Price,End of day,,RUFGDSE,
+Russell Fundamental Developed Small Company Index,EUR,Total,End of day,,RUFGDSTE,
+Russell Fundamental Developed Small Company Index,EUR,Net,End of day,,RUFGDSNE,
+Russell Fundamental Developed Small Company Index,JPY,Price,End of day,,RUFGDSY,
+Russell Fundamental Developed Small Company Index,JPY,Total,End of day,,RUFGDSTY,
+Russell Fundamental Developed Small Company Index,JPY,Net,End of day,,RUFGDSNY,
+Russell Fundamental Developed Small Company NR,USD,Net,End of day,RUFGDSNU,RUFGDSNU,.RUFGDSNU
+Russell Fundamental Developed Small Company TR,USD,Total,End of day,RUFGDSTU,RUFGDSTU,.RUFGDSTU
+Russell Fundamental Developed Total Return,USD,Total,End of day,RUFGDTU,RUFGDTU,.RUFGDTU
+Russell Fundamental Emerging Mkts  ,USD,Price,Real Time,RUFGEUSD,RUFGEUSD,.RUFGEUSD
+Russell Fundamental Emerging Mkts Index,GBP,Price,End of day,,RUFGEGBP,
+Russell Fundamental Emerging Mkts Index,GBP,Total,End of day,,RUFGETP,
+Russell Fundamental Emerging Mkts Index,GBP,Net,End of day,,RUFGENP,
+Russell Fundamental Emerging Mkts Index,EUR,Price,End of day,,RUFGEEUR,
+Russell Fundamental Emerging Mkts Index,EUR,Total,End of day,,RUFGETE,
+Russell Fundamental Emerging Mkts Index,EUR,Net,End of day,,RUFGENE,
+Russell Fundamental Emerging Mkts Index,JPY,Price,End of day,,RUFGEJPY,
+Russell Fundamental Emerging Mkts Index,JPY,Total,End of day,,RUFGETY,
+Russell Fundamental Emerging Mkts Index,JPY,Net,End of day,,RUFGENY,
+Russell Fundamental Emerging Mkts Large Co Net Local,LOC,Net,End of day,RUFGELNL,RUFGELNL,.RUFGELNL
+Russell Fundamental Emerging Mkts Large Co Total Local,LOC,Total,End of day,RUFGELTL,RUFGELTL,.RUFGELTL
+Russell Fundamental Emerging Mkts Large Company ,USD,Price,Real Time,RUFGELU,RUFGELU,.RUFGELU
+Russell Fundamental Emerging Mkts Large Company Index,GBP,Price,End of day,,RUFGELP,
+Russell Fundamental Emerging Mkts Large Company Index,GBP,Total,End of day,,RUFGELTP,
+Russell Fundamental Emerging Mkts Large Company Index,GBP,Net,End of day,,RUFGELNP,
+Russell Fundamental Emerging Mkts Large Company Index,EUR,Price,End of day,,RUFGELE,
+Russell Fundamental Emerging Mkts Large Company Index,EUR,Total,End of day,,RUFGELTE,
+Russell Fundamental Emerging Mkts Large Company Index,EUR,Net,End of day,,RUFGELNE,
+Russell Fundamental Emerging Mkts Large Company Index,JPY,Price,End of day,,RUFGELY,
+Russell Fundamental Emerging Mkts Large Company Index,JPY,Total,End of day,,RUFGELTY,
+Russell Fundamental Emerging Mkts Large Company Index,JPY,Net,End of day,,RUFGELNY,
+Russell Fundamental Emerging Mkts Large Company Local,LOC,Price,End of day,RUFGELL,RUFGELL,.RUFGELL
+Russell Fundamental Emerging Mkts Large Company NR,USD,Net,Real Time,RUFGELNU,RUFGELNU,.RUFGELNU
+Russell Fundamental Emerging Mkts Large Company TR,USD,Total,Real Time,RUFGELTU,RUFGELTU,.RUFGELTU
+Russell Fundamental Emerging Mkts Net Return,USD,Net,End of day,RUFGENU,RUFGENU,.RUFGENU
+Russell Fundamental Emerging Mkts Small Company ,USD,Price,End of day,RUFGESU,RUFGESU,.RUFGESU
+Russell Fundamental Emerging Mkts Small Company Index,GBP,Price,End of day,,RUFGESP,
+Russell Fundamental Emerging Mkts Small Company Index,GBP,Total,End of day,,RUFGESTP,
+Russell Fundamental Emerging Mkts Small Company Index,GBP,Net,End of day,,RUFGESNP,
+Russell Fundamental Emerging Mkts Small Company Index,EUR,Price,End of day,,RUFGESE,
+Russell Fundamental Emerging Mkts Small Company Index,EUR,Total,End of day,,RUFGESTE,
+Russell Fundamental Emerging Mkts Small Company Index,EUR,Net,End of day,,RUFGESNE,
+Russell Fundamental Emerging Mkts Small Company Index,JPY,Price,End of day,,RUFGESY,
+Russell Fundamental Emerging Mkts Small Company Index,JPY,Total,End of day,,RUFGESTY,
+Russell Fundamental Emerging Mkts Small Company Index,JPY,Net,End of day,,RUFGESNY,
+Russell Fundamental Emerging Mkts Small Company NR,USD,Net,End of day,RUFGESNU,RUFGESNU,.RUFGESNU
+Russell Fundamental Emerging Mkts Small Company TR,USD,Total,End of day,RUFGESTU,RUFGESTU,.RUFGESTU
+Russell Fundamental Emerging Mkts Total Return,USD,Total,End of day,RUFGETRU,RUFGETRU,.RUFGETRU
+Russell Fundamental Europe  ,USD,Price,End of day,RUFEUUSD,RUFEUUSD,.RUFEUUSD
+Russell Fundamental Europe  Net Return,USD,Net,End of day,RUFEUNU,RUFEUNU,.RUFEUNU
+Russell Fundamental Europe Index,GBP,Price,End of day,,RUFEUGBP,
+Russell Fundamental Europe Index,GBP,Total,End of day,,RUFEUTP,
+Russell Fundamental Europe Index,GBP,Net,End of day,,RUFEUNP,
+Russell Fundamental Europe Index,EUR,Price,End of day,,RUFEUEUR,
+Russell Fundamental Europe Index,EUR,Total,End of day,,RUFEUTE,
+Russell Fundamental Europe Index,EUR,Net,End of day,,RUFEUNE,
+Russell Fundamental Europe Index,JPY,Price,End of day,,RUFEUJPY,
+Russell Fundamental Europe Index,JPY,Total,End of day,,RUFEUTY,
+Russell Fundamental Europe Index,JPY,Net,End of day,,RUFEUNY,
+Russell Fundamental Europe Large Company ,USD,Price,End of day,RUFEULU,RUFEULU,.RUFEULU
+Russell Fundamental Europe Large Company Index,GBP,Price,End of day,,RUFEULP,
+Russell Fundamental Europe Large Company Index,GBP,Total,End of day,,RUFEULTP,
+Russell Fundamental Europe Large Company Index,GBP,Net,End of day,,RUFEULNP,
+Russell Fundamental Europe Large Company Index,EUR,Price,End of day,,RUFEULE,
+Russell Fundamental Europe Large Company Index,EUR,Total,End of day,,RUFEULTE,
+Russell Fundamental Europe Large Company Index,EUR,Net,End of day,,RUFEULNE,
+Russell Fundamental Europe Large Company Index,JPY,Price,End of day,,RUFEULY,
+Russell Fundamental Europe Large Company Index,JPY,Total,End of day,,RUFEULTY,
+Russell Fundamental Europe Large Company Index,JPY,Net,End of day,,RUFEULNY,
+Russell Fundamental Europe Large Company NR,USD,Net,End of day,RUFEULNU,RUFEULNU,.RUFEULNU
+Russell Fundamental Europe Large Company TR,USD,Total,End of day,RUFEULTU,RUFEULTU,.RUFEULTU
+Russell Fundamental Europe Small Company ,USD,Price,End of day,RUFEUSU,RUFEUSU,.RUFEUSU
+Russell Fundamental Europe Small Company Index,GBP,Price,End of day,,RUFEUSP,
+Russell Fundamental Europe Small Company Index,GBP,Total,End of day,,RUFEUSTP,
+Russell Fundamental Europe Small Company Index,GBP,Net,End of day,,RUFEUSNP,
+Russell Fundamental Europe Small Company Index,EUR,Price,End of day,,RUFEUSE,
+Russell Fundamental Europe Small Company Index,EUR,Total,End of day,,RUFEUSTE,
+Russell Fundamental Europe Small Company Index,EUR,Net,End of day,,RUFEUSNE,
+Russell Fundamental Europe Small Company Index,JPY,Price,End of day,,RUFEUSY,
+Russell Fundamental Europe Small Company Index,JPY,Total,End of day,,RUFEUSTY,
+Russell Fundamental Europe Small Company Index,JPY,Net,End of day,,RUFEUSNY,
+Russell Fundamental Europe Small Company NR,USD,Net,End of day,RUFEUSNU,RUFEUSNU,.RUFEUSNU
+Russell Fundamental Europe Small Company TR,USD,Total,End of day,RUFEUSTU,RUFEUSTU,.RUFEUSTU
+Russell Fundamental Europe Total Return,USD,Total,End of day,RUFEUTU,RUFEUTU,.RUFEUTU
+Russell Fundamental Eurozone EUR,EUR,Price,End of day,RUFEUZE,RUFEUZU,.RUFEUZE
+Russell Fundamental Eurozone EUR NR,EUR,Net,End of day,RUFEUZNE,,.RUFEUZNE
+Russell Fundamental Eurozone EUR TR,EUR,Total,End of day,RUFEUZTE,,.RUFEUZTE
+Russell Fundamental Eurozone Large Company Index ,USD,Price,End of day,,RUFEUZLU,
+Russell Fundamental Eurozone Small Company Index,USD,Price,End of day,,RUFEUZSU,
+Russell Fundamental Eurozone USD,USD,Price,End of day,RUFEUZU,,.RUFEUZU
+Russell Fundamental Eurozone USD NR,USD,Net,End of day,RUFEUZNU,,.RUFEUZNU
+Russell Fundamental Eurozone USD TR,USD,Total,End of day,RUFEUZTU,,.RUFEUZTU
+Russell Fundamental Finland,USD,Price,End of day,RUFFINPR,,.RUFFINPR
+Russell Fundamental Finland Total Return,USD,Total,End of day,RUFFINTR,RUFFINTR,.RUFFINTR
+Russell Fundamental France,USD,Price,End of day,RUFFRAPR,,.RUFFRAPR
+Russell Fundamental France Net Return EUR,EUR,Net,End of day,RUFFNEUR,RUFFNEUR,.RUFFNEUR
+Russell Fundamental France Net Return GBP,GBP,Net,End of day,RUFFNGBP,RUFFNGBP,.RUFFNGBP
+Russell Fundamental France Net Return JPY,JPY,Net,End of day,RUFFNJPY,RUFFNJPY,.RUFFNJPY
+Russell Fundamental France Net Return USD,USD,Net,End of day,RUFFNUSD,RUFFNUSD,.RUFFNUSD
+Russell Fundamental France Total Return EUR,EUR,Total,End of day,RUFFTREU,RUFFTREU,.RUFFTREU
+Russell Fundamental France Total Return GBP,GBP,Total,End of day,RUFFTRGB,RUFFNGBP,.RUFFTRGB
+Russell Fundamental France Total Return JPY,JPY,Total,End of day,RUFFTRJP,RUFFTRJP,.RUFFTRJP
+Russell Fundamental France Total Return USD,USD,Total,End of day,RUFFTRUS,RUFFTRUS,.RUFFTRUS
+Russell Fundamental Germany,USD,Price,End of day,RUFDEPR,,.RUFDEPR
+Russell Fundamental Germany Net Return EUR,EUR,Net,End of day,RUFGNEUR,RUFGTREU,.RUFGNEUR
+Russell Fundamental Germany Net Return GBP,GBP,Net,End of day,RUFGNGBP,RUFGNGBP,.RUFGNGBP
+Russell Fundamental Germany Net Return JPY,JPY,Net,End of day,RUFGNJPY,RUFGNFPY,.RUFGNJPY
+Russell Fundamental Germany Net Return USD,USD,Net,End of day,RUFGNUSD,RUFGNUSD,.RUFGNUSD
+Russell Fundamental Germany Total Return EUR,EUR,Total,End of day,RUFGTREU,RUFGNEUR,.RUFGTREU
+Russell Fundamental Germany Total Return GBP,GBP,Total,End of day,RUFGTRGB,RUFGTRGB,.RUFGTRGB
+Russell Fundamental Germany Total Return JPY,JPY,Total,End of day,RUFGTRJP,RUFGTRJP,.RUFGTRJP
+Russell Fundamental Germany Total Return USD,USD,Total,End of day,RUFGTRUS,RUFGTRUS,.RUFGTRUS
+Russell Fundamental Global  ,USD,Price,Real Time,RUFGUSD,RUFGUSD,.RUFGUSD
+Russell Fundamental Global ex-US  ,USD,Price,End of day,RUFGXUUS,RUFGXUUS,.RUFGXUUS
+Russell Fundamental Global ex-US Index,GBP,Price,End of day,,RUFGXUBP,
+Russell Fundamental Global ex-US Index,GBP,Total,End of day,,RUFGXUTP,
+Russell Fundamental Global ex-US Index,GBP,Net,End of day,,RUFGXUNP,
+Russell Fundamental Global ex-US Index,EUR,Price,End of day,,RUFGXUEU,
+Russell Fundamental Global ex-US Index,EUR,Total,End of day,,RUFGXUTE,
+Russell Fundamental Global ex-US Index,EUR,Net,End of day,,RUFGXUNE,
+Russell Fundamental Global ex-US Index,JPY,Price,End of day,,RUFGXUJY,
+Russell Fundamental Global ex-US Index,JPY,Total,End of day,,RUFGXUTY,
+Russell Fundamental Global ex-US Index,JPY,Net,End of day,,RUFGXUNY,
+Russell Fundamental Global ex-US Large Company ,USD,Price,End of day,RUFGXULU,RUFGXULU,.RUFGXULU
+Russell Fundamental Global ex-US Large Company Index,GBP,Price,End of day,,RUFGXULP,
+Russell Fundamental Global ex-US Large Company Index,GBP,Total,End of day,,RUFXULTP,
+Russell Fundamental Global ex-US Large Company Index,GBP,Net,End of day,,RUFXULNP,
+Russell Fundamental Global ex-US Large Company Index,EUR,Price,End of day,,RUFGXULE,
+Russell Fundamental Global ex-US Large Company Index,EUR,Total,End of day,,RUFXULTE,
+Russell Fundamental Global ex-US Large Company Index,EUR,Net,End of day,,RUFXULNE,
+Russell Fundamental Global ex-US Large Company Index,JPY,Price,End of day,,RUFGXULY,
+Russell Fundamental Global ex-US Large Company Index,JPY,Total,End of day,,RUFXULTY,
+Russell Fundamental Global ex-US Large Company Index,JPY,Net,End of day,,RUFXULNY,
+Russell Fundamental Global ex-US Large Company NR,USD,Net,End of day,RUFXULNU,RUFXULNU,.RUFXULNU
+Russell Fundamental Global ex-US Large Company TR,USD,Total,End of day,RUFXULTU,RUFXULTU,.RUFXULTU
+Russell Fundamental Global ex-US Net Return,USD,Net,End of day,RUFGXUNU,RUFGXUNU,.RUFGXUNU
+Russell Fundamental Global ex-US Select Real Estate Index,USD,Price,Real Time,RUFGXRE,,.RUFGXRE
+Russell Fundamental Global ex-US Select Real Estate Index Net Return,USD,Net,Real Time,RUFGXREN,,.RUFGXREN
+Russell Fundamental Global ex-US Select Real Estate Index Total Return,USD,Total,End of day,RUFGXRET,,.RUFGXRET
+Russell Fundamental Global ex-US Small Company ,USD,Price,End of day,RUFGXUSU,RUFGXUSU,.RUFGXUSU
+Russell Fundamental Global ex-US Small Company Index,GBP,Price,End of day,,RUFGXUSP,
+Russell Fundamental Global ex-US Small Company Index,GBP,Total,End of day,,RUFXUSTP,
+Russell Fundamental Global ex-US Small Company Index,GBP,Net,End of day,,RUFXUSNP,
+Russell Fundamental Global ex-US Small Company Index,EUR,Price,End of day,,RUFGXUSE,
+Russell Fundamental Global ex-US Small Company Index,EUR,Total,End of day,,RUFXUSTE,
+Russell Fundamental Global ex-US Small Company Index,EUR,Net,End of day,,RUFXUSNE,
+Russell Fundamental Global ex-US Small Company Index,JPY,Price,End of day,,RUFGXUSY,
+Russell Fundamental Global ex-US Small Company Index,JPY,Total,End of day,,RUFXUSTY,
+Russell Fundamental Global ex-US Small Company Index,JPY,Net,End of day,,RUFXUSNY,
+Russell Fundamental Global ex-US Small Company NR,USD,Net,End of day,RUFXUSNU,RUFXUSNU,.RUFXUSNU
+Russell Fundamental Global ex-US Small Company TR,USD,Total,End of day,RUFXUSTU,RUFXUSTU,.RUFXUSTU
+Russell Fundamental Global ex-US Total Return,USD,Total,End of day,RUFGXUTU,RUFGXUTU,.RUFGXUTU
+Russell Fundamental Global Index,GBP,Price,End of day,,RUFGGBP,
+Russell Fundamental Global Index,GBP,Total,End of day,,RUFGTRP,
+Russell Fundamental Global Index,GBP,Net,End of day,,RUFGBLNP,
+Russell Fundamental Global Large Company ,USD,Price,End of day,RUFGBLLU,RUFGBLLU,.RUFGBLLU
+Russell Fundamental Global Large Company Index,GBP,Price,End of day,,RUFGBLLP,
+Russell Fundamental Global Large Company Index,GBP,Total,End of day,,RUFGBLTRP,
+Russell Fundamental Global Large Company Index,GBP,Net,End of day,,RUFGLNP,
+Russell Fundamental Global Large Company Index,EUR,Price,End of day,,RUFGLEU,
+Russell Fundamental Global Large Company Index,EUR,Total,End of day,,RUFGLTRE,
+Russell Fundamental Global Large Company Index,EUR,Net,End of day,,RUFGLNE,
+Russell Fundamental Global Large Company Index,JPY,Price,End of day,,RUFGBLLY,
+Russell Fundamental Global Large Company Index,JPY,Total,End of day,,RUFGLTY,
+Russell Fundamental Global Large Company Index,JPY,Net,End of day,,RUFGLNY,
+Russell Fundamental Global Large Company NR,USD,Net,End of day,RUFGLNU,RUFGLNU,.RUFGLNU
+Russell Fundamental Global Large Company TR,USD,Total,End of day,RUFGLTU,RUFGLTU,.RUFGLTU
+Russell Fundamental Global Net Return,USD,Net,End of day,RUFGBLNU,RUFGBLNU,.RUFGBLNU
+Russell Fundamental Global Select Real Estate Index,USD,Price,Real Time,RUFGURE,,.RUFGURE
+Russell Fundamental Global Select Real Estate Index Net Return,USD,Net,Real Time,RUFGUREN,,.RUFGUREN
+Russell Fundamental Global Select Real Estate Index Total Return,USD,Total,End of day,RUFGURET,,.RUFGURET
+Russell Fundamental Global Small Company ,USD,Price,End of day,RUFGSUSD,RUFGSUSD,.RUFGSUSD
+Russell Fundamental Global Small Company Index,GBP,Price,End of day,,RUFGSBP,
+Russell Fundamental Global Small Company Index,GBP,Total,End of day,,RUFGSTRP,
+Russell Fundamental Global Small Company Index,GBP,Net,End of day,,RUFGSNP,
+Russell Fundamental Global Small Company Index,EUR,Price,End of day,,RUFGSEU,
+Russell Fundamental Global Small Company Index,EUR,Total,End of day,,RUFGSTRE,
+Russell Fundamental Global Small Company Index,EUR,Net,End of day,,RUFGSNEU,
+Russell Fundamental Global Small Company Index,JPY,Price,End of day,,RUFGSJY,
+Russell Fundamental Global Small Company Index,JPY,Total,End of day,,RUFGSTY,
+Russell Fundamental Global Small Company Index,JPY,Net,End of day,,RUFGSNY,
+Russell Fundamental Global Small Company NR,USD,Net,End of day,RUFGSNU,RUFGSNU,.RUFGSNU
+Russell Fundamental Global Small Company TR,USD,Total,End of day,RUFGSTU,RUFGSTU,.RUFGSTU
+Russell Fundamental Global Total Return,USD,Total,End of day,RUFGBLTU,RUFGBLTU,.RUFGBLTU
+Russell Fundamental Hong Kong,USD,Price,End of day,RUFHKPR,,.RUFHKPR
+Russell Fundamental Hong Kong Net Return EUR,EUR,Net,End of day,RUFHKNEU,RUFHKNEU,.RUFHKNEU
+Russell Fundamental Hong Kong Net Return GBP,GBP,Net,End of day,RUFHKNGB,RUFHKNGB,.RUFHKNGB
+Russell Fundamental Hong Kong Net Return JPY,JPY,Net,End of day,RUFHKNJP,RUFHKNJP,.RUFHKNJP
+Russell Fundamental Hong Kong Net Return USD,USD,Net,End of day,RUFHKNUS,RUFHKNUS,.RUFHKNUS
+Russell Fundamental Hong Kong Total Return EUR,EUR,Total,End of day,RUFHKTRE,RUFHKTRE,.RUFHKTRE
+Russell Fundamental Hong Kong Total Return GBP,GBP,Total,End of day,RUFHKTRG,RUFHKTRG,.RUFHKTRG
+Russell Fundamental Hong Kong Total Return JPY,JPY,Total,End of day,RUFHKTRJ,RUFHKTRJ,.RUFHKTRJ
+Russell Fundamental Hong Kong Total Return USD,USD,Total,End of day,RUFHKTRU,RUFHKTRU,.RUFHKTRU
+Russell Fundamental India,USD,Price,End of day,RUFINDPR,,.RUFINDPR
+Russell Fundamental India Net Return EUR,EUR,Net,End of day,RUFDINNE,RUFDINNE,.RUFDINNE
+Russell Fundamental India Net Return GBP,GBP,Net,End of day,RUFDINNG,RUFDINNG,.RUFDINNG
+Russell Fundamental India Net Return JPY,JPY,Net,End of day,RUFDINNJ,RUFDINNJ,.RUFDINNJ
+Russell Fundamental India Net Return USD,USD,Net,End of day,RUFDINNU,RUFDINNU,.RUFDINNU
+Russell Fundamental India Total Return EUR,EUR,Total,End of day,RUFDINTE,RUFDINTE,.RUFDINTE
+Russell Fundamental India Total Return GBP,GBP,Total,End of day,RUFDINTG,RUFDINTG,.RUFDINTG
+Russell Fundamental India Total Return JPY,JPY,Total,End of day,RUFDINTJ,RUFDINTJ,.RUFDINTJ
+Russell Fundamental India Total Return USD,USD,Total,End of day,RUFDINTU,RUFDINTU,.RUFDINTU
+Russell Fundamental Indonesia,USD,Price,End of day,RUFIDPR,,.RUFIDPR
+Russell Fundamental Indonesia Net Return EUR,EUR,Net,End of day,RUFIDNEU,,.RUFIDNEU
+Russell Fundamental Indonesia Net Return GBP,GBP,Net,End of day,RUFIDNGB,,.RUFIDNGB
+Russell Fundamental Indonesia Net Return JPY,JPY,Net,End of day,RUFIDNJP,,.RUFIDNJP
+Russell Fundamental Indonesia Net Return USD,USD,Net,End of day,RUFIDNUS,,.RUFIDNUS
+Russell Fundamental Indonesia Total Return EUR,EUR,Total,End of day,RUFIDTRE,,.RUFIDTRE
+Russell Fundamental Indonesia Total Return GBP,GBP,Total,End of day,RUFIDTRG,,.RUFIDTRG
+Russell Fundamental Indonesia Total Return JPY,JPY,Total,End of day,RUFIDTRJ,,.RUFIDTRJ
+Russell Fundamental Indonesia Total Return USD,USD,Total,End of day,RUFIDTRU,RUFIDTRU,.RUFIDTRU
+Russell Fundamental Italy,USD,Price,End of day,RUFITYPR,,.RUFITYPR
+Russell Fundamental Italy Net Return EUR,EUR,Net,End of day,RUFDINEU,RUFDINEU,.RUFDINEU
+Russell Fundamental Italy Net Return GBP,GBP,Net,End of day,RUFDINGB,RUFDINGB,.RUFDINGB
+Russell Fundamental Italy Net Return JPY,JPY,Net,End of day,RUFDINJP,RUFDINJP,.RUFDINJP
+Russell Fundamental Italy Net Return USD,USD,Net,End of day,RUFDINUS,RUFDINUS,.RUFDINUS
+Russell Fundamental Italy Total Return EUR,EUR,Total,End of day,RUFDITRE,RUFDITRE,.RUFDITRE
+Russell Fundamental Italy Total Return GBP,GBP,Total,End of day,RUFDITRG,RUFDITRG,.RUFDITRG
+Russell Fundamental Italy Total Return JPY,JPY,Total,End of day,RUFDITRJ,RUFDITRJ,.RUFDITRJ
+Russell Fundamental Italy Total Return USD,USD,Total,End of day,RUFDITRU,RUFDITRU,.RUFDITRU
+Russell Fundamental Japan,USD,Price,End of day,RUFJPNPR,,.RUFJPNPR
+Russell Fundamental Japan Net Return EUR,EUR,Net,End of day,RUFJNEUR,RUFJNEUR,.RUFJNEUR
+Russell Fundamental Japan Net Return GBP,GBP,Net,End of day,RUFJNGBP,RUFJNGBP,.RUFJNGBP
+Russell Fundamental Japan Net Return JPY,JPY,Net,End of day,RUFJNJPY,RUFJNJPY,.RUFJNJPY
+Russell Fundamental Japan Net Return USD,USD,Net,End of day,RUFJNUSD,RUFJNUSD,.RUFJNUSD
+Russell Fundamental Japan Total Return EUR,EUR,Total,End of day,RUFJTREU,RUFJTREU,.RUFJTREU
+Russell Fundamental Japan Total Return GBP,GBP,Total,End of day,RUFJTRGB,RUFJTRGB,.RUFJTRGB
+Russell Fundamental Japan Total Return JPY,JPY,Total,End of day,RUFJTRJP,RUFJTRJP,.RUFJTRJP
+Russell Fundamental Japan Total Return USD,USD,Total,End of day,RUFJTRUS,RUFJTRUS,.RUFJTRUS
+Russell Fundamental Korea,USD,Price,End of day,RUFKORPR,,.RUFKORPR
+Russell Fundamental Korea Net Return EUR,EUR,Net,End of day,RUFKNEUR,RUFKNEUR,.RUFKNEUR
+Russell Fundamental Korea Net Return GBP,GBP,Net,End of day,RUFKNGBP,RUFKNGBP,.RUFKNGBP
+Russell Fundamental Korea Net Return JPY,JPY,Net,End of day,RUFKNJPY,RUFKNJPY,.RUFKNJPY
+Russell Fundamental Korea Net Return USD,USD,Net,End of day,RUFKNUSD,RUFKNUSD,.RUFKNUSD
+Russell Fundamental Korea Total Return EUR,EUR,Total,End of day,RUFKTREU,RUFKTREU,.RUFKTREU
+Russell Fundamental Korea Total Return GBP,GBP,Total,End of day,RUFKTRGB,RUFKTRGB,.RUFKTRGB
+Russell Fundamental Korea Total Return JPY,JPY,Total,End of day,RUFKTRJP,RUFKTRJP,.RUFKTRJP
+Russell Fundamental Korea Total Return USD,USD,Total,End of day,RUFKTRUS,RUFKTRUS,.RUFKTRUS
+Russell Fundamental Malaysia,USD,Price,End of day,RUFMALPR,,.RUFMALPR
+Russell Fundamental Malaysia Net Return EUR,EUR,Net,End of day,RUFMNEUR,,.RUFMNEUR
+Russell Fundamental Malaysia Net Return GBP,GBP,Net,End of day,RUFMNGBP,,.RUFMNGBP
+Russell Fundamental Malaysia Net Return JPY,JPY,Net,End of day,RUFMNJPY,,.RUFMNJPY
+Russell Fundamental Malaysia Net Return USD,USD,Net,End of day,RUFMNUSD,,.RUFMNUSD
+Russell Fundamental Malaysia Total Return EUR,EUR,Total,End of day,RUFMTREU,,.RUFMTREU
+Russell Fundamental Malaysia Total Return GBP,GBP,Total,End of day,RUFMTRGB,,.RUFMTRGB
+Russell Fundamental Malaysia Total Return JPY,JPY,Total,End of day,RUFMTRJP,,.RUFMTRJP
+Russell Fundamental Malaysia Total Return USD,USD,Total,End of day,RUFMTRUS,RUFMTRUS,.RUFMTRUS
+Russell Fundamental Netherlands,USD,Price,End of day,RUFNETHPR,,.RUFNETHPR
+Russell Fundamental Netherlands Net Return EUR,EUR,Net,End of day,RUFNNEUR,RUFNNEUR,.RUFNNEUR
+Russell Fundamental Netherlands Net Return GBP,GBP,Net,End of day,RUFNNGBP,RUFNNGBP,.RUFNNGBP
+Russell Fundamental Netherlands Net Return JPY,JPY,Net,End of day,RUFNNJPY,RUFNNJPY,.RUFNNJPY
+Russell Fundamental Netherlands Net Return USD,USD,Net,End of day,RUFNNUSD,RUFNNUSD,.RUFNNUSD
+Russell Fundamental Netherlands Total Rtn EUR,EUR,Total,End of day,RUFNTREU,RUFNTREU,.RUFNTREU
+Russell Fundamental Netherlands Total Rtn GBP,GBP,Total,End of day,RUFNTRGB,RUFNTRGB,.RUFNTRGB
+Russell Fundamental Netherlands Total Rtn JPY,JPY,Total,End of day,RUFNTRJP,RUFNTRJP,.RUFNTRJP
+Russell Fundamental Netherlands Total Rtn USD,USD,Total,End of day,RUFNTRUS,RUFNTRUS,.RUFNTRUS
+Russell Fundamental New Zealand,USD,Price,End of day,RUFNZPRU,,.RUFNZPRU
+Russell Fundamental New Zealand,EUR,Net,End of day,,RUFNZNEU,
+Russell Fundamental New Zealand,EUR,Total,End of day,,RUFNZTRE,
+Russell Fundamental New Zealand,GBP,Net,End of day,,RUFNZNGB,
+Russell Fundamental New Zealand,GBP,Total,End of day,,RUFNZTRG,
+Russell Fundamental New Zealand,JPY,Net,End of day,,RUFNZNJP,
+Russell Fundamental New Zealand,JPY,Total,End of day,,RUFNZTRJ,
+Russell Fundamental New Zealand Net Return,USD,Net,End of day,RUFNZNUS,,.RUFNZNUS
+Russell Fundamental New Zealand Total Return,USD,Total,End of day,RUFNZTRU,,.RUFNZTRU
+Russell Fundamental Norway,USD,Price,End of day,RUFNORPR,,.RUFNORPR
+Russell Fundamental Norway TR,USD,Total,End of day,RUFNORTR,RUFNORTR,.RUFNORTR
+Russell Fundamental Russia,USD,Price,End of day,RUFRUPR,,.RUFRUPR
+Russell Fundamental Russia Net Return EUR,EUR,Net,End of day,RUFRNEUR,RUFRNEUR,.RUFRNEUR
+Russell Fundamental Russia Net Return GBP,GBP,Net,End of day,RUFRNGBP,RUFRNGBP,.RUFRNGBP
+Russell Fundamental Russia Net Return JPY,JPY,Net,End of day,RUFRNJPY,RUFRNJPY,.RUFRNJPY
+Russell Fundamental Russia Net Return USD,USD,Net,End of day,RUFRNUSD,RUFRNUSD,.RUFRNUSD
+Russell Fundamental Russia Total Return EUR,EUR,Total,End of day,RUFRTREU,RUFRTREU,.RUFRTREU
+Russell Fundamental Russia Total Return GBP,GBP,Total,End of day,RUFRTRGB,RUFRTRGB,.RUFRTRGB
+Russell Fundamental Russia Total Return JPY,JPY,Total,End of day,RUFRTRJP,RUFRTRJP,.RUFRTRJP
+Russell Fundamental Russia Total Return USD,USD,Total,End of day,RUFRTRUS,RUFRTRUS,.RUFRTRUS
+Russell Fundamental Singapore,USD,Price,End of day,RUFSIGPR,,.RUFSIGPR
+Russell Fundamental Singapore Net Return EUR,EUR,Net,End of day,RUFSINEU,RUFSINEU,.RUFSINEU
+Russell Fundamental Singapore Net Return GBP,GBP,Net,End of day,RUFSINGB,RUFSINGB,.RUFSINGB
+Russell Fundamental Singapore Net Return JPY,JPY,Net,End of day,RUFSINJP,RUFSINJP,.RUFSINJP
+Russell Fundamental Singapore Net Return USD,USD,Net,End of day,RUFSINUS,RUFSINUS,.RUFSINUS
+Russell Fundamental Singapore Total Return EUR,EUR,Total,End of day,RUFSITRE,RUFSITRE,.RUFSITRE
+Russell Fundamental Singapore Total Return GBP,GBP,Total,End of day,RUFSITRG,RUFSITRG,.RUFSITRG
+Russell Fundamental Singapore Total Return JPY,JPY,Total,End of day,RUFSITRJ,RUFSITRJ,.RUFSITRJ
+Russell Fundamental Singapore Total Return USD,USD,Total,End of day,RUFSITRU,RUFSITRU,.RUFSITRU
+Russell Fundamental Spain,USD,Price,End of day,RUFSPNPR,,.RUFSPNPR
+Russell Fundamental Spain Net Return EUR,EUR,Net,End of day,RUFSNEUR,RUFSNEUR,.RUFSNEUR
+Russell Fundamental Spain Net Return GBP,GBP,Net,End of day,RUFSNGBP,RUFSNGBP,.RUFSNGBP
+Russell Fundamental Spain Net Return JPY,JPY,Net,End of day,RUFSNJPY,RUFSNJPY,.RUFSNJPY
+Russell Fundamental Spain Net Return USD,USD,Net,End of day,RUFSNUSD,RUFSNUSD,.RUFSNUSD
+Russell Fundamental Spain Total Return EUR,EUR,Total,End of day,RUFSTREU,RUFSTREU,.RUFSTREU
+Russell Fundamental Spain Total Return GBP,GBP,Total,End of day,RUFSTRGB,RUFSTRGB,.RUFSTRGB
+Russell Fundamental Spain Total Return JPY,JPY,Total,End of day,RUFSTRJP,RUFSTRJP,.RUFSTRJP
+Russell Fundamental Spain Total Return USD,USD,Total,End of day,RUFSTRUS,RUFSTRUS,.RUFSTRUS
+Russell Fundamental Sweden,USD,Price,End of day,RUFSWEPR,,.RUFSWEPR
+Russell Fundamental Sweden TR,USD,Total,End of day,RUFSWETR,RUFSWETR,.RUFSWETR
+Russell Fundamental Switzerland,USD,Price,End of day,RUFSWPR,,.RUFSWPR
+Russell Fundamental Switzerland Net Return EUR,EUR,Net,End of day,RUFSWNEU,RUFSWNEU,.RUFSWNEU
+Russell Fundamental Switzerland Net Return GBP,GBP,Net,End of day,RUFSWNGB,RUFSWNGB,.RUFSWNGB
+Russell Fundamental Switzerland Net Return JPY,JPY,Net,End of day,RUFSWNJP,RUFSWNJP,.RUFSWNJP
+Russell Fundamental Switzerland Net Return USD,USD,Net,End of day,RUFSWNUS,RUFSWNUS,.RUFSWNUS
+Russell Fundamental Switzerland Total Return EUR,EUR,Total,End of day,RUFSWTRE,RUFSWTRE,.RUFSWTRE
+Russell Fundamental Switzerland Total Return GBP,GBP,Total,End of day,RUFSWTRG,RUFSWTRG,.RUFSWTRG
+Russell Fundamental Switzerland Total Return JPY,JPY,Total,End of day,RUFSWTRJ,RUFSWTRJ,.RUFSWTRJ
+Russell Fundamental Switzerland Total Return USD,USD,Total,End of day,RUFSWTRU,RUFSWTRU,.RUFSWTRU
+Russell Fundamental Taiwan,USD,Price,End of day,RUFTWPR,,.RUFTWPR
+Russell Fundamental Taiwan Net Return EUR,EUR,Net,End of day,RUFTWNEU,,.RUFTWNEU
+Russell Fundamental Taiwan Net Return GBP,GBP,Net,End of day,RUFTWNGB,,.RUFTWNGB
+Russell Fundamental Taiwan Net Return JPY,JPY,Net,End of day,RUFTWNJP,,.RUFTWNJP
+Russell Fundamental Taiwan Net Return USD,USD,Net,End of day,RUFTWNUS,,.RUFTWNUS
+Russell Fundamental Taiwan Total Return EUR,EUR,Total,End of day,RUFTWTRE,,.RUFTWTRE
+Russell Fundamental Taiwan Total Return GBP,GBP,Total,End of day,RUFTWTRG,,.RUFTWTRG
+Russell Fundamental Taiwan Total Return JPY,JPY,Total,End of day,RUFTWTRJ,,.RUFTWTRJ
+Russell Fundamental Taiwan Total Return USD,USD,Total,End of day,RUFTWTRU,RUFTWTRU,.RUFTWTRU
+Russell Fundamental Thailand,USD,Price,End of day,RUFTHPR,,.RUFTHPR
+Russell Fundamental Thailand Net Return EUR,EUR,Net,End of day,RUFTHNEU,,.RUFTHNEU
+Russell Fundamental Thailand Net Return GBP,GBP,Net,End of day,RUFTHNGB,,.RUFTHNGB
+Russell Fundamental Thailand Net Return JPY,JPY,Net,End of day,RUFTHNJP,,.RUFTHNJP
+Russell Fundamental Thailand Net Return USD,USD,Net,End of day,RUFTHNUS,,.RUFTHNUS
+Russell Fundamental Thailand Total Return EUR,EUR,Total,End of day,RUFTHTRE,,.RUFTHTRE
+Russell Fundamental Thailand Total Return GBP,GBP,Total,End of day,RUFTHTRG,,.RUFTHTRG
+Russell Fundamental Thailand Total Return JPY,JPY,Total,End of day,RUFTHTRJ,,.RUFTHTRJ
+Russell Fundamental Thailand Total Return USD,USD,Total,End of day,RUFTHTRU,RUFTHTRU,.RUFTHTRU
+Russell Fundamental United Kingdom,USD,Price,End of day,RUFGBPR,,.RUFGBPR
+Russell Fundamental United Kingdom Net Return EUR,EUR,Net,End of day,RUFGBNEU,RUFGBNEU,.RUFGBNEU
+Russell Fundamental United Kingdom Net Return GBP,GBP,Net,End of day,RUFGBNGB,RUFGBNGB,.RUFGBNGB
+Russell Fundamental United Kingdom Net Return JPY,JPY,Net,End of day,RUFGBNJP,RUFGBNJP,.RUFGBNJP
+Russell Fundamental United Kingdom Net Return USD,USD,Net,End of day,RUFGBNUS,,.RUFGBNUS
+Russell Fundamental United Kingdom Total Rtn EUR,EUR,Total,End of day,RUFGBTRE,RUFGBTRE,.RUFGBTRE
+Russell Fundamental United Kingdom Total Rtn GBP,GBP,Total,End of day,RUFGBTRG,RUFGBTRG,.RUFGBTRG
+Russell Fundamental United Kingdom Total Rtn JPY,JPY,Total,End of day,RUFGBTRJ,RUFGBTRJ,.RUFGBTRJ
+Russell Fundamental United Kingdom Total Rtn USD,USD,Total,End of day,RUFGBTRU,RUFGBTRU,.RUFGBTRU
+Russell Fundamental US  ,USD,Price,Real Time,RUFUSUSD,RUFUSUSD,.RUFUSUSD
+Russell Fundamental US  Net Return,USD,Net,End of day,RUFUSNU,RUFUSNU,.RUFUSNU
+Russell Fundamental US Index,GBP,Price,End of day,,RUFUSGBP,
+Russell Fundamental US Index,GBP,Total,End of day,,RUFUSTP,
+Russell Fundamental US Index,GBP,Net,End of day,,RUFUSNP,
+Russell Fundamental US Index,EUR,Price,End of day,,RUFUSEUR,
+Russell Fundamental US Index,EUR,Total,End of day,,RUFUSTE,
+Russell Fundamental US Index,EUR,Net,End of day,,RUFUSNE,
+Russell Fundamental US Index,JPY,Price,End of day,,RUFUSJPY,
+Russell Fundamental US Index,JPY,Total,End of day,,RUFUSTY,
+Russell Fundamental US Index,JPY,Net,End of day,,RUFUSNY,
+Russell Fundamental US Large Company ,USD,Price,Real Time,RUFUSLU,RUFUSLU,.RUFUSLU
+Russell Fundamental US Large Company Index,GBP,Price,End of day,,RUFUSLP,
+Russell Fundamental US Large Company Index,GBP,Total,End of day,,RUFUSLTP,
+Russell Fundamental US Large Company Index,GBP,Net,End of day,,RUFUSLNP,
+Russell Fundamental US Large Company Index,EUR,Price,End of day,,RUFUSLE,
+Russell Fundamental US Large Company Index,EUR,Total,End of day,,RUFUSLTE,
+Russell Fundamental US Large Company Index,EUR,Net,End of day,,RUFUSLNE,
+Russell Fundamental US Large Company Index,JPY,Price,End of day,,RUFUSLY,
+Russell Fundamental US Large Company Index,JPY,Total,End of day,,RUFUSLTY,
+Russell Fundamental US Large Company Index,JPY,Net,End of day,,RUFUSLNY,
+Russell Fundamental US Large Company Net Return,USD,Net,End of day,RUFUSLNU,RUFUSLNU,.RUFUSLNU
+Russell Fundamental US Large Company Total Return,USD,Total,Real Time,RUFUSLTU,RUFUSLTU,.RUFUSLTU
+Russell Fundamental US Select Real Estate Index,USD,Price,Real Time,RUFUSRE,,.RUFUSRE
+Russell Fundamental US Select Real Estate Index Net Return,USD,Net,Real Time,RUFUSREN,,.RUFUSREN
+Russell Fundamental US Select Real Estate Index Total Return,USD,Total,End of day,RUFUSRET,,.RUFUSRET
+Russell Fundamental US Small Company ,USD,Price,Real Time,RUFUSSU,RUFUSSU,.RUFUSSU
+Russell Fundamental US Small Company Index,GBP,Price,End of day,,RUFUSSP,
+Russell Fundamental US Small Company Index,GBP,Total,End of day,,RUFUSSTP,
+Russell Fundamental US Small Company Index,GBP,Net,End of day,,RUFUSSNP,
+Russell Fundamental US Small Company Index,EUR,Price,End of day,,RUFUSSE,
+Russell Fundamental US Small Company Index,EUR,Total,End of day,,RUFUSSTE,
+Russell Fundamental US Small Company Index,EUR,Net,End of day,,RUFUSSNE,
+Russell Fundamental US Small Company Index,JPY,Price,End of day,,RUFUSSY,
+Russell Fundamental US Small Company Index,JPY,Total,End of day,,RUFUSSTY,
+Russell Fundamental US Small Company Index,JPY,Net,End of day,,RUFUSSNY,
+Russell Fundamental US Small Company Net Return,USD,Net,End of day,RUFUSSNU,RUFUSSNU,.RUFUSSNU
+Russell Fundamental US Small Company Total Return,USD,Total,Real Time,RUFUSSTU,RUFUSSTU,.RUFUSSTU
+Russell Fundamental US Top 100 ,USD,Price,End of day,RUFUST1,,.RUFUST1
+Russell Fundamental US Top 100  TR,USD,Total,End of day,RUFUST1T,,.RUFUST1T
+Russell Fundamental US Top 100 Daily Volatility Control 7%  Excess Return ,USD,Excess,End of day,RUFDVC7E,RUFDVC7E,.RUFDVC7E
+Russell Fundamental US Top 100 Daily Volatility Control 7%  Total Return ,USD,Total,End of day,RUFDVC7T,RUFDVC7T,.RUFDVC7T
+Russell Fundamental US Top 100 Volatility Control 7%  Excess Return,USD,Excess,End of day,RUFVC7ER,RUFVC7ER,.RUFVC7ER
+Russell Fundamental US Top 100 Volatility Control 7%  Total Return,USD,Total,End of day,RUFVC7TR,RUFVC7TR,.RUFVC7TR
+Russell Fundamental US Top 200 ,USD,Price,End of day,RUFUST2,RUFUST2,.RUFUST2
+Russell Fundamental US Top 200 Net Return,USD,Net,End of day,RUFUST2N,RUFGBNUS,.RUFUST2N
+Russell Fundamental US Top 200 Total Return,USD,Total,End of day,RUFUST2T,RUFGBTRU,.RUFUST2T
+Russell Fundamental US Total Return,USD,Total,Real Time,RUFUSTU,RUFUSTU,.RUFUSTU
+Russell Germany,USD,Price,End of day,RGDE,RGDE,.RGDE
+Russell Germany Total Return,USD,Total,End of day,RGDET,RGDET,.RGDET
+Russell Global,USD,Price,Real Time,RGIUSD,RGI,.RGIUSD
+Russell Global Defensive,USD,Price,End of day,RUGDF,RUGLODF,.RUGDF
+Russell Global Defensive EURO Total Return,EUR,Total,End of day,RUGDFTRE,,.RUGDFTRE
+Russell Global Defensive Net Return,USD,Net,End of day,RUGDFN,RUGLODFN,.RUGDFN
+Russell Global Defensive Total Return,USD,Total,End of day,RUGDFTR,RUGLODFT,.RUGDFTR
+Russell Global Dynamic,USD,Price,End of day,RUGDY,RUGLODY,.RUGDY
+Russell Global Dynamic EURO Total Return,EUR,Total,End of day,RUGDYTRE,,.RUGDYTRE
+Russell Global Dynamic Net Return,USD,Net,End of day,RUGDYN,RUGLODYN,.RUGDYN
+Russell Global Dynamic Total Return,USD,Total,End of day,RUGDYTR,RUGLODYT,.RUGDYTR
+Russell Global Eurozone Large Cap,USD,Price,End of day,RGEZLUSD,,.RGEZLUSD
+Russell Global Eurozone Large Cap Total Return,USD,Total,End of day,RGEZLTRUSD,,.RGEZLTRUSD
+Russell Global Eurozone Midcap,USD,Price,End of day,RGEZMUSD,,.RGEZMUSD
+Russell Global Eurozone Midcap Total Return,USD,Total,End of day,RGEZMTRUSD,,.RGEZMTRUSD
+Russell Global Eurozone Small Cap,USD,Price,End of day,RGEZSUSD,,.RGEZSUSD
+Russell Global Eurozone Small Cap Total Return,USD,Total,End of day,RGEZSTRUSD,,.RGEZSTRUSD
+Russell Global ex-AUS,USD,Price,End of day,RGXAUSD,RGXA,.RGXAUSD
+Russell Global ex-AUS Large Cap,USD,Price,End of day,RGXALUSD,,.RGXALUSD
+Russell Global ex-AUS Large Cap Total Return,USD,Total,End of day,RGXALTRUSD,,.RGXALTRUSD
+Russell Global ex-AUS Midcap,USD,Price,End of day,RGXAMUSD,,.RGXAMUSD
+Russell Global ex-AUS Midcap Total Return,USD,Total,End of day,RGXAMTRUSD,,.RGXAMTRUSD
+Russell Global ex-AUS Small Cap,USD,Price,End of day,RGXASUSD,,.RGXASUSD
+Russell Global ex-AUS Small Cap Total Return,USD,Total,End of day,RGXASTRUSD,,.RGXASTRUSD
+Russell Global ex-AUS Total Return,USD,Total,End of day,RGXATRUSD,,.RGXATRUSD
+Russell Global ex-CA,USD,Price,End of day,RGXCUSD,RGXC,.RGXCUSD
+Russell Global ex-CA Large Cap,USD,Price,End of day,RGXCLUSD,,.RGXCLUSD
+Russell Global ex-CA Large Cap Total Return,USD,Total,End of day,RGXCLTRUSD,,.RGXCLTRUSD
+Russell Global ex-CA Midcap,USD,Price,End of day,RGXCMUSD,,.RGXCMUSD
+Russell Global ex-CA Midcap Total Return,USD,Total,End of day,RGXCMTRUSD,,.RGXCMTRUSD
+Russell Global ex-CA Small Cap,USD,Price,End of day,RGXCSUSD,,.RGXCSUSD
+Russell Global ex-CA Small Cap Total Return,USD,Total,End of day,RGXCSTRUSD,,.RGXCSTRUSD
+Russell Global ex-CA Total Return,USD,Total,End of day,RGXCTRUSD,,.RGXCTRUSD
+Russell Global ex-Japan,USD,Price,End of day,RGXJUSD,RGXJ,.RGXJUSD
+Russell Global ex-Japan Large Cap,USD,Price,End of day,RGXJLUSD,RGXJL,.RGXJLUSD
+Russell Global ex-Japan Large Cap Total Return,USD,Total,End of day,RGXJLTRUSD,,.RGXJLTRUSD
+Russell Global ex-Japan Midcap,USD,Price,End of day,RGXJMUSD,,.RGXJMUSD
+Russell Global ex-Japan Midcap Total Return,USD,Total,End of day,RGXJMTRUSD,,.RGXJMTRUSD
+Russell Global ex-Japan Small Cap,USD,Price,End of day,RGXJSUSD,RGXJS,.RGXJSUSD
+Russell Global ex-Japan Small Cap Total Return,USD,Total,End of day,RGXJSTRUSD,,.RGXJSTRUSD
+Russell Global ex-Japan Total Return,USD,Total,End of day,RGXJTRUSD,,.RGXJTRUSD
+Russell Global ex-NA,USD,Price,End of day,RGXNUSD,RGXN,.RGXNUSD
+Russell Global ex-NA Large Cap,USD,Price,End of day,RGXNLUSD,,.RGXNLUSD
+Russell Global ex-NA Large Cap Growth,USD,Price,End of day,RGXNLGUSD,,.RGXNLGUSD
+Russell Global ex-NA Large Cap Growth Total Return,USD,Total,End of day,RGXNLGTRUSD,,.RGXNLGTRUSD
+Russell Global ex-NA Large Cap Net Return,USD,Net,End of day,RGXNLN,,.RGXNALNU
+Russell Global ex-NA Large Cap Total Return,USD,Total,End of day,RGXNLTRUSD,,.RGXNALTU
+Russell Global ex-NA Large Cap Value,USD,Price,End of day,RGXNLVUSD,,.RGXNLVUSD
+Russell Global ex-NA Large Cap Value Total Return,USD,Total,End of day,RGXNLVTRUSD,,.RGXNLVTRUSD
+Russell Global ex-NA Midcap,USD,Price,End of day,RGXNMUSD,,.RGXNMUSD
+Russell Global ex-NA Midcap Total Return,USD,Total,End of day,RGXNMTRUSD,,.RGXNMTRUSD
+Russell Global ex-NA Net Return,USD,Net,End of day,RGXNN,,.RGXNANU
+Russell Global ex-NA Small Cap,USD,Price,End of day,RGXNSUSD,,.RGXNSUSD
+Russell Global ex-NA Small Cap Net Return,USD,Net,End of day,RGXNSN,,.RGXNASNU
+Russell Global ex-NA Small Cap Total Return,USD,Total,End of day,RGXNSTRUSD,,.RGXNASTU
+Russell Global ex-NA Total Return,USD,Total,End of day,RGXNTRUSD,,.RGXNATU
+Russell Global ex-UK,USD,Price,End of day,RGXKUSD,RGXK,.RGXKUSD
+Russell Global ex-UK Large Cap,USD,Price,End of day,RGXKLUSD,,.RGXKLUSD
+Russell Global ex-UK Large Cap Total Return,USD,Total,End of day,RGXKLTRUSD,,.RGXKLTRUSD
+Russell Global ex-UK Midcap,USD,Price,End of day,RGXKMUSD,,.RGXKMUSD
+Russell Global ex-UK Midcap Total Return,USD,Total,End of day,RGXKMTRUSD,,.RGXKMTRUSD
+Russell Global ex-UK Small Cap,USD,Price,End of day,RGXKSUSD,,.RGXKSUSD
+Russell Global ex-UK Small Cap Total Return,USD,Total,End of day,RGXKSTRUSD,,.RGXKSTRUSD
+Russell Global ex-UK Total Return,USD,Total,End of day,RGXKTRUSD,,.RGXKTRUSD
+Russell Global ex-US,USD,Price,Real Time,RGXUUSD,RGXU,.RGXUUSD
+Russell Global ex-US Defensive,USD,Price,End of day,RUGXUDF,RUGXUDF,.RUGXUDF
+Russell Global ex-US Defensive Net Return,USD,Net,End of day,RUGXUDFN,RUGXUDFN,.RUGXUDFN
+Russell Global ex-US Defensive Total Return,USD,Total,End of day,RUGXUDFT,RUGXUDFT,.RUGXUDFT
+Russell Global ex-US Dynamic,USD,Price,End of day,RUGXUDY,RUGXUDY,.RUGXUDY
+Russell Global ex-US Dynamic Net Return,USD,Net,End of day,RUGXUDYN,RUGXUDYN,.RUGXUDYN
+Russell Global ex-US Dynamic Total Return,USD,Total,End of day,RUGXUDYT,RUGXUDYT,.RUGXUDYT
+Russell Global ex-US ex-Japan,USD,Price,End of day,RGUJUSD,RGUJ,.RGUJUSD
+Russell Global ex-US ex-Japan Large Cap,USD,Price,End of day,RGUJLUSD,,.RGUJLUSD
+Russell Global ex-US ex-Japan Large Cap Total Return,USD,Total,End of day,RGUJLTRUSD,,.RGUJLTRUSD
+Russell Global ex-US ex-Japan Midcap,USD,Price,End of day,RGUJMUSD,,.RGUJMUSD
+Russell Global ex-US ex-Japan Midcap Total Return,USD,Total,End of day,RGUJMTRUSD,,.RGUJMTRUSD
+Russell Global ex-US ex-Japan Small Cap,USD,Price,End of day,RGUJSUSD,,.RGUJSUSD
+Russell Global ex-US ex-Japan Small Cap Total Return,USD,Total,End of day,RGUJSTRUSD,,.RGUJSTRUSD
+Russell Global ex-US ex-Japan Total Return,USD,Total,End of day,RGUJTRUSD,,.RGUJTRUSD
+Russell Global ex-US Growth,USD,Price,Real Time,RGXUGUSD,RGXUG,.RGXUGUSD
+Russell Global ex-US Growth Index,USD,Net,End of day,,RGXUZ,
+Russell Global ex-US Growth Total Return,USD,Total,End of day,RGXUGTRUSD,RGXUY,.RGXUGTRUSD
+Russell Global ex-US Large Cap,USD,Price,Real Time,RGXULUSD,RGXUL,.RGXULUSD
+Russell Global ex-US Large Cap Defensive,USD,Price,End of day,RUGXULDF,RUGXULDF,.RUGXULDF
+Russell Global ex-US Large Cap Defensive Net Return,USD,Net,End of day,RUGXULFN,RUGXULFN,.RUGXULFN
+Russell Global ex-US Large Cap Defensive Total Return,USD,Total,End of day,RUGXULFT,RUGXULFT,.RUGXULFT
+Russell Global ex-US Large Cap Dynamic,USD,Price,End of day,RUGXULDY,RUGXULDY,.RUGXULDY
+Russell Global ex-US Large Cap Dynamic Net Return,USD,Net,End of day,RUGXULYN,RUGXULYN,.RUGXULYN
+Russell Global ex-US Large Cap Dynamic Total Return,USD,Total,End of day,RUGXULYT,RUGXULYT,.RUGXULYT
+Russell Global ex-US Large Cap Growth,USD,Price,Real Time,RGXULGUSD,RGXULG,.RGXULGUSD
+Russell Global ex-US Large Cap Growth Net Return,USD,Net,End of day,RGXULGNRUSD,RGXULZ,.RGXULGNRUSD
+Russell Global ex-US Large Cap Growth Total Return,USD,Total,End of day,RGXULGTRUSD,RGXULY,.RGXULGTRUSD
+Russell Global ex-US Large Cap High Eff Def - Low,USD,Price,End of day,RURDIL3,RURDIL3,.RURDIL3
+Russell Global ex-US Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDIL3N,RURDIL3N,.RURDIL3N
+Russell Global ex-US Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDIL3T,RURDIL3T,.RURDIL3T
+Russell Global ex-US Large Cap High Eff Def - Mod,USD,Price,End of day,RURDIL6,RURDIL6,.RURDIL6
+Russell Global ex-US Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDIL6N,RURDIL6N,.RURDIL6N
+Russell Global ex-US Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDIL6T,RURDIL6T,.RURDIL6T
+Russell Global ex-US Large Cap Net Return,USD,Net,End of day,RGXULN,RGXULK,.RGXUSLNU
+Russell Global ex-US Large Cap Total Return,USD,Total,End of day,RGXULTRUSD,RGXULA,. RGXUSLTU
+Russell Global ex-US Large Cap Value,USD,Price,Real Time,RGXULVUSD,RGXULV,.RGXULVUSD
+Russell Global ex-US Large Cap Value Net Return,USD,Net,End of day,RGXULVNRUSD,RGXULW,.RGXULVNRUSD
+Russell Global ex-US Large Cap Value Total Return,USD,Total,End of day,RGXULVTRUSD,RGXULX,.RGXULVTRUSD
+Russell Global ex-US Microcap,USD,Price,End of day,RGXUMI,,.RGXUMI
+Russell Global ex-US Microcap Growth,USD,Price,End of day,RGXUMIG,,.RGXUMIG
+Russell Global ex-US Microcap Growth Total Return,USD,Total,End of day,RGXUMIGT,,.RGXUMIGT
+Russell Global ex-US Microcap Total Return,USD,Total,End of day,RGXUMIT,,.RGXUMIT
+Russell Global ex-US Microcap Value,USD,Price,End of day,RGXUMIV,,.RGXUMIV
+Russell Global ex-US Microcap Value Total Return,USD,Total,End of day,RGXUMIVT,,.RGXUMIVT
+Russell Global ex-US Midcap,USD,Price,End of day,RGXUMUSD,,.RGXUMUSD
+Russell Global ex-US Midcap Total Return,USD,Total,End of day,RGXUMTRUSD,,.RGXUMTRUSD
+Russell Global ex-US Net Return,USD,Net,End of day,RGXUN,RGXUN,.RGXUSNU
+Russell Global ex-US RGS Sub: REIT Total Return ,USD,Total,End of day,RUGXUSREIT,,.RUGXUSREIT
+Russell Global ex-US SM Growth Total Return,USD,Total,End of day,RGXUSGTRUSD,RGXUSY,.RGXUSGTRUSD
+Russell Global ex-US Small Cap,USD,Price,Real Time,RGXUSUSD,RGXUS,.RGXUSUSD
+Russell Global ex-US Small Cap Defensive,USD,Price,End of day,RUGXUSDF,RUGXUSDF,.RUGXUSDF
+Russell Global ex-US Small Cap Defensive Net Return,USD,Net,End of day,RUGXUSFN,RUGXUSFN,.RUGXUSFN
+Russell Global ex-US Small Cap Defensive Total Return,USD,Total,End of day,RUGXUSFT,RUGXUSFT,.RUGXUSFT
+Russell Global ex-US Small Cap Dynamic,USD,Price,End of day,RUGXUSDY,RUGXUSDY,.RUGXUSDY
+Russell Global ex-US Small Cap Dynamic Net Return,USD,Net,End of day,RUGXUSYN,RUGXUSYN,.RUGXUSYN
+Russell Global ex-US Small Cap Dynamic Total Return,USD,Total,End of day,RUGXUSYT,RUGXUSYT,.RUGXUSYT
+Russell Global ex-US Small Cap Growth,USD,Price,Real Time,RGXUSGUSD,RGXUSG,.RGXUSGUSD
+Russell Global ex-US Small Cap Growth Index,USD,Net,End of day,,RGXUSZ,
+Russell Global ex-US Small Cap Net Return,USD,Net,End of day,RGXUSN,RGXUSQ,.RGXUSSNU
+Russell Global ex-US Small Cap Total Return,USD,Total,End of day,RGXUSTRUSD,RGXUSC,.RGXUSSTU
+Russell Global ex-US Small Cap Value,USD,Price,Real Time,RGXUSVUSD,RGXUSV,.RGXUSVUSD
+Russell Global ex-US Small Cap Value Index,USD,Net,End of day,,RGXUSW,
+Russell Global ex-US Small Cap Value Total Return,USD,Total,End of day,RGXUSVTRUSD,RGXUSX,.RGXUSVTRUSD
+Russell Global ex-US Total Return,USD,Total,End of day,RGXUTRUSD,RGXUR,.RGXUSTU
+Russell Global ex-US Value,USD,Price,Real Time,RGXUVUSD,RGXUV,.RGXUVUSD
+Russell Global ex-US Value Index,USD,Net,End of day,,RGXUW ,
+Russell Global ex-US Value Total Return,USD,Total,End of day,RGXUVTRUSD,RGXUX,.RGXUVTRUSD
+Russell Global Growth,USD,Price,Real Time,RGGUSD,RGG,.RGGUSD
+Russell Global Growth Index,USD,Net,End of day,,RGGN,
+Russell Global Growth Total Return,USD,Total,End of day,RGGTRUSD,RGGR,.RGGTRUSD
+Russell Global Growth-Defensive TR,USD,Total,End of day,RUGGDFTR,RUGOGFT,.RUGGDFTR
+Russell Global Growth-Dynamic TR,USD,Total,End of day,RUGGDYTR,RUGOGYT,.RUGGDYTR
+Russell Global Japan Small Cap,USD,Price,End of day,RGJPSCUSD,,.RGJPSCUSD
+Russell Global Japan Small Cap Growth,USD,Price,End of day,RGJPSCGUSD,,.RGJPSCGUSD
+Russell Global Japan Small Cap Growth Net Return,USD,Net,End of day,RGJPSCGNUSD,,.RGJPSCGNUSD
+Russell Global Japan Small Cap Growth Total  Return,USD,Total,End of day,RGJPSCGTUSD,,.RGJPSCGTUSD
+Russell Global Japan Small Cap Net Return,USD,Net,End of day,RGJPSCNUSD,,.RGJPSCNUSD
+Russell Global Japan Small Cap Total  Return,USD,Total,End of day,RGJPSCTUSD,,.RGJPSCTUSD
+Russell Global Japan Small Cap Value,USD,Price,End of day,RGJPSCVUSD,,.RGJPSCVUSD
+Russell Global Japan Small Cap Value Net Return,USD,Net,End of day,RGJPSCVNUSD,,.RGJPSCVNUSD
+Russell Global Japan Small Cap Value Total  Return,USD,Total,End of day,RGJPSCVTUSD,,.RGJPSCVTUSD
+Russell Global Large Cap,USD,Price,Real Time,RGLUSD,RGL,.RGLUSD
+Russell Global Large Cap Defensive,USD,Price,End of day,RUGLDF,RUGLCDF,.RUGLDF
+Russell Global Large Cap Defensive Net Return,USD,Net,End of day,RUGLDFN,RUGLCDFN,.RUGLDFN
+Russell Global Large Cap Defensive Total Return,USD,Total,End of day,RUGLDFTR,RUGLCDFT,.RUGLDFTR
+Russell Global Large Cap Dynamic,USD,Price,End of day,RUGLDY,RUGLCDY,.RUGLDY
+Russell Global Large Cap Dynamic Net Return,USD,Net,End of day,RUGLDYN,RUGLCDYN,.RUGLDYN
+Russell Global Large Cap Dynamic Total Return,USD,Total,End of day,RUGLDYTR,RUGLCDYT,.RUGLDYTR
+Russell Global Large Cap Equal Weight Net Index,USD,Net,End of day,RGLEUN,RURGLEUN,.RGLEUN
+Russell Global Large Cap Equal Weight Price Index,USD,Price,End of day,RGLEUP,RURGLEUP,.RGLEUP
+Russell Global Large Cap Equal Weight Total Index,USD,Total,End of day,RGLEUT,RURGLEUT,.RGLEUT
+Russell Global Large Cap Growth,USD,Price,End of day,RGLGUSD,RGLG,.RGLGUSD
+Russell Global Large Cap Growth Net Return,USD,Net,End of day,RGLGNRUSD,RGLZ,.RGLGNRUSD
+Russell Global Large Cap Growth Total Return,USD,Total,End of day,RGLGTRUSD,RGLCY,.RGLGTRUSD
+Russell Global Large Cap High Eff Def - Low,USD,Price,End of day,RURDWL3,RURDWL3,.RURDWL3
+Russell Global Large Cap High Eff Def - Low NR,USD,Net,End of day,RURDWL3N,RURDWL3N,.RURDWL3N
+Russell Global Large Cap High Eff Def - Low TR,USD,Total,End of day,RURDWL3T,RURDWL3T,.RURDWL3T
+Russell Global Large Cap High Eff Def - Mod,USD,Price,End of day,RURDWL6,RURDWL6,.RURDWL6
+Russell Global Large Cap High Eff Def - Mod NR,USD,Net,End of day,RURDWL6N,RURDWL6N,.RURDWL6N
+Russell Global Large Cap High Eff Def - Mod TR,USD,Total,End of day,RURDWL6T,RURDWL6T,.RURDWL6T
+Russell Global Large Cap High Eff Low Volatility Index Net,USD,Net,Real Time,RURHRLLN,RURHRLLN,.RURHRLLN
+Russell Global Large Cap High Eff Momentum Index Net,USD,Net,Real Time,RURHRLMN,RURHRLMN,.RURHRLMN
+Russell Global Large Cap High Eff Quality Index Net,USD,Net,Real Time,RURHRLQN,RURHRLQN,.RURHRLQN
+Russell Global Large Cap High Eff Value Index Net,USD,Net,Real Time,RURHRLVN,RURHRLVN,.RURHRLVN
+Russell Global Large Cap Index EUR Net,EUR,Net,End of day,,RUGLLCNE,
+Russell Global Large Cap Index GBP,GBP,Price,End of day,,RUGLLCNA,
+Russell Global Large Cap Index GBP Net,GBP,Net,End of day,,RUGLLCNP,
+Russell Global Large Cap Index JPY Net,JPY,Net,End of day,,RUGLLCNY,
+Russell Global Large Cap Net Return,USD,Net,End of day,RGLN,RGLN,.RGLNU
+Russell Global Large Cap Total Return,USD,Total,End of day,RGLTRUSD,RGLR,.RGLTU
+Russell Global Large Cap Value,USD,Price,End of day,RGLVUSD,RGLV,.RGLVUSD
+Russell Global Large Cap Value Net Return,USD,Net,End of day,RGLVNRUSD,RGLW,.RGLVNRUSD
+Russell Global Large Cap Value Total Return,USD,Total,End of day,RGLVTRUSD,RGLX,.RGLVTRUSD
+Russell Global LC High Eff Low Volatility Index,USD,Price,End of day,RURHRLL,,.RURHRLL
+Russell Global LC High Eff Momentum Index,USD,Price,End of day,RURHRLM,,.RURHRLM
+Russell Global LC High Eff Quality Index,USD,Price,End of day,RURHRLQ,,.RURHRLQ
+Russell Global LC High Eff Value Index,USD,Price,End of day,RURHRLV,,.RURHRLV
+Russell Global Midcap,USD,Price,End of day,RGMUSD,,.RGMUSD
+Russell Global Midcap Growth Index,USD,Price,End of day,RGMGUSD,,
+Russell Global Midcap Growth Net Return,USD,Net,End of day,RGMGNUSD,,
+Russell Global Midcap Growth Total Return,USD,Total,End of day,RGMGTUSD,,
+Russell Global Midcap Total Return,USD,Total,End of day,RGMTRUSD,,.RGMTRUSD
+Russell Global Midcap Value Index,USD,Price,End of day,RGMVUSD,,
+Russell Global Midcap Value Net Return,USD,Net,End of day,RGMVNUSD,,
+Russell Global Midcap Value Total Return,USD,Total,End of day,RGMVTUSD,,
+Russell Global Net Return,USD,Net,End of day,RGINRUSD,RGN,.RGINRUSD
+Russell Global RGS Consumer Discretionary,USD,Price,End of day,RGLODUSD,RGLOD,.RGLODUSD
+Russell Global RGS Consumer Discretionary Total Return,USD,Total,End of day,RGLODTRUSD,,.RGLODTRUSD
+Russell Global RGS Consumer Staples,USD,Price,End of day,RGLOSUSD,RGLOS,.RGLOSUSD
+Russell Global RGS Consumer Staples Total Return,USD,Total,End of day,RGLOSTRUSD,,.RGLOSTRUSD
+Russell Global RGS Energy,USD,Price,End of day,RGLOEUSD,RGLOE,.RGLOEUSD
+Russell Global RGS Energy Total Return,USD,Total,End of day,RGLOETRUSD,,.RGLOETRUSD
+Russell Global RGS Financial Services,USD,Price,End of day,RGLOFUSD,,.RGLOFUSD
+Russell Global RGS Financial Services Total Return,USD,Total,End of day,RGLOFTRUSD,,.RGLOFTRUSD
+Russell Global RGS Health Care,USD,Price,End of day,RGLOHUSD,,.RGLOHUSD
+Russell Global RGS Health Care Total Return,USD,Total,End of day,RGLOHTRUSD,,.RGLOHTRUSD
+Russell Global RGS Materials & Processing,USD,Price,End of day,RGLOMUSD,RGLOM,.RGLOMUSD
+Russell Global RGS Materials & Processing Total Return,USD,Total,End of day,RGLOMTRUSD,,.RGLOMTRUSD
+Russell Global RGS Producer Durables,USD,Price,End of day,RGLOPUSD,RGLOP,.RGLOPUSD
+Russell Global RGS Producer Durables Total Return,USD,Total,End of day,RGLOPTRUSD,,.RGLOPTRUSD
+Russell Global RGS Sub: REIT Total Return ,USD,Total,End of day,RUGREIT,,.RUGREIT
+Russell Global RGS Technology,USD,Price,End of day,RGLOTUSD,,.RGLOTUSD
+Russell Global RGS Technology Total Return,USD,Total,End of day,RGLOTTRUSD,,.RGLOTTRUSD
+Russell Global RGS Utilities,USD,Price,End of day,RGLOUUSD,,.RGLOUUSD
+Russell Global RGS Utilities Total Return,USD,Total,End of day,RGLOUTRUSD,,.RGLOUTRUSD
+Russell Global Small Cap,USD,Price,Real Time,RGSUSD,RGS,.RGSUSD
+Russell Global Small Cap Defensive,USD,Price,End of day,RUGSDF,RUGSCDF,.RUGSDF
+Russell Global Small Cap Defensive Net Return,USD,Net,End of day,RUGSDFN,RUGSCDFN,.RUGSDFN
+Russell Global Small Cap Defensive Total Return,USD,Total,End of day,RUGSDFTR,RUGSCDFT,.RUGSDFTR
+Russell Global Small Cap Dynamic,USD,Price,End of day,RUGSDY,RUGSCDY,.RUGSDY
+Russell Global Small Cap Dynamic Net Return,USD,Net,End of day,RUGSDYN,RUGSCDYN,.RUGSDYN
+Russell Global Small Cap Dynamic Total Return,USD,Total,End of day,RUGSDYTR,RUGSCDYT,.RUGSDYTR
+Russell Global Small Cap Growth,USD,Price,End of day,RGSGUSD,RGSCG,.RGSGUSD
+Russell Global Small Cap Growth Index Net,USD,Net,End of day,,RGSCZ,
+Russell Global Small Cap Growth Total Return,USD,Total,End of day,RGSGTRUSD,RGSCY,.RGSGTRUSD
+Russell Global Small Cap Net Return,USD,Net,End of day,RGSN,RGSN,.RGSNU
+Russell Global Small Cap Total Return,USD,Total,End of day,RGSTRUSD,RGSR,.RGSTU
+Russell Global Small Cap Value,USD,Price,End of day,RGSVUSD,RGSV,.RGSVUSD
+Russell Global Small Cap Value Index Net,USD,Net,End of day,,RGSW,
+Russell Global Small Cap Value Total Return,USD,Total,End of day,RGSVTRUSD,RGSX,.RGSVTRUSD
+Russell Global Total Return,USD,Total,End of day,RGITRUSD,RGIR,.RGITRUSD
+Russell Global Value,USD,Price,Real Time,RGVUSD,RGV,.RGVUSD
+Russell Global Value Index Net,USD,Net,End of day,,RGVN,
+Russell Global Value Total Return,USD,Total,End of day,RGVTRUSD,RGVR,.RGVTRUSD
+Russell Global Value-Defensive TR,USD,Total,End of day,RUGVDFTR,RUGOVFT,.RUGVDFTR
+Russell Global Value-Dynamic TR,USD,Total,End of day,RUGVDYTR,RUGOVYT,.RUGVDYTR
+Russell Greater China,USD,Price,End of day,RCNGUSD,RCNG,.RCNGUSD
+Russell Greater China Growth,USD,Price,End of day,RCNGGUSD,RCNGG,.RCNGGUSD
+Russell Greater China Growth Index Net,USD,Net,End of day,,RCNGZ,
+Russell Greater China Growth Total Return,USD,Total,End of day,RCNGGTRUSD,RCNGY,.RCNGGTRUSD
+Russell Greater China Index Net,USD,Net,End of day,,RCNGN,
+Russell Greater China Large Cap,USD,Price,End of day,RCNGLUSD,RCNGL,.RCNGLUSD
+Russell Greater China Large Cap Equal Weight Index,USD,Price,Real Time,RGELC,RURGELC,.RGELC
+Russell Greater China Large Cap Equal Weight Ttl Rtn,USD,Total,End of day,RGELCTR,RUGELCTR,.RGELCTR
+Russell Greater China Large Cap Growth,USD,Price,End of day,RCNGLGUSD,,.RCNGLGUSD
+Russell Greater China Large Cap Growth Total Return,USD,Total,End of day,RCNGLGTRUSD,,.RCNGLGTRUSD
+Russell Greater China Large Cap Index Net,USD,Net,End of day,,RCNGLK,
+Russell Greater China Large Cap Total Return,USD,Total,End of day,RCNGLTRUSD,RCNGLA,.RCNGLTRUSD
+Russell Greater China Large Cap Value,USD,Price,End of day,RCNGLVUSD,,.RCNGLVUSD
+Russell Greater China Large Cap Value Total Return,USD,Total,End of day,RCNGLVTRUSD,,.RCNGLVTRUSD
+Russell Greater China Small Cap,USD,Price,End of day,RCNGSUSD,RCNGS,.RCNGSUSD
+Russell Greater China Small Cap Growth,USD,Price,End of day,RCNGSGUSD,,.RCNGSGUSD
+Russell Greater China Small Cap Growth Total Return,USD,Total,End of day,RCNGSGTRUSD,,.RCNGSGTRUSD
+Russell Greater China Small Cap Index Net,USD,Net,End of day,,RCNGSQ,
+Russell Greater China Small Cap Total Return,USD,Total,End of day,RCNGSTRUSD,RCNGSC,.RCNGSTRUSD
+Russell Greater China Small Cap Value,USD,Price,End of day,RCNGSVUSD,,.RCNGSVUSD
+Russell Greater China Small Cap Value Total Return,USD,Total,End of day,RCNGSVTRUSD,,.RCNGSVTRUSD
+Russell Greater China Total Return,USD,Total,End of day,RCNGTRUSD,RCNGR,.RCNGTRUSD
+Russell Greater China Value,USD,Price,End of day,RCNGVUSD,RCNGV,.RCNGVUSD
+Russell Greater China Value Index Net,USD,Net,End of day,,RCNGW,
+Russell Greater China Value Total Return,USD,Total,End of day,RCNGVTRUSD,RCNGX,.RCNGVTRUSD
+Russell Greece,USD,Price,End of day,RGGR,,.RGGR
+Russell Greece Total Return,USD,Total,End of day,RGGRT,,.RGGRT
+Russell Hong Kong,USD,Price,End of day,RGHK,RGHK,.RGHK
+Russell Hong Kong Total Return,USD,Total,End of day,RGHKT,,.RGHKT
+Russell Hungary,USD,Price,End of day,RGHU,,.RGHU
+Russell Hungary Total Return,USD,Total,End of day,RGHUT,,.RGHUT
+Russell India,USD,Price,End of day,RGIN,RGIN,.RGIN
+Russell India Index,USD,Net,End of day,,RUINDNET,
+Russell India Large Cap Index,USD,Price,End of day,,RGINL,
+Russell India Total Return ,USD,Total,End of day,RGINT,,.RGINT
+Russell Indonesia,USD,Price,End of day,RGID,,.RGID
+Russell Indonesia Large Cap Index,LOC,Price,End of day,,RGIDL,
+Russell Indonesia Large Cap Index,LOC,Net,End of day,,RGIDLK,
+Russell Indonesia Large Cap Index,JPY,Price,End of day,,RUIDLPJY,
+Russell Indonesia Large Cap Index,JPY,Net,End of day,,RUIDLNJY,
+Russell Indonesia Total Return,USD,Total,End of day,RGIDT,,.RGIDT
+Russell Ireland,USD,Price,End of day,RGIR,,.RGIR
+Russell Ireland Total Return,USD,Total,End of day,RGIRT,,.RGIRT
+Russell Israel,USD,Price,End of day,RGIL,,.RGIL
+Russell Israel Total Return,USD,Total,End of day,RGILT,,.RGILT
+Russell Italy,USD,Price,End of day,RGIT,,.RGIT
+Russell Italy Total Return,USD,Total,End of day,RGITT,,.RGITT
+Russell Japan,USD,Price,End of day,RGJP,RGJP,.RGJP
+Russell Japan Index Net Total Return,USD,Net,End of day,RGJPNR,,.RGJPNR
+Russell Japan Total Return,USD,Total,End of day,RGJPT,,.RGJPT
+Russell JPM North America Equal Weight Large Cap,USD,Total,Real Time,RUJNAELT,,.RUJNAELT
+Russell JPM North America Equal Weight Large Cap,USD,Price,Real Time,RUJNAELP,,.RUJNAELP
+Russell JPM North America Equity 1 Price Return,USD,Price,Real Time,RUJPNAPR,,.RUJPNAPR
+Russell JPM North America Equity 1 Total Return,USD,Total,Real Time,RUJPNATR,,.RUJPNATR
+Russell Latin America,USD,Price,End of day,RLAM,RGLAM,.RLAM
+Russell Latin America Total Return,USD,Total,End of day,RLAMT,RGLAMT,.RLAMT
+Russell Luxembourg,USD,Price,End of day,RGLU,,.RGLU1
+Russell Luxembourg Total Return,USD,Total,End of day,RGLUT,,.RGLUT
+Russell Malaysia,USD,Price,End of day,RGMY,,.RGMY
+Russell Malaysia Total Return,USD,Total,End of day,RGMYT,,.RGMYT
+Russell Mexico,USD,Price,End of day,RGMX,,.RGMX
+Russell Mexico Total Return,USD,Total,End of day,RGMXT,,.RGMXT
+Russell Microcap,USD,Price,Real Time,RUMIC,RMICRO,.RUMIC
+Russell Microcap Growth,USD,Price,End of day,RUMICG,,.RUMICG
+Russell Microcap Growth Total  Return,USD,Total,End of day,RUMICGTR,,.RUMICGTR
+Russell Microcap Net GBP,GBP,Net,End of day,RUMICNRP,,.RUMICNRP
+Russell Microcap Net USD,USD,Net,End of day,RUMICNRU,,.RUMICNRU
+Russell Microcap RGS Consumer Discretionary,USD,Price,End of day,RMICCD,,.RMICCD
+Russell Microcap RGS Consumer Discretionary Total Return,USD,Total,End of day,RMICCDT,,.RMICCDT
+Russell Microcap RGS Consumer Staples,USD,Price,End of day,RMICCS,,.RMICCS
+Russell Microcap RGS Consumer Staples Total Return,USD,Total,End of day,RMICCST,,.RMICCST
+Russell Microcap RGS Energy,USD,Price,End of day,RMICENG,,.RMICENG
+Russell Microcap RGS Energy Total Return,USD,Total,End of day,RMICENGT,,.RMICENGT
+Russell Microcap RGS Financial Services,USD,Price,End of day,RMICFS,,.RMICFS
+Russell Microcap RGS Financial Services Total Return,USD,Total,End of day,RMICFST,,.RMICFST
+Russell Microcap RGS Health Care,USD,Price,End of day,RMICHC,,.RMICHC
+Russell Microcap RGS Health Care Total Return,USD,Total,End of day,RMICHCT,,.RMICHCT
+Russell Microcap RGS Materials & Processing,USD,Price,End of day,RMICMP,,.RMICMP
+Russell Microcap RGS Materials & Processing Total Return,USD,Total,End of day,RMICMPT,,.RMICMPT
+Russell Microcap RGS Producer Durables,USD,Price,End of day,RMICPD,,.RMICPD
+Russell Microcap RGS Producer Durables Total Return,USD,Total,End of day,RMICPDT,,.RMICPDT
+Russell Microcap RGS Technology,USD,Price,End of day,RMICTEC,,.RMICTEC
+Russell Microcap RGS Technology Total Return,USD,Total,End of day,RMICTECT,,.RMICTECT
+Russell Microcap RGS Utilities,USD,Price,End of day,RMICUT,,.RMICUT
+Russell Microcap RGS Utilities Total Return,USD,Total,End of day,RMICUTT,,.RMICUTT
+Russell Microcap Total Return,USD,Total,End of day,RUMICTR,RUTPMCTR,.RUMICTR
+Russell Microcap Value,USD,Price,End of day,RUMICV,,.RUMICV
+Russell Microcap Value Total  Return,USD,Total,End of day,RUMICVTR,,.RUMICVTR
+Russell Midcap,USD,Price,Real Time,RMCC,RMC,.RMCC
+Russell Midcap Defensive,USD,Price,End of day,RUMCAPDF,RUMCAPDF,.RUMCAPDF
+Russell Midcap Defensive Net,USD,Net,End of day,RUMDFNR,RUMDFNR,.RUMDFNR
+Russell Midcap Defensive Net EUR,EUR,Net,End of day,RUMDFNRE,RUMDFNRE,.RUMDFNRE
+Russell Midcap Defensive Total Return,USD,Total,End of day,RUMCDFTR,RUMCDFTR,.RUMCDFTR
+Russell Midcap Dynamic,USD,Price,End of day,RUMCAPDY,RUMCAPDY,.RUMCAPDY
+Russell Midcap Dynamic Net,USD,Net,End of day,RUMDYNR,RUMDYNR,.RUMDYNR
+Russell Midcap Dynamic Net EUR,EUR,Net,End of day,RUMDYNRE,RUMDYNRE,.RUMDYNRE
+Russell Midcap Dynamic Total Return,USD,Total,End of day,RUMCDYTR,RUMCDYTR,.RUMCDYTR
+Russell Midcap Equal Weight Index,USD,Price,Real Time,RMEMC,RURMEMC,.RMEMC
+Russell Midcap Equal Weight Total Return,USD,Total,End of day,RMEMCTR,RUMEMCTR,.RMEMCTR
+Russell Midcap Growth,USD,Price,Real Time,RMCCG,RDG,.RMCCG
+Russell Midcap Growth Net Return,USD,Net,End of day,RMCCGNR,,.RMCCGNR
+Russell Midcap Growth RGS Health Care,USD,Price,End of day,RMCGRGSHC,,.RMCGRGSHC
+Russell Midcap Growth RGS Health Care Total Return,USD,Total,End of day,RMCGRGSHCT,,.RMCGRGSHCT
+Russell Midcap Growth Total Return,USD,Total,End of day,RMCCGTR,RUMCGRTR,.RMCCGTRI
+Russell Midcap Growth-Defensive TR,USD,Total,End of day,RMCGDFTR,,.RMCGDFTR
+Russell Midcap Growth-Dynamic TR,USD,Total,End of day,RMCGDYTR,,.RMCGDYTR
+Russell Midcap Index GBP,GBP,Price,End of day,,RUMCGBHI,
+Russell Midcap Net Return,USD,Net,End of day,RMCCNR,RUMCN30U,.RUMNU
+Russell Midcap RGS Consumer Discpretionary Index Total Return,USD,Total,End of day,RMCRGSCDT,,.RMCRGSCDT
+Russell Midcap RGS Consumer Discretionary Index Price Return,USD,Price,End of day,RMCRGSCD,,.RMCRGSCD
+Russell Midcap RGS Consumer Staples Index Price Return,USD,Price,End of day,RMCRGSCS,,.RMCRGSCS
+Russell Midcap RGS Consumer Staples Index Total Return,USD,Total,End of day,RMCRGSCST,,.RMCRGSCST
+Russell Midcap RGS Energy Index Price Return,USD,Price,End of day,RMCRGSENG,,.RMCRGSENG
+Russell Midcap RGS Energy Index Total Return,USD,Total,End of day,RMCRGSENGT,,.RMCRGSENGT
+Russell Midcap RGS Financial Services Index Price Return,USD,Price,End of day,RMCRGSFS,,.RMCRGSFS
+Russell Midcap RGS Financial Services Index Total Return,USD,Total,End of day,RMCRGSFST,,.RMCRGSFST
+Russell Midcap RGS Health Care Index Price Return,USD,Price,End of day,RMCRGSHC,,.RMCRGSHC
+Russell Midcap RGS Health Care Index Total Return,USD,Total,End of day,RMCRGSHCT,,.RMCRGSHCT
+Russell Midcap RGS Materials & Processing Index Price Return,USD,Price,End of day,RMCRGSMP,,.RMCRGSMP
+Russell Midcap RGS Materials & Processing Index Total Return,USD,Total,End of day,RMCRGSMPT,,.RMCRGSMPT
+Russell Midcap RGS Producer Durables Index Price Return,USD,Price,End of day,RMCRGSPD,,.RMCRGSPD
+Russell Midcap RGS Producer Durables Index Total Return,USD,Total,End of day,RMCRGSPDT,,.RMCRGSPDT
+Russell Midcap RGS Technology Index Price Return,USD,Price,End of day,RMCRGSTEC,,.RMCRGSTEC
+Russell Midcap RGS Technology Index Total Return,USD,Total,End of day,RMCRGSTECT,,.RMCRGSTECT
+Russell Midcap RGS Utilities Index Price Return,USD,Price,End of day,RMCRGSUT,,.RMCRGSUT
+Russell Midcap RGS Utilities Index Total Return,USD,Total,End of day,RMCRGSUTT,,.RMCRGSUTT
+Russell Midcap Total Return,USD,Total,End of day,RMCCTR,RUMCINTR,.RUMTU
+Russell Midcap Value,USD,Price,Real Time,RMCCV,RMV,.RMCCV
+Russell Midcap Value Net Return,USD,Net,End of day,RMCCVNR,,.RMCCVNR
+Russell Midcap Value RGS Health Care,USD,Price,End of day,RMCVRGSHC,,.RMCVRGSHC
+Russell Midcap Value RGS Health Care Total Return,USD,Total,End of day,RMCVRGSHCT,,.RMCVRGSHCT
+Russell Midcap Value Total Return,USD,Total,End of day,RMCCVTR,RUMCVATR,.RMCCVTRI
+Russell Midcap Value-Defensive TR,USD,Total,End of day,RMCVDFTR,,.RMCVDFTR
+Russell Midcap Value-Dynamic TR,USD,Total,End of day,RMCVDYTR,,.RMCVDYTR
+Russell Midcap� Pure Growth Price,USD,Price,Real Time,RMCPGROP,RMCPGROP,.RMCPGROP
+Russell Midcap� Pure Growth Total,USD,Total,End of day,RMCPGROT,RMCPGROT,.RMCPGROT
+Russell Midcap� Pure Value Price,USD,Price,Real Time,RMCPVALP,RMCPVALP,.RMCPVALP
+Russell Midcap� Pure Value Total,USD,Total,End of day,RMCPVALT,RMCPVALT,.RMCPVALT
+Russell Mini 1000,USD,Price,Real Time,RUIMINI,,.RUIMINI
+Russell Mini 2000,USD,Price,Real Time,RUTMINI,,.RUTMINI
+Russell Morocco,USD,Price,End of day,RGMO,,.RGMO
+Russell Morocco Total Return,USD,Total,End of day,RGMOT,,.RGMOT
+Russell Netherlands,USD,Price,End of day,RGNL,,.RGNL
+Russell Netherlands Total Return,USD,Total,End of day,RGNLT,,.RGNLT
+Russell New Zealand,USD,Price,End of day,RGNZ,,.RGNZ
+Russell New Zealand Domestic ,USD,Price,End of day,RUNZDPR,,.RUNZDPR
+Russell New Zealand Domestic Net Return,USD,Net,End of day,RUNZDNR,,.RUNZDNR
+Russell New Zealand Domestic Total Return,USD,Total,End of day,RUNZDTR,,.RUNZDTR
+Russell New Zealand Total Return,USD,Total,End of day,RGNZT,,.RGNZT
+Russell North America,USD,Price,End of day,RNAM,RNAM,.RNAM
+Russell North America Index,USD,Net,End of day,,RNAMN,
+Russell North America Large Cap Index,USD,Price,End of day,,RNAML,
+Russell North America Large Cap Index,USD,Net,End of day,,RNAMLK,
+Russell North America Total Return,USD,Total,End of day,RNAMT,,.RNAMT
+Russell Norway,USD,Price,End of day,RGNO,,.RGNO
+Russell Norway Total Return,USD,Total,End of day,RGNOT,,.RGNOT
+Russell Peru,USD,Price,End of day,RGPE,,.RGPE
+Russell Peru Total Return,USD,Total,End of day,RGPET,,.RGPET
+Russell Philippines,USD,Price,End of day,RGPH,,.RGPH
+Russell Philippines Total Return,USD,Total,End of day,RGPHT,,.RGPHT
+Russell Poland,USD,Price,End of day,RGPL,,.RGPL
+Russell Poland Total Return,USD,Total,End of day,RGPLT,,.RGPLT
+Russell Portugal,USD,Price,End of day,RGPT,,.RGPT
+Russell Portugal Total Return,USD,Total,End of day,RGPTT,,.RGPTT
+Russell Russia,USD,Price,End of day,RGRU,RGRU,.RGRU
+Russell Russia Large Cap ,USD,Price,End of day,,RGRUL,
+Russell Russia Total Return,USD,Total,End of day,RGRUT,,.RGRUT
+Russell Singapore,USD,Price,End of day,RGSG,RGSG,.RGSG
+Russell Singapore Total Return,USD,Total,End of day,RGSGT,,.RGSGT
+Russell Small Cap Completeness,USD,Price,Real Time,RSCC,RSCC,.RSCC
+Russell Small Cap Completeness Growth,USD,Price,Real Time,RSCCG,RSCCG,.RSCCG
+Russell Small Cap Completeness Growth Net Return,USD,Net,End of day,RSCCGNR,,.RSCCGNR
+Russell Small Cap Completeness Growth Total Return,USD,Total,End of day,RSCCGTR,RSCCGRTR,.RSCCGTRI
+Russell Small Cap Completeness Index GBP,GBP,Price,End of day,,RSCCGBHI,
+Russell Small Cap Completeness Net Return,USD,Net,End of day,RSCCNR,,.RSCCNR
+Russell Small Cap Completeness Total Return,USD,Total,End of day,RSCCTR,RSCCINTR,.RSCCTR
+Russell Small Cap Completeness Value,USD,Price,Real Time,RSCCV,RSCCV,.RSCCV
+Russell Small Cap Completeness Value Net Return,USD,Net,End of day,RSCCVNR,,.RSCCVNR
+Russell Small Cap Completeness Value Total Return,USD,Total,End of day,RSCCVTR,RSCCVATR,.RSCCVTRI
+Russell South Africa,USD,Price,End of day,RGSA,,.RGSA
+Russell South Africa Total Return,USD,Total,End of day,RGSAT,,.RGSAT
+Russell South Korea,USD,Price,End of day,RGKR,RGKR,.RGKR
+Russell South Korea Total Return,USD,Total,End of day,RGKRT,,.RGKRT
+Russell Spain,USD,Price,End of day,RGSP,,.RGSP
+Russell Spain Total Return,USD,Total,End of day,RGSPT,,.RGSPT
+Russell Sweden,USD,Price,End of day,RGSE,,.RGSE
+Russell Sweden Total Return,USD,Total,End of day,RGSET,,.RGSET
+Russell Switzerland,USD,Price,End of day,RGSW,,.RGSW
+Russell Switzerland Total Return,USD,Total,End of day,RGSWT,,.RGSWT
+Russell Taiwan,USD,Price,End of day,RGTW,RGTW,.RGTW
+Russell Taiwan Small Cap ,TWD,Price,End of day,RGTWSCP,,.RGTWSCP
+Russell Taiwan Small Cap Technology,TWD,Price,End of day,RUTWSCTP,,.RUTWSCTP
+Russell Taiwan Small Cap TR,TWD,Total,End of day,RGTWSCT,,.RGTWSCT
+Russell Taiwan Total Return,USD,Total,End of day,RGTWT,,.RGTWT
+Russell Thailand,USD,Price,End of day,RGTH,,.RGTH
+Russell Thailand Total Return,USD,Total,End of day,RGTHT,,.RGTHT
+Russell Top 200,USD,Price,Real Time,RT200,R200,.RT200
+Russell Top 200 Defensive,USD,Price,End of day,RUT200DF,RUT200DF,.RUT200DF
+Russell Top 200 Defensive Net,USD,Net,End of day,RUTDFNR,RUTDFNR,.RUTDFNR
+Russell Top 200 Defensive Net EUR,EUR,Net,End of day,RUTDFNRE,RUTDFNRE,.RUTDFNRE
+Russell Top 200 Defensive Total Return,USD,Total,End of day,RUT2DFTR,RUTDFTR,.RUT2DFTR
+Russell Top 200 Dynamic,USD,Price,End of day,RUT200DY,RUT200DY,.RUT200DY
+Russell Top 200 Dynamic Net,USD,Net,End of day,RUTDYNR,RUTDYNR,.RUTDYNR
+Russell Top 200 Dynamic Net EUR,EUR,Net,End of day,RUTDYNRE,RUTDYNRE,.RUTDYNRE
+Russell Top 200 Dynamic Total Return,USD,Total,End of day,RUT2DYTR,RUTDYTR,.RUT2DYTR
+Russell Top 200 Growth,USD,Price,Real Time,RT200G,R200G,.RT200G
+Russell Top 200 Growth Net Return,USD,Net,End of day,RT200GNR,,.RT200GNR
+Russell Top 200 Growth Total Return,USD,Total,End of day,RT200GTR,RUTPGRTR,.RT200GTRI
+Russell Top 200 Growth-Defensive TR,USD,Total,End of day,RT2GDFTR,,.RT2GDFTR
+Russell Top 200 Growth-Dynamic TR,USD,Total,End of day,RT2GDYTR,,.RT2GDYTR
+Russell Top 200 Net Return,USD,Net,End of day,RT200NR,,.RT200NR
+Russell Top 200 RGS Consumer Discretionary Index Price Return,USD,Price,End of day,RT2RGSCD,,.RT2RGSCD
+Russell Top 200 RGS Consumer Discretionary Index Total Return,USD,Total,End of day,RT2RGSCDT,,.RT2RGSCDT
+Russell Top 200 RGS Consumer Staples Index Price Return,USD,Price,End of day,RT2RGSCS,,.RT2RGSCS
+Russell Top 200 RGS Consumer Staples Index Total Return,USD,Total,End of day,RT2RGSCST,,.RT2RGSCST
+Russell Top 200 RGS Energy Index Price Return,USD,Price,End of day,RT2RGSENG,,.RT2RGSENG
+Russell Top 200 RGS Energy Index Total Return,USD,Total,End of day,RT2RGSENGT,,.RT2RGSENGT
+Russell Top 200 RGS Financial Services Index Price Return,USD,Price,End of day,RT2RGSFS,,.RT2RGSFS
+Russell Top 200 RGS Financial Services Index Total Return,USD,Total,End of day,RT2RGSFST,,.RT2RGSFST
+Russell Top 200 RGS Health Care Index Price Return,USD,Price,End of day,RT2RGSHC,,.RT2RGSHC
+Russell Top 200 RGS Health Care Index Total Return,USD,Total,End of day,RT2RGSHCT,,.RT2RGSHCT
+Russell Top 200 RGS Materials & Processing Index Price Return,USD,Price,End of day,RT2RGSMP,,.RT2RGSMP
+Russell Top 200 RGS Materials & Processing Index Total Return,USD,Total,End of day,RT2RGSMPT,,.RT2RGSMPT
+Russell Top 200 RGS Producer Durables Index Price Return,USD,Price,End of day,RT2RGSPD,,.RT2RGSPD
+Russell Top 200 RGS Producer Durables Index Total Return,USD,Total,End of day,RT2RGSPDT,,.RT2RGSPDT
+Russell Top 200 RGS Technology Index Price Return,USD,Price,End of day,RT2RGSTEC,,.RT2RGSTEC
+Russell Top 200 RGS Technology Index Total Return,USD,Total,End of day,RT2RGSTECT,,.RT2RGSTECT
+Russell Top 200 RGS Utilities Index Price Return,USD,Price,End of day,RT2RGSUT,,.RT2RGSUT
+Russell Top 200 RGS Utilities Index Total Return,USD,Total,End of day,RT2RGSUTT,,.RT2RGSUTT
+Russell Top 200 Total Return,USD,Total,End of day,RT200TR,RUTPINTR,.RT200TR
+Russell Top 200 Value,USD,Price,Real Time,RT200V,R200V,.RT200V
+Russell Top 200 Value Net Return,USD,Net,End of day,RT200VNR,,.RT200VNR
+Russell Top 200 Value Total Return,USD,Total,End of day,RT200VTR,RUTPVATR,.RT200VTRI
+Russell Top 200 Value-Defensive TR,USD,Total,End of day,RT2VDFTR,,.RT2VDFTR
+Russell Top 200 Value-Dynamic TR,USD,Total,End of day,RT2VDYTR,,.RT2VDYTR
+Russell Top 200� Equal Weight Price,USD,Price,Real Time,RT2EWPR,RT2EWPR,.RT2EWPR
+Russell Top 200� Equal Weight Total,USD,Total,End of day,RT2EWTR,RT2EWTR,.RT2EWTR
+Russell Top 200� Pure Growth Price,USD,Price,Real Time,RT2PGROP,RT2PGROP,.RT2PGROP
+Russell Top 200� Pure Growth Total,USD,Total,End of day,RT2PGROT,RT2PGROT,.RT2PGROT
+Russell Top 200� Pure Value Price,USD,Price,Real Time,RT2PVALP,RT2PVALP,.RT2PVALP
+Russell Top 200� Pure Value Total,USD,Total,End of day,RT2PVALT,RT2PVALT,.RT2PVALT
+Russell Top 50 Mega Cap,USD,Price,Real Time,RU50,RTOP50,.RU50
+Russell Top 50 Mega Cap Net Return,USD,Net,End of day,RU50NR,,.RU50NR
+Russell Top 50 Mega Cap Total Return,USD,Total,End of day,RU50TR,RUTP50TR,.RU50TR
+Russell Turkey,USD,Price,End of day,RGTR,,.RGTR
+Russell Turkey Total Return,USD,Total,End of day,RGTRT,,.RGTRT
+Russell UK MID 150,GBP,Price,Real Time,RUKM150,,.RUKM150
+Russell UK MID 150 EUR,EUR,Price,End of day,RUKM15EP,,.RUKM15EP
+Russell UK MID 150 Net Return,GBP,Net,Real Time,RUKM150N,,.RUKM150N
+Russell UK MID 150 Net Return EUR,EUR,Net,End of day,RUKM15EN,,.RUKM15EN
+Russell UK MID 150 Net Return Official Close,GBP,Net,End of day,RUKM150NOC,,.RUKM150NOC
+Russell UK MID 150 Net Return USD,USD,Net,End of day,RUKM15UN,,.RUKM15UN
+Russell UK MID 150 Official Close,GBP,Price,End of day,RUKM150OC,,.RUKM150OC
+Russell UK MID 150 Total Return,GBP,Total,End of day,RUKM150T,,.RUKM150T
+Russell UK MID 150 Total Return EUR,EUR,Total,End of day,RUKM15ET,,.RUKM15ET
+Russell UK MID 150 Total Return USD,USD,Total,End of day,RUKM15UT,,.RUKM15UT
+Russell UK MID 150 USD,USD,Price,End of day,RUKM15UP,,.RUKM15UP
+Russell United Arab Emirates,USD,Price,End of day,RGUAE,,.RGUAE
+Russell United Arab Emirates Total Return,USD,Total,End of day,RGUAET,,.RGUAET
+Russell United Kingdom,USD,Price,End of day,RGGB,RGGB,.RGGB
+Russell United Kingdom Index Net Total Return,USD,Net,End of day,RGGBNR,,.RGGBNR
+Russell United Kingdom Large Cap Index,USD,Price,End of day,,RGGBL,
+Russell United Kingdom Total Return,USD,Total,End of day,RGGBT,,.RGGBT
+Russell World Cap ,USD,Price,End of day,RUGLWC,,.RUGLWC
+Russell World Cap Defensive,USD,Price,End of day,RUWDF,RUSWCDF,.RUWDF
+Russell World Cap Defensive Net Return,USD,Net,End of day,RUWDFN,RUSWCDFN,.RUWDFN
+Russell World Cap Defensive Total Return,USD,Total,End of day,RUWDFTR,RUSWCDFT,.RUWDFTR
+Russell World Cap Dynamic,USD,Price,End of day,RUWDY,RUSWCDY,.RUWDY
+Russell World Cap Dynamic Net Return,USD,Net,End of day,RUWDYN,RUSWCDYN,.RUWDYN
+Russell World Cap Dynamic Total Return,USD,Total,End of day,RUWDYTR,RUSWCDYT,.RUWDYTR
+Russell World Cap Net Return,USD,Net,End of day,RUGLWCN,,.RUGLWCN
+Russell World Cap Total Return,USD,Total,End of day,RUGLWCTR,,.RUGLWCTR
+Russell/Nomura Large Cap Growth Index,USD,Price,End of day,,RNIROLG,
+Russell/Nomura Large Cap Growth Index Total Return,USD,Total,End of day,,RNIRILG,
+Russell/Nomura Large Cap Index,USD,Price,End of day,,RNIROL,
+Russell/Nomura Large Cap Index Total Return,USD,Total,End of day,,RNIRIL,
+Russell/Nomura Large Cap Value Index,USD,Price,End of day,,RNIROLV,
+Russell/Nomura Large Cap Value Index Total Return,USD,Total,End of day,,RNIRILV,
+Russell/Nomura Micro Cap Growth Index,USD,Price,End of day,,RNIROMCG,
+Russell/Nomura Micro Cap Growth Index GBP,GBP,Total,End of day,,RNURMCCG,
+Russell/Nomura Micro Cap Growth Index Total Return,USD,Total,End of day,,RNIRMCCG,
+Russell/Nomura Micro Cap Index,USD,Price,End of day,,RNIROMC ,
+Russell/Nomura Micro Cap Index GBP,GBP,Price,End of day,,RNUROMC,
+Russell/Nomura Micro Cap Index Total Return,USD,Total,End of day,,RNIRIMC,
+Russell/Nomura Micro Cap Value Index,USD,Price,End of day,,RNIROMCV,
+Russell/Nomura Micro Cap Value Index Total Return,USD,Total,End of day,,RNIRMCCV,
+Russell/Nomura Mid Cap Growth Index,USD,Price,End of day,,RNIROMG,
+Russell/Nomura Mid Cap Growth Index GBP,GBP,Total,End of day,,RNURIMG,
+Russell/Nomura Mid Cap Growth Index Total Return,USD,Total,End of day,,RNIRIMG,
+Russell/Nomura Mid Cap Index,USD,Price,End of day,,RNIROM,
+Russell/Nomura Mid Cap Index Total Return,USD,Total,End of day,,RNIRIM,
+Russell/Nomura Mid Cap Value Index,USD,Price,End of day,,RNIROMV,
+Russell/Nomura Mid Cap Value Index Total Return,USD,Total,End of day,,RNIRIMV,
+Russell/Nomura Mid-Small Cap Growth Index,USD,Price,End of day,,RNIROMSG,
+Russell/Nomura Mid-Small Cap Growth Index GBP,GBP,Total,End of day,,RNUWIMSG,
+Russell/Nomura Mid-Small Cap Growth Index Total Return,USD,Total,End of day,,RNIRIMSG,
+Russell/Nomura Mid-Small Cap Growth JPY,JPY,Price,End of day,RNMSCGJP,,.RNMSCGJP
+Russell/Nomura Mid-Small Cap Growth Total  Return JPY,JPY,Total,End of day,RNMSCGJPTR,,.RNMSCGJPTR
+Russell/Nomura Mid-Small Cap JPY,JPY,Price,End of day,RNMSCJP,,.RNMSCJP
+Russell/Nomura Mid-Small Cap Total  Return JPY,JPY,Total,End of day,RNMSCJPTR,,.RNMSCJPTR
+Russell/Nomura Mid-Small Cap Total  Return USD,USD,Total,End of day,RNMSCUSDTR,RNIRIMS,.RNMSCUSDTR
+Russell/Nomura Mid-Small Cap USD,USD,Price,End of day,RNMSCUSD,RNIROMS,.RNMSCUSD
+Russell/Nomura Mid-Small Cap Value Index,USD,Price,End of day,,RNIROMSV,
+Russell/Nomura Mid-Small Cap Value Index GBP,GBP,Total,End of day,,RNURIMSV,
+Russell/Nomura Mid-Small Cap Value Index Total Return,USD,Total,End of day,,RNIRIMSV,
+Russell/Nomura Mid-Small Cap Value JPY,JPY,Price,End of day,RNMSCVJP,,.RNMSCVJP
+Russell/Nomura Mid-Small Cap Value Total  Return JPY,JPY,Total,End of day,RNMSCVJPTR,,.RNMSCVJPTR
+Russell/Nomura Prime ,USD,Price,End of day,RNPRIME,RNIROP,.RNPRIME
+Russell/Nomura PRIME Index JPY,JPY,Price,End of day,RNPRIMEJP,,.RNPRIMEJP
+Russell/Nomura Prime Index Net Return,USD,Net,End of day,,RURNPRIN,
+Russell/Nomura PRIME Index Total  Return JPY,JPY,Total,End of day,RNPRIMEJPTR,,.RNPRIMEJPTR
+Russell/Nomura Prime Total Return,USD,Total,End of day,RNPRIMETR,RNIRIP ,.RNPRIMETR
+Russell/Nomura Prime Value Index,USD,Price,End of day,,RNIROPV,
+Russell/Nomura Prime Value Index Total Return,USD,Total,End of day,,RNIRIPV,
+Russell/Nomura Small Cap,USD,Price,End of day,RNSMALL,RNIROS ,.RNSMALL
+Russell/Nomura Small Cap Core Index JPY,JPY,Price,End of day,RNSCCJP,,.RNSCCJP
+Russell/Nomura Small Cap Core Index Total  Return JPY,JPY,Total,End of day,RNSCCJPTR,,.RNSCCJPTR
+Russell/Nomura Small Cap Core Index Total  Return USD,USD,Total,End of day,RNSCCUSDTR,RNIRISC,.RNSCCUSDTR
+Russell/Nomura Small Cap Core Index USD,USD,Price,End of day,RNSCCUSD,RNIROSC,.RNSCCUSD
+Russell/Nomura Small Cap Growth Index,USD,Price,End of day,,RNIROSG,
+Russell/Nomura Small Cap Growth Index Total Return,USD,Total,End of day,,RNIRISG,
+Russell/Nomura Small Cap Growth JPY,JPY,Price,End of day,RNSCGJP,,.RNSCGJP
+Russell/Nomura Small Cap Growth Total  Return JPY,JPY,Total,End of day,RNSCGJPTR,,.RNSCGJPTR
+Russell/Nomura Small Cap JPY,JPY,Price,End of day,RNSMALLJP,,.RNSMALLJP
+Russell/Nomura Small Cap Total  Return JPY,JPY,Total,End of day,RNSMALLJPTR,,.RNSMALLJPTR
+Russell/Nomura Small Cap Total Return,USD,Total,End of day,RNSMALLTR,RNIRIS ,.RNSMALLTR
+Russell/Nomura Small Cap Value Index,USD,Price,End of day,,RNIROSV,
+Russell/Nomura Small Cap Value Index Total Return,USD,Total,End of day,,RNIRISV,
+Russell/Nomura Small Cap Value JPY,JPY,Price,End of day,RNSCVJP,,.RNSCVJP
+Russell/Nomura Small Cap Value Total  Return JPY,JPY,Total,End of day,RNSCVJPTR,,.RNSCVJPTR
+Russell/Nomura Top Cap Growth Index,USD,Price,End of day,,RNIROTG,
+Russell/Nomura Top Cap Growth Index Total Return,USD,Total,End of day,,RNIRITG,
+Russell/Nomura Top Cap Value Index,USD,Price,End of day,,RNIROTV,
+Russell/Nomura Top Cap Value Index Total Return,USD,Total,End of day,,RNIRITV,
+Russell/Nomura Total Market Index,USD,Price,End of day,,RNIROA,
+Russell/Nomura Total Market Index Total Return,USD,Total,End of day,,RNIRIA,
+Russell-IdealRatings Islamic Developed,USD,Price,Real Time,RJSDUSD,RJSD,.RJSDUSD
+Russell-IdealRatings Islamic Developed Index Net,USD,Net,End of day,,RUJSDN,
+Russell-IdealRatings Islamic Developed Total Return,USD,Total,End of day,RJSDTRUSD,RJSDR,.RJSDTRUSD
+Russell-IdealRatings Islamic Emerging Mkts,USD,Price,Real Time,RJSEUSD,RJSE,.RJSEUSD
+Russell-IdealRatings Islamic Emerging Mkts Index Net,USD,Net,End of day,,RUJSERN,
+Russell-IdealRatings Islamic Emerging Mkts Total Return,USD,Total,End of day,RJSETRUSD,RJSER,.RJSETRUSD
+Russell-IdealRatings Islamic GCC Index Total Return,USD,Total,End of day,RIGCCTRUSD,,.RIGCCTRUSD
+Russell-IdealRatings Islamic Global,USD,Price,Real Time,RJSGUSD,RJSG,.RJSGUSD
+Russell-IdealRatings Islamic Global + GCC,USD,Price,End of day,RJSPUSD,RUJSGGC,.RJSPUSD
+Russell-IdealRatings Islamic Global + GCC Total Return,USD,Total,End of day,RJSPTRUSD,RUJSGGCT,.RJSPTRUSD
+Russell-IdealRatings Islamic Global Total Return,USD,Total,End of day,RJSGTRUSD,RJSGR,.RJSGTRUSD
+Russell-IdealRatings Islamic Pan Arab Index Total Return,USD,Total,End of day,RIPATRUSD,,.RIPATRUSD
+Russell-IdealRatings Islamic Saudi Arabia Index Total Return SAR,SAR,Total,End of day,RISATRSAR,,.RISATRSAR
+Russell-IdealRatings Islamic Saudi Arabia Index Total Return USD,USD,Total,End of day,RISATRUSD,,.RISATRUSD
+Russell-IdealRatings Islamic US Large Cap Price Return,USD,Price,Real Time,RIIUSLC,,.RIIUSLC
+Russell-IdealRatings Islamic US Large Cap Total Return,USD,Total,Real Time,RIIUSLCT,,.RIIUSLCT
+Barclays-Russell 10-Year LDI Index,USD,Total,End of day,,LDI3TRUU,
+Barclays-Russell 12-Year LDI Index,USD,Total,End of day,,LDI4TRUU,
+Barclays-Russell 14-Year LDI Index,USD,Total,End of day,,LDI5TRUU,
+Barclays-Russell 16-Year LDI Index,USD,Total,End of day,,LDI6TRUU,
+Barclays-Russell 6-Year LDI Index,USD,Total,End of day,,LDI1TRUU,
+Barclays-Russell 8-Year LDI Index,USD,Total,End of day,,LDI2TRUU,
