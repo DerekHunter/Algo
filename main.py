@@ -6,60 +6,96 @@ from pybrain.structure import FullConnection
 from pybrain.supervised.trainers import BackpropTrainer
 from pybrain.datasets import SupervisedDataSet
 from random import random
+import numpy as np
+import talib
 
 
-simpleNetwork = buildNetwork(3,100,2)
+# simpleNetwork = buildNetwork(3,100,2)
 
-# simpleNetwork = RecurrentNetwork();
-# simpleNetwork.addInputModule(LinearLayer(3, name='in'))
-# simpleNetwork.addModule(TanhLayer(10, name='hidden1'))
-# # simpleNetwork.addModule(TanhLayer(10, name='hidden2'))
-# simpleNetwork.addOutputModule(SigmoidLayer(2, name='out'))
-# simpleNetwork.addConnection(FullConnection(simpleNetwork['in'], simpleNetwork['hidden1'], name='c1'))
-# # simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden1'], simpleNetwork['hidden2'], name='c2'))
-# simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden1'], simpleNetwork['out'], name='c3'))
-# simpleNetwork.sortModules()
+simpleNetwork = RecurrentNetwork();
+simpleNetwork.addInputModule(LinearLayer(2, name='in'))
+simpleNetwork.addModule(TanhLayer(10, name='hidden1'))
+simpleNetwork.addModule(TanhLayer(10, name='hidden2'))
+simpleNetwork.addOutputModule(TanhLayer(1, name='out'))
+simpleNetwork.addConnection(FullConnection(simpleNetwork['in'], simpleNetwork['hidden1'], name='c1'))
+simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden1'], simpleNetwork['hidden2'], name='c2'))
+simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden2'], simpleNetwork['out'], name='c3'))
+simpleNetwork.sortModules()
+
+ds = SupervisedDataSet(2,1)
+ds.addSample((30, 20), (1))
+ds.addSample((70, 80), (-1))
+trainer = BackpropTrainer(simpleNetwork, ds)
+trainer.trainEpochs(500)
+
+
+
 
 
 def initialize(context):
-    context.i = 0;
     context.amtOwned = 0
     context.hardTrainPhase = 500
-    context.buyData = [];
+    context.buyData = []
+    context.windowLength = 10
+    context.WindowData = {'price':[], 'volume':[], 'high':[], 'low':[]}
+    context.ticker = 'TTI'
+    context.returns = 0;
 
     print "init"
 
 
 def handle_data(context, data):
-    # print "handle"
-    price = data['TTI']['price']
-    volume = data['TTI']['volume']
-    if price == 0:
+    if data[context.ticker]['price'] == 0:
         return
-    print [price,volume]
-    output = simpleNetwork.activate([context.amtOwned,price, volume])
-    print output
-    if context.i < context.hardTrainPhase:
-        if context.amtOwned == 0:
-            if random() > .5:
-                print "buy"
-                context.buyData = [context.amtOwned,price, volume]
-                context.amtOwned = 1000
-        else:
-            if random() > .5:
-                print "sell"
-                if price - context.buyData[1] >= 0:
-                    ds = SupervisedDataSet(3,2)
-                    ds.addSample((context.buyData[0], context.buyData[1], context.buyData[2]), (1.0, 0))
-                    ds.addSample((context.amtOwned, price, volume), (0, 1.0))
-                    trainer = BackpropTrainer(simpleNetwork, ds)
-                    trainer.trainEpochs(100)
+    if len(context.WindowData['price']) < context.windowLength:
+        context.WindowData['price'].append(data[context.ticker]['price'])
+        context.WindowData['volume'].append(data[context.ticker]['volume'])
+        context.WindowData['high'].append(data[context.ticker]['high'])
+        context.WindowData['low'].append(data[context.ticker]['low'])
+    else:
 
+        high = np.asarray(context.WindowData['high'])
+        low = np.asarray(context.WindowData['low'])
+        price = np.asarray(context.WindowData['price'])
+        volume = np.asarray(context.WindowData['volume'], dtype=np.float64)
+
+        obs = []
+        # obs.append(talib.SMA(price, timeperiod=5)[-1])
+        # obs.append(talib.SMA(price, timeperiod=10)[-1])
+        obs.append(talib.RSI(price, timeperiod=8)[-1])
+        obs.append(talib.MFI(high, low, price, volume, timeperiod=5)[-1])
+        print "Obs: ",obs
+
+        output = simpleNetwork.activate(obs)
+        print "Activation: ", output
+        if context.amtOwned == 0:
+            if output >=.25:
+                print "buy"
+                context.amtOwned = 100
+                context.buyData = obs[:]
+                context.buyData.append(data[context.ticker]['price'])
+        else:
+            if output <= -.25:
+                print "sell"
+                context.returns += data[context.ticker]['price'] - context.buyData[-1]
+                if data[context.ticker]['price'] - context.buyData[-1] >= 0:
+                    ds = SupervisedDataSet(2,1)
+                    ds.addSample(context.buyData[:-1], (1))
+                    ds.addSample(obs, (-1))
+                    trainer = BackpropTrainer(simpleNetwork, ds)
+                    trainer.trainEpochs(50)
                 context.amtOwned = 0
 
-    else:
-        print "Networkout: ", simpleNetwork.activate([context.amtOwned,price, volume])
-    context.i+=1
+        context.WindowData['price'].pop(0);
+        context.WindowData['volume'].pop(0);
+        context.WindowData['high'].pop(0);
+        context.WindowData['low'].pop(0);
+        context.WindowData['price'].append(data[context.ticker]['price'])
+        context.WindowData['volume'].append(data[context.ticker]['volume'])
+        context.WindowData['high'].append(data[context.ticker]['high'])
+        context.WindowData['low'].append(data[context.ticker]['low'])
+
+        print "::::::::::::RETURNS::::::::::",context.returns
 
 
 
@@ -113,7 +149,7 @@ if __name__ == '__main__':
     from zipline.algorithm import TradingAlgorithm
     from zipline.utils.factory import load_bars_from_yahoo
 
-    tickerFile = open("russel_microcap.csv");
+    tickerFile = open("data/russel_microcap.csv");
     tickerList = [];
     for line in tickerFile:
         tickerList.append(line.split(' ')[-1].strip('\n'))
