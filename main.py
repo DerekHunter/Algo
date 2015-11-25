@@ -8,173 +8,204 @@ from pybrain.datasets import SupervisedDataSet
 from random import random
 import numpy as np
 import talib
+from datetime import datetime
+import pytz
+from zipline.algorithm import TradingAlgorithm
+from zipline.utils.factory import load_bars_from_yahoo
+import random
+from features import *
+import math
+import matplotlib.pyplot as plt
+
+plotData = {}
+revenue = []
 
 
-# simpleNetwork = buildNetwork(3,100,2)
+error = {}
 
-simpleNetwork = RecurrentNetwork();
-simpleNetwork.addInputModule(LinearLayer(2, name='in'))
-simpleNetwork.addModule(TanhLayer(10, name='hidden1'))
-simpleNetwork.addModule(TanhLayer(10, name='hidden2'))
-simpleNetwork.addOutputModule(TanhLayer(1, name='out'))
-simpleNetwork.addConnection(FullConnection(simpleNetwork['in'], simpleNetwork['hidden1'], name='c1'))
-simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden1'], simpleNetwork['hidden2'], name='c2'))
-simpleNetwork.addConnection(FullConnection(simpleNetwork['hidden2'], simpleNetwork['out'], name='c3'))
-simpleNetwork.sortModules()
+class StockPredictor:
 
-ds = SupervisedDataSet(2,1)
-ds.addSample((30, 20), (1))
-ds.addSample((70, 80), (-1))
-trainer = BackpropTrainer(simpleNetwork, ds)
-trainer.trainEpochs(500)
+	def __init__(self):
+		self.windowData = {'open':[], 'features':[]}
+		self.windowLength = 50
+		self.featureWindowLength = 25
+		self.amtOwned = 0
+		self.featureCount = 16
+
+		self.network = RecurrentNetwork()
+
+		self.network.addInputModule(LinearLayer(self.featureCount, name='in'))
+		self.network.addModule(TanhLayer(25, name='hidden_1'))
+		self.network.addModule(TanhLayer(25, name='hidden_2'))
+		self.network.addModule(TanhLayer(25, name='hidden_3'))
+		self.network.addOutputModule(TanhLayer(1, name='out'))
+
+		self.network.addConnection(FullConnection(self.network['in'], self.network['hidden_1'], name='c_1'))
+		self.network.addConnection(FullConnection(self.network['hidden_1'], self.network['hidden_2'], name='c_2'))
+		self.network.addConnection(FullConnection(self.network['hidden_2'], self.network['hidden_3'], name='c_3'))
+		self.network.addConnection(FullConnection(self.network['hidden_3'], self.network['out'], name='c_4'))
+
+		self.network.sortModules();
 
 
 
+	def AddData(self, data):
+		self.windowData['open'].append(data['open'])
+		if len(self.windowData['open']) > self.windowLength:
+			self.windowData['open'].pop(0);
+
+		if len(self.windowData['open']) == self.windowLength:
+			self.windowData['features'].append(self.CalculateFeatures())
+			if len(self.windowData['features']) > self.featureWindowLength:
+				self.windowData['features'].pop(0);
+		return
+
+	def IsReady(self):
+		return len(self.windowData['features']) == self.featureWindowLength
+
+	#This will take the current days feature and train against the value
+	def Train(self, value):
+		features = self.GetFeatures();
+		ds = SupervisedDataSet(self.featureCount,1)
+		ds.addSample(features,(value))
+		trainer = BackpropTrainer(self.network, ds)
+		return trainer.train()
+
+	def CalculateFeatures(self):
+		features = []
+		#print "WindowData: ", self.windowData['open']
+		features.append(self.windowData['open'][-1])
+		features.append(sum(self.windowData['open'])/len(self.windowData['open']))
+		features.append(np.var(np.asarray(self.windowData['open'])))
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-1])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-2])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-3])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-4])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-5])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-6])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-7])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 5)[-8])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 10)[-1])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 10)[-2])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 10)[-3])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 10)[-4])
+		features.append(talib.SMA(np.asarray(self.windowData['open']), timeperiod = 25)[-1])
+		differences  = 0;
+		for x in range(1, len(self.windowData['open'])):
+			differences += (self.windowData['open'][x-1]-self.windowData['open'][x])
+		features.append(differences/(len(self.windowData['open'])-1))
+		return features
+
+	def GetFeatures(self):
+		features = []
+		for y in range(0, self.featureCount):
+			feature = []
+			for x in range(0, len(self.windowData['features'])):
+				feature.append(self.windowData['features'][x][y])
+			if not feature:
+				featureValue = 0;
+			else:
+				featureValue = (feature[-1]-np.mean(np.asarray(feature)))/np.std(np.asarray(feature))
+			#featureValue = (feature[-1]-min(feature))/(max(feature)-min(feature))
+			features.append(featureValue)
+		return features
+
+	def Activation(self):
+		features = self.GetFeatures()
+		activation = self.network.activate(features)
+		#print "Activation: ", activation
+		return activation
 
 
 def initialize(context):
-    context.amtOwned = 0
-    context.hardTrainPhase = 500
-    context.buyData = []
-    context.windowLength = 10
-    context.WindowData = {'price':[], 'volume':[], 'high':[], 'low':[]}
-    context.ticker = 'TTI'
-    context.returns = 0;
+	# context.tickerList = ['NX','QTM','QTWW','QRHC','QUIK',
+	# 'ZQK','QNST','QUMU','RLGT','ROIAK','RSYS','RDNT','RLOG',
+	# 'RPTP','RAVE','RICK','RCMT','RLOC','RNWK']
 
-    print "init"
+	context.tickerList = ['ACTA', 'AKAO']
+
+	for ticker in context.tickerList:
+		plotData[ticker] = []
+		error[ticker] = []
+
+	context.predictors = {}
+	for ticker in context.tickerList:
+		context.predictors[ticker] = StockPredictor()
+	context.currentDay = 0;
+	context.trainingLength = 100;
+	context.capital = 0;
 
 
 def handle_data(context, data):
-    if data[context.ticker]['price'] == 0:
-        return
-    if len(context.WindowData['price']) < context.windowLength:
-        context.WindowData['price'].append(data[context.ticker]['price'])
-        context.WindowData['volume'].append(data[context.ticker]['volume'])
-        context.WindowData['high'].append(data[context.ticker]['high'])
-        context.WindowData['low'].append(data[context.ticker]['low'])
-    else:
+	context.currentDay += 1
+	for ticker in context.tickerList:
+		plotData[ticker].append(data[ticker]['close'])
+		if data[ticker]['open'] == 0:
+			continue
+		context.predictors[ticker].AddData(data[ticker])
+		change = data[ticker]['close'] - data[ticker]['open']
+		if context.currentDay > context.trainingLength:
+			activation = context.predictors[ticker].Activation();
+			print ticker,": ",activation
+			if activation > .25:
+				#print "Buy: ", data[ticker]['open'], ". Sell: ",data[ticker]['close']
+				context.capital += (math.floor(((activation-.25)/.75)*10))*change
+			elif activation < -.25:
+				#print "Sell: ", data[ticker]['open'], ". Buy: ",data[ticker]['close']
+				context.capital += (math.floor(((activation-.25)/.75)*10))*-1*change
 
-        high = np.asarray(context.WindowData['high'])
-        low = np.asarray(context.WindowData['low'])
-        price = np.asarray(context.WindowData['price'])
-        volume = np.asarray(context.WindowData['volume'], dtype=np.float64)
-
-        obs = []
-        # obs.append(talib.SMA(price, timeperiod=5)[-1])
-        # obs.append(talib.SMA(price, timeperiod=10)[-1])
-        obs.append(talib.RSI(price, timeperiod=8)[-1])
-        obs.append(talib.MFI(high, low, price, volume, timeperiod=5)[-1])
-        print "Obs: ",obs
-
-        output = simpleNetwork.activate(obs)
-        print "Activation: ", output
-        if context.amtOwned == 0:
-            if output >=.25:
-                print "buy"
-                context.amtOwned = 100
-                context.buyData = obs[:]
-                context.buyData.append(data[context.ticker]['price'])
-        else:
-            if output <= -.25:
-                print "sell"
-                context.returns += data[context.ticker]['price'] - context.buyData[-1]
-                if data[context.ticker]['price'] - context.buyData[-1] >= 0:
-                    ds = SupervisedDataSet(2,1)
-                    ds.addSample(context.buyData[:-1], (1))
-                    ds.addSample(obs, (-1))
-                    trainer = BackpropTrainer(simpleNetwork, ds)
-                    trainer.trainEpochs(50)
-                context.amtOwned = 0
-
-        context.WindowData['price'].pop(0);
-        context.WindowData['volume'].pop(0);
-        context.WindowData['high'].pop(0);
-        context.WindowData['low'].pop(0);
-        context.WindowData['price'].append(data[context.ticker]['price'])
-        context.WindowData['volume'].append(data[context.ticker]['volume'])
-        context.WindowData['high'].append(data[context.ticker]['high'])
-        context.WindowData['low'].append(data[context.ticker]['low'])
-
-        print "::::::::::::RETURNS::::::::::",context.returns
-
-
-
-
-# Note: this function can be removed if running
-# this algorithm on quantopian.com
-def analyze(context=None, results=None):
-    import matplotlib.pyplot as plt
-    import logbook
-    logbook.StderrHandler().push_application()
-    log = logbook.Logger('Algorithm')
-
-    fig = plt.figure()
-    ax1 = fig.add_subplot(211)
-    results.portfolio_value.plot(ax=ax1)
-    ax1.set_ylabel('Portfolio value (USD)')
-
-    ax2 = fig.add_subplot(212)
-    ax2.set_ylabel('Price (USD)')
-
-    # If data has been record()ed, then plot it.
-    # Otherwise, log the fact that no data has been recorded.
-    if ('AAPL' in results and 'short_mavg' in results and
-            'long_mavg' in results):
-        results['AAPL'].plot(ax=ax2)
-        results[['short_mavg', 'long_mavg']].plot(ax=ax2)
-
-        trans = results.ix[[t != [] for t in results.transactions]]
-        buys = trans.ix[[t[0]['amount'] > 0 for t in
-                         trans.transactions]]
-        sells = trans.ix[
-            [t[0]['amount'] < 0 for t in trans.transactions]]
-        ax2.plot(buys.index, results.short_mavg.ix[buys.index],
-                 '^', markersize=10, color='m')
-        ax2.plot(sells.index, results.short_mavg.ix[sells.index],
-                 'v', markersize=10, color='k')
-        plt.legend(loc=0)
-    else:
-        msg = 'AAPL, short_mavg & long_mavg data not captured using record().'
-        ax2.annotate(msg, xy=(0.1, 0.5))
-        log.info(msg)
-
-    plt.show()
-
-
+		if context.predictors[ticker].IsReady():
+			if change > 0:
+				error[ticker].append(context.predictors[ticker].Train(1))
+			elif change < 0:
+				error[ticker].append(context.predictors[ticker].Train(-1))
+	revenue.append(context.capital)
+	print "Day ",context.currentDay," profits: ", context.capital
 
 
 if __name__ == '__main__':
-    from datetime import datetime
-    import pytz
-    from zipline.algorithm import TradingAlgorithm
-    from zipline.utils.factory import load_bars_from_yahoo
+	tickerFile = open("data/russel_microcap.csv");
+	tickerList = [];
+	for line in tickerFile:
+		tickerList.append(line.split(' ')[-1].strip('\n'))
+	tickerFile.close();
+	print len(tickerList)," ticker symbols loaded"
 
-    tickerFile = open("data/russel_microcap.csv");
-    tickerList = [];
-    for line in tickerFile:
-        tickerList.append(line.split(' ')[-1].strip('\n'))
-    tickerFile.close();
-    print tickerList[0:10]
-    print len(tickerList);
+	# Set the simulation start and end dates.
+	start = datetime(2012, 1, 1, 0, 0, 0, 0, pytz.utc)
+	end = datetime(2015, 8, 1, 0, 0, 0, 0, pytz.utc)
 
-    # Set the simulation start and end dates.
-    start = datetime(2012, 1, 1, 0, 0, 0, 0, pytz.utc)
-    end = datetime(2015, 8, 1, 0, 0, 0, 0, pytz.utc)
+	# Load price data from yahoo.
+	data = load_bars_from_yahoo(stocks=tickerList, indexes={}, start=start,end=end)
+	#
+	print "Shape of the data: ",data.shape
+	print "Cleaning Data"
+	data.fillna(0, inplace=True)
+	print 'Data Cleaned'
 
-    # Load price data from yahoo.
-    data = load_bars_from_yahoo(stocks=tickerList, indexes={}, start=start,
-                           end=end)
+	# Create and run the algorithm.
+	algo = TradingAlgorithm(initialize=initialize, handle_data=handle_data,
+							 identifiers=tickerList)
+	results = algo.run(data)
 
-    print data.shape
-    data.fillna(0, inplace=True)
-    print 'cleaned'
+	 # Plot the portfolio and asset data.
+	 # analyze(results=results)
+	plt.figure(1)
+	plt.title('Algorithm performance')
+	plt.plot(revenue)
+	plt.ylabel('Profit')
+	plt.xlabel('Day')
 
+	plt.figure(2)
+	plt.title('Historic Open Pricing')
+	for ticker in plotData.iterkeys():
+		plt.plot(plotData[ticker], label=ticker)
+	plt.ylabel('Price')
+	plt.xlabel('Day')
+	plt.legend(loc='upper right')
 
+	plt.figure(3)
+	for ticker in error.iterkeys():
+		plt.plot(error[ticker], label=ticker)
 
-    # Create and run the algorithm.
-    algo = TradingAlgorithm(initialize=initialize, handle_data=handle_data,
-                             identifiers=tickerList)
-    results = algo.run(data)
-    #
-     # Plot the portfolio and asset data.
-     # analyze(results=results)
+	plt.show()
