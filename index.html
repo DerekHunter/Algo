@@ -2,36 +2,36 @@
 <html>
 
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Algo : SCM for my algorithmic trader">
+	<meta charset='utf-8'>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="description" content="Algo : SCM for my algorithmic trader">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Algorithmic Trader</title>
+	<title>Algorithmic Trader</title>
   </head>
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/DerekHunter/Algo">View on GitHub</a>
+	<!-- HEADER -->
+	<div id="header_wrap" class="outer">
+		<header class="inner">
+		  <a id="forkme_banner" href="https://github.com/DerekHunter/Algo">View on GitHub</a>
 
-          <h1 id="project_title">Algorithmic Trader</h1>
-          <h2 id="project_tagline">My Super Awesome Algorithmic Trader</h2>
+		  <h1 id="project_title">Algorithmic Trader</h1>
+		  <h2 id="project_tagline">My Super Awesome Algorithmic Trader</h2>
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/DerekHunter/Algo/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/DerekHunter/Algo/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
+			<section id="downloads">
+			  <a class="zip_download_link" href="https://github.com/DerekHunter/Algo/zipball/master">Download this project as a .zip file</a>
+			  <a class="tar_download_link" href="https://github.com/DerekHunter/Algo/tarball/master">Download this project as a tar.gz file</a>
+			</section>
+		</header>
+	</div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
+	<!-- MAIN CONTENT -->
+	<div id="main_content_wrap" class="outer">
+	  <section id="main_content" class="inner">
+		<h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is algorithmic trading?</h3>
 
 <p>Algorithmic trading is using software to control every aspect of a trading process, from collecting data to making decisions based on that data, and executing those trades. More
@@ -39,42 +39,52 @@ information can be <a href="https://en.wikipedia.org/wiki/Algorithmic_trading">h
 
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h3>
-<p>This trader executes a very simple strategy of buying on open and selling on close. It pulls historical data from yahoo finance and uses the backtester zipline
-to execute the backtesting. The decision processes is handled by a neural network.</p>
+<p> Most college students don't have the capital required to do trading in the stock market. With commmission fees as high as $10 per trade that just completely destroys any chance of making money with less than $1000.
+That's where <a href = "https://www.robinhood.com/">Robinhood</a> comes in. With $0 trades this opens up opportunity to make money with low capital. The goal of this project is to work alongside Robinhood
+for smarter investing. The general goal is to create a piece of software that will get todays stock data information, and give the user a prediction on closing prices of stocks
+The user then executes the trades manually in the morning, and at the end of the day sells their holdings.</p>
+
+<p>This software has two pieces. The backtester which is given a start and end date, and  will run through each of those days like a live day and make predictions and simulate trades.
+The second piece is for a user to do real trading. This piece is given todays date, and will generate a prediction on what it thinks the closing price will be.</p>
 
 <h5>Tools</h5>
 <ul>
-    <li><a href="http://www.zipline.io/">Zipline</a></li>
-    <li><a href="http://pybrain.org/">Pybrain</a></li>
+	<li><a href="http://numpy.org/">Numpy</a></li>
+	<li><a href="http://scipy.org/">Scipy</a></li>
+	<li><a href="http://pandas.pydata.org/">Pandas</a></li>
+	<li><a href="http://pybrain.org/">Pybrain</a></li>
+	<li><a href="http://scikit-learn.org/stable/">Sklearn</a></li>
+	<li><a href="https://pypi.python.org/pypi/TA-Lib">talib</a></li>
 </ul>
+
 <h5>Methods</h5>
-<p>As mentioned earlier the trader implements the the strategy of buy on open sell on close. The trader starts buy loading in a list of ticker symbols.
-Once it has a list of ticker symbols it will download the historical data from yahoo finance this list of tickers and data become the 'universe' as defined by zipline.
-Now that we have our universe, the trader then looks at a subset of the universe, and at the begining of every day for each stock askes "Should I buy this", if it's yes
-then the trader buys the stock, otherwise it ignores it. Then, at the end of each day it liquidates all it's holdings and collects profits(or more likely.. losses).</p>
+<p>As mentioned earlier the trader implements the the strategy of buy on open sell on close. The backtester gives the prediction engine a day and ticker symbol. The engine then
+goes and downloads a few months of bar data from yahoo finance and with that generates a set of features for each day in the training data, and uses that to train the neural network.
+From there it takes todays current information and feeds that into the neural network to make a prediction on todays closing price of the stock.</p>
 
-<h5>Training</h5>
-<p>The training processes has two parts. The first part is a data collection process, where models have knowledge of a window of the data.</p>
+<p> If this is running in the backtester the backtester then looks at if that's higher than todays open price. It simulates a buy and sell action and adds the result to it's capital.</p>
+<p> If it is running in live mode it simply displays the predictions.</p>
 
-<h3>
-<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Purpose</h3>
 
-<p>Because I'm a broke college student, and maybe, just maybe, artificial intelligence will make me money in the stock market.</p>
+<h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results</h3>
+<p>As it turns out, there's a good reason quantitative analysts get paid a lot of money to try and model the stock market, and that's because it's really not easy to do.</p>
 
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+<h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Looking Ahead</h3>
+<p>I think the biggest problem with my idea was that it's essentially trying to scalp on daily movements. I think the best way instead of implementing a fixed policy like
+buy on open sell on close one should build in flexibility for instance trying to model out the next 3 or 4 days instead of just 7 hours from now.</p>
 
+<h3><a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 <p>Me</p>
-      </section>
-    </div>
+	  </section>
+	</div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Algo maintained by <a href="https://github.com/DerekHunter">DerekHunter</a></p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+	<!-- FOOTER  -->
+	<div id="footer_wrap" class="outer">
+	  <footer class="inner">
+		<p class="copyright">Algo maintained by <a href="https://github.com/DerekHunter">DerekHunter</a></p>
+		<p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+	  </footer>
+	</div>
 
 
 
