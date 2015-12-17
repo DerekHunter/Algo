@@ -8,7 +8,7 @@
 
 	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-	<title>Algorithmic Trader</title>
+	<title>PyTrader</title>
   </head>
 
   <body>
@@ -18,8 +18,8 @@
 		<header class="inner">
 		  <a id="forkme_banner" href="https://github.com/DerekHunter/Algo">View on GitHub</a>
 
-		  <h1 id="project_title">Algorithmic Trader</h1>
-		  <h2 id="project_tagline">My Super Awesome Algorithmic Trader</h2>
+		  <h1 id="project_title">PyTrader</h1>
+		  <h2 id="project_tagline">A neural network based algorithmic trading helper.</h2>
 
 			<section id="downloads">
 			  <a class="zip_download_link" href="https://github.com/DerekHunter/Algo/zipball/master">Download this project as a .zip file</a>
@@ -65,16 +65,29 @@ From there it takes todays current information and feeds that into the neural ne
 <p> If this is running in the backtester the backtester then looks at if that's higher than todays open price. It simulates a buy and sell action and adds the result to it's capital.</p>
 <p> If it is running in live mode it simply displays the predictions.</p>
 
+<h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Usage</h3>
+<p>To use this simply put the tickers you want into ticker.csv then run the daily_prediction.py script to get the predictions for the current day(note: if you run it after market closes the predictions
+	will still be for that day, you can use this to check performance of the algo). It will then give you an output of your tickers and their predicted close price for that day.</p>
+<p>
+	Running the backtester is a little bit more involved. You will need to open the backtest.py file and manually change the timeframe object to set hte start and end date. The rest is the same, and the algo.
+	Simply modify tickers.csv to contain the tickers you're interested in, then run backtester.py. This will then give you an output of the day in the backtest, the date of that day, current capital, and for each day
+	it will give the the ticker, it's open, close, change, prediction, error, and pct error. At the end of the full backtest it will show you plot of the traders account value over that duration of the backtest.
+</p>
 
 <h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results</h3>
-<p>As it turns out, there's a good reason quantitative analysts get paid a lot of money to try and model the stock market, and that's because it's really not easy to do.</p>
-
+<p>As it turns out, there's a good reason quantitative analysts get paid a lot of money to try and model the stock market, and that's because it's really not easy to do.
+Shown belown is the backtest over a 6th month period from March to September 2015. As you can see, the algorithm really doesn't perform all that well. It kind of does okay
+early but really falls off later on. The biggest conclusion to draw is don't trust this program with actual money, you're gonna have a bad time.</p>
+<figure>
+  <img src="results.png" alt="Results of Backtest">
+  <figcaption>The algorithm peaks at about $10200 then drops to around $9500 </figcaption>
+</figure>
 <h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Looking Ahead</h3>
 <p>I think the biggest problem with my idea was that it's essentially trying to scalp on daily movements. I think the best way instead of implementing a fixed policy like
 buy on open sell on close one should build in flexibility for instance trying to model out the next 3 or 4 days instead of just 7 hours ahead</p>
 
 <h3><a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-<p>Me</p>
+<p>Derek Hunter</p>
 	  </section>
 	</div>
 
